@@ -1,3 +1,11 @@
+Napisać:
+
+**Migracja:**
+
+**Kto kontroluje:**
+
+**Koszty:**
+
 # Domeny
 
 # Github

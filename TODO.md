@@ -6,6 +6,12 @@ Chcemy założyć stowarzyszenie, ale nie jesteśmy pewni, czy rozumiemy wszystk
 konsekwencje. Przydałoby się też, żeby ktoś nam przejrzał statut, który
 napiszemy i zasugerował poprawki.
 
+## Rachunkowości
+
+Kiedy staniemy się stowarzyszeniem, będziemy potrzebowali pomocy z kwestiami
+księgowymi - głównie składki. Priorytetem jest żeby nie dostać kary od
+skarbówki.
+
 ## Media (w tym social media)
 
 Potrzebujemy, żeby dowiedziało się o nas jak najwięcej hakerów z Łodzi
@@ -19,7 +25,9 @@ Przydałby nam się plakat.
 ## Dev Ops
 
 Fajnie byłoby ogarnąć sensowny deployment naszych projektów - może jakiś
-k8s.
+k8s. Przydałby się wygodny sposób odpalania naszych projektów, tak żeby w
+momencie kiedy będziemy mieli hosting każdy mógł łatwo uruchomić kolejną
+webappkę na oddzielnej subdomenie i nią zarządzać.
 
 # Przestrzeń
 
