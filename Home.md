@@ -3,8 +3,13 @@ Hakierspejs
 
 To jest testowe wiki Hakierspejsu. Na razie nie ma tu zbyt wiele. Spis treści:
 
+<!--
+
+ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
+
+-->
+
 ## [[Finanse]]
-## [[Home]]
 ## [[Infrastruktura]]
 ## [[O nas]]
 ## [[Projekty]]
