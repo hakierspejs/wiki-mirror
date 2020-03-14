@@ -12,13 +12,14 @@ Napisać:
 
 # Meetup
 
-# Telegram/IRC
+# Telegram
+# IRC
 
 # Shitposty
 
 # Lista mailingowa
 
-# Bot
+# Boty
 
 # Hosting
 
