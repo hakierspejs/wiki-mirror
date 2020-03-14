@@ -49,4 +49,5 @@ Oczekiwania co do przestrzeni:
 - [ ] kilka osób może mieć klucz
 - [ ] łatwy dojazd
 - [ ] stać nas na nią
+- [ ] internet, prąd
 - [ ] ...?
