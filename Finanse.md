@@ -1,3 +1,8 @@
+# Zrzuty
+
+- meetup
+- naklejki
+
 # Meetup
 
 # Domeny
