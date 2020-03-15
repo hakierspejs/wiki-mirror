@@ -20,7 +20,8 @@ i liceów i dać znać, że istniejemy. Nawiązać lepszy kontakt z innymi HSami
 
 ## Graficznych
 
-Przydałby nam się plakat.
+Przydałby nam się plakat z przekazem typu "już istniejemy", do
+zawieszenia w HSach. I może jakiś mówiący o naszych spotkaniach.
 
 ## Dev Ops
 
