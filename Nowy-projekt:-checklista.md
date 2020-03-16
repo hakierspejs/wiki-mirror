@@ -5,4 +5,5 @@
 - [ ] dodać gitignore
 - [ ] dodać dockerignore
 - [ ] ustawić CI z linterami
+- [ ] włączyć "Automatically delete head branches"
 - [ ] dodać do issues dalszy plan projektu
