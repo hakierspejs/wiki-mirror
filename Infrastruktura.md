@@ -41,6 +41,7 @@ Domenę hakierspejs.pl zarejestrował d33tah, żeby nikt jej nam nie zasiedział
 **Migracja:** w OVH migracja .pl nie jest płatna. MicroHost wg swojego cennika też nie bierze nic za taką usługę nic. Źródła:
 
 https://www.ovh.pl/domeny/cennik/
+
 https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Github
