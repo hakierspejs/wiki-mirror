@@ -9,10 +9,10 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 
 -->
 
-## [[Finanse]]
-## [[Infrastruktura]]
-## [[Nowy projekt: checklista]]
-## [[O nas]]
-## [[Projekty]]
-## [[Spotkania]]
-## [[TODO]]
+## [[Finanse]] (TODO)
+## [[Infrastruktura]] (1/11)
+## [[Nowy projekt: checklista]] (DONE)
+## [[O nas]] (0/2)
+## [[Projekty]] (0/7)
+## [[Spotkania]] (0/3)
+## [[TODO]] (DONE)
