@@ -46,13 +46,13 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Github
 
-**Opis/zastosowanie**
+**Opis/zastosowanie:** Repozytorium gita na projekty, które rozwijają członkowie hakierspejsu i nie tylko. Rozważaliśmy hostowanie własnego serwisu (Gogs, Gitea), ale korzystanie z Githuba otwiera nasze repozytoria na kontrybucje z zewnątrz.
 
-**Koszty:**
+**Koszty:** null.
 
-**Migracja:**
+**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis. Gogs ma nawet możliwośc automatycznej migracji repozytoriów.
 
-**Kto kontroluje:**
+**Kto kontroluje:** Każdy członek Hakierspejsu może zostać dodany do grupy na GitHubie. Pull requesty może słać dosłownie każdy, na takiej samej zasadzie jak na każdym innym repozytorium na GitHubie. Patche mergujemy po pozytywnym code review (każdy członek HS'u może takie przeprowadzić).
 
 # Meetup
 
