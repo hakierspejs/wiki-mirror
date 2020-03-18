@@ -1,7 +1,5 @@
-Hakierspejs
-===========
-
-Spis treści:
+Hakierspejs - spis treści
+=========================
 
 <!--
 
