@@ -59,8 +59,22 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 # Telegram
 
 # Mumble
+**Opis/zastosowanie:** Serwer do rozmów głosowych dostępny pod domeną `junkcc.net`
+
+**Koszty:** 0 zł / miesiąc, jako iż serwer jest już wykorzystywany jako serwer gier
+
+**Migracja:** Kwestia przeniesienia konfiguracji (o ile jest co przenosić)
+
+**Kto kontroluje:** @BluRaf
 
 # IRC
+**Opis/zastosowanie:** Kanał IRC #hakierspejs dostępny w sieci Freenode (`chat.freenode.net`) zmostkowany z czatem na Telegramie.
+
+**Koszty:** 0 zł / miesiąc
+
+**Migracja:** -
+
+**Kto kontroluje:** @BluRaf @d33tah (operatorzy)
 
 # Shitposty
 
