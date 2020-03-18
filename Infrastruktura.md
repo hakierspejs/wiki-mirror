@@ -50,9 +50,9 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 **Koszty:** null.
 
-**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis. Gogs ma nawet możliwośc automatycznej migracji repozytoriów.
+**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis. Gogs ma nawet możliwość automatycznej migracji repozytoriów.
 
-**Kto kontroluje:** Każdy członek Hakierspejsu może zostać dodany do grupy na GitHubie. Pull requesty może słać dosłownie każdy, na takiej samej zasadzie jak na każdym innym repozytorium na GitHubie. Patche mergujemy po pozytywnym code review (każdy członek HS'u może takie przeprowadzić).
+**Kto kontroluje:** Każdy członek Hakierspejsu może zostać dodany do grupy na GitHubie. Pull requesty może słać dosłownie każdy, na takiej samej zasadzie jak na każdym innym repozytorium na GitHubie. Patche mergujemy po pozytywnym code review (każdy członek HS'u może takie przeprowadzić). Członków może dodawać d33tah, który ma też we wszystkich repozytoriach rolę admina.
 
 # Meetup
 
