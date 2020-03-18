@@ -1,7 +1,7 @@
 Hakierspejs
 ===========
 
-To jest testowe wiki Hakierspejsu. Na razie nie ma tu zbyt wiele. Spis treści:
+Spis treści:
 
 <!--
 
