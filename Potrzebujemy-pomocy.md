@@ -12,6 +12,10 @@ Kiedy staniemy się stowarzyszeniem, będziemy potrzebowali pomocy z kwestiami
 księgowymi - głównie składki. Priorytetem jest żeby nie dostać kary od
 skarbówki.
 
+## "Protokolant"
+
+Przydałoby się mieć jakąś "pamiątkę" po naszych spotkaniach - informację dla ludzi, którzy nie byli na żadnym spotkaniu, ale chcieliby wiedzieć co się dzieje. Nawet krótka notatka na listę mailingową byłaby dużo lepsza niż totalnie nic.
+
 ## Media (w tym social media)
 
 Potrzebujemy, żeby dowiedziało się o nas jak najwięcej hakerów z Łodzi
