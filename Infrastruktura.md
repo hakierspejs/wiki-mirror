@@ -58,6 +58,14 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Telegram
 
+**Opis/zastosowanie:** Podstawowe narzędzie komunikacji. Dołączyć do grupy może każdy pod tym [linkiem](https://t.me/hakierspejs). Telegram to dobry kompromis jako narzędzie do komunikacji dla hackerów (aplikacje dla klientów mają otwarty kod źródłowy). Jednocześnie, jeżeli ktoś czuje się bardziej komfortowo z IRC, to może dalej z niego korzystać. Bramka, która wymienia wiadomości między IRC a grupą na Telegramie, zadba o reszte.
+
+**Koszty:** 0 zł / miesiąc, każdy może założyć swoją własną grupę na serwerach Telegrama i zapraszać do niej ludzi.
+
+**Migracja:** Niemozliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują.
+
+**Kto kontroluje:** @d33tah
+
 # Mumble
 **Opis/zastosowanie:** Serwer do rozmów głosowych dostępny pod domeną `junkcc.net`
 
