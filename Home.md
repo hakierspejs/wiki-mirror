@@ -15,4 +15,4 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 ## [[O nas]] (0/2)
 ## [[Projekty]] (0/7)
 ## [[Spotkania]] (0/3)
-## [[TODO]] (DONE)
+## [[Potrzebujemy pomocy]]
