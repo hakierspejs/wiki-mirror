@@ -89,6 +89,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 # Lista mailingowa
 
 # Boty
+* mariusz
 
 # Hosting
 
