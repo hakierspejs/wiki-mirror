@@ -15,3 +15,4 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 ## [[Roadmapa]]
 ## [[Spotkania]] (0/3)
 ## [[Potrzebujemy pomocy z...]]
+## [[Wartości HSŁ]]
