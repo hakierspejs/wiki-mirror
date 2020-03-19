@@ -28,9 +28,9 @@
 
 # Homepage
 
-**Opis:**
+**Opis:** Strona domowa Łódzkiego Hakierspejsu. Możecie znaleźć ją pod tym [linkiem](https://lodz.hackerspace.pl/). Strona jest statyczna i stoi na [GitHub Pages](https://pages.github.com/), więc zasilą ja [jekyll](https://jekyllrb.com/).
 
-**Stan:**
+**Stan:** Strona spełnia swoje zadanie, ale jeśli znajdzie się jakiś front-endowy czarodziej, który ogarnie temat i stworzy nam jakiś własny theme to na pewno nikt nie będzie go zatrzymywał.
 
 
 # meetupscraper
