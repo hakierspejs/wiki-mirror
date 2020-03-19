@@ -19,9 +19,4 @@ Zobacz sekcję: [[Miejsce]]
 
 Oczekiwania co do przestrzeni:
 
-- [ ] możemy być 24h/dobę (hałas)
-- [ ] kilka osób może mieć klucz
-- [ ] łatwy dojazd
-- [ ] stać nas na nią
-- [ ] internet, prąd
-- [ ] ...?
+(przeniesiono do [[Miejsce#wymagania]]
