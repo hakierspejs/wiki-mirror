@@ -6,7 +6,7 @@
 
 ## OPUS
 
-* Łódź, Narutowicza 8/10 (dawny Empik), po schodach na I piętro i korytarzem w prawo, salka po lewej
+* Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
 * spotkania co 2 tyg. w środy o 17
 
 ## 6 dzielnica
