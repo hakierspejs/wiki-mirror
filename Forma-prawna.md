@@ -42,6 +42,10 @@ Potrzebujemy 7-9 osób, z czego 3 które chcą być w zarządzie i 3 którzy chc
 
 Opinia d33taha: nie przykładałbym do tego zbyt dużej wagi. Wystarczy jakiś potworek a'la pół statutu z HSWaw i pół z HSWro. Byleby przeszło w sądzie.
 
+## Zapis w sądzie, poprawki statutu, czekanie
+
+Podobno rejestracja stowarzyszenia trwa dość długo.
+
 ## Zabezpieczenie kwestii księgowych
 
 Nie chcemy mieć problemu ze skarbówką. Dobrze byłoby obgadać z kimś kto ogarnia księgowość typowe scenariusze: zrzuty na usługi i czynsz, opłaty, zarządzanie nadwyżką, kwestie bankowe.
