@@ -99,9 +99,11 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Boty
 * mariusz
+
 **Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem
 
 * Konfident
+
 **Opis/zastosowanie:** transport między Telegramem a IRC-em
 
 # Hosting
