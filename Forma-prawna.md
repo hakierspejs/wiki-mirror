@@ -14,8 +14,6 @@
 
 # Stowarzyszenie czy fundacja?
 
-**TODO**: dać info o tym czy to fundacja czy stowarzyszenie, podlinkować do statutu
-
 Porównanie z innymi HSami:
 
 ## Kraków
