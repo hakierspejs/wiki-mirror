@@ -10,7 +10,7 @@ Praktycznie wszyscy mamy "syndrom oszusta" - przekonanie, że nie jesteśmy wyst
 
 ## Otwartość
 
-Rozumiana zarówno jako minimum barier wejścia do organizacji, inkluzywność i sens naszego istnienia jako organizacji: wolna i otwarta kultura. Więcej info tutaj: https://pl.wikipedia.org/wiki/Ruch_wolnej_kultury
+Rozumiana zarówno jako minimum barier wejścia do organizacji, inkluzywność i sens naszego istnienia jako organizacji: wolna i otwarta kultura. Więcej info [tutaj](https://pl.wikipedia.org/wiki/Ruch_wolnej_kultury).
 
 ## Egalitaryzm / "do-ocracy"
 
@@ -24,8 +24,8 @@ Bycie hakerem to bycie ciekawym tego, jak rzeczy działają i jak jeszcze mogły
 
 Wiedzą, towarzystwem, kodem, naklejkami. Budujemy nasze rozwiązania zwykle na wolnych i otwartych projektach i czynimy, żeby nasze też takie były.
 
-Doczytaj o kulturze darów: https://pl.wikipedia.org/wiki/Kultura_dar%C3%B3w
+Doczytaj o kulturze darów [tutaj](https://pl.wikipedia.org/wiki/Kultura_dar%C3%B3w).
 
 ## Kultura hakerów
 
-Z definiowaniem hakera jest jak z definiowaniem sztuki: ogólny konsensus jest taki, że jedna definicja nie wystarczy, bo żadna nie oddaje tej koncepcji w całości. Jest za to parę punktów wspólnych. Więcej info tutaj: https://pl.wikipedia.org/wiki/Spo%C5%82eczno%C5%9B%C4%87_haker%C3%B3w
+Z definiowaniem hakera jest jak z definiowaniem sztuki: ogólny konsensus jest taki, że jedna definicja nie wystarczy, bo żadna nie oddaje tej koncepcji w całości. Jest za to parę punktów wspólnych. Więcej info [tutaj](https://pl.wikipedia.org/wiki/Spo%C5%82eczno%C5%9B%C4%87_haker%C3%B3w).
