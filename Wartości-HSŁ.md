@@ -14,7 +14,7 @@ Rozumiana zarówno jako minimum barier wejścia do organizacji, inkluzywność i
 
 ## Egalitaryzm / "do-ocracy"
 
-Staramy się dążyć do sytuacji, w której lider jest zastępowalny i ingeruje jak najmniej. Członkowie HSu mają równe prawo do wyrażenia swojego zdania i postępowania zgodnie ze swoimi przekonaniami. Czyli: jeśli czegoś ci brakuje, uważasz że coś powinno być zrobione i widzisz że nikt tego nie rusza: po prostu zacznij. Władzę ma ten, kto robi rzeczy.
+Staramy się dążyć do sytuacji, w której lider jest zastępowalny i ingeruje jak najmniej. Członkowie HSu mają równe prawo do wyrażenia swojego zdania i postępowania zgodnie ze swoimi przekonaniami. Czyli: jeśli czegoś ci brakuje, uważasz że coś powinno być zrobione i widzisz że nikt tego nie rusza: po prostu zacznij. Władzę ma ten, kto robi rzeczy. Mówiąc inaczej: "it's better to ask forgiveness than permission".
 
 ## Ciągłe eksperymentowanie
 
