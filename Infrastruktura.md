@@ -98,12 +98,10 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 **Kto kontroluje:** @d33tah
 
 # Boty
-* mariusz
-
+## mariusz
 **Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem
 
-* Konfident
-
+## Konfident
 **Opis/zastosowanie:** transport między Telegramem a IRC-em
 
 # Hosting
