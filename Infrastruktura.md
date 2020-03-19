@@ -87,6 +87,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 # Shitposty
 
 # Lista mailingowa
+* [https://lists.hackerspace.pl/pipermail/lodz/]
 
 # Boty
 * mariusz
