@@ -19,4 +19,4 @@ Zobacz sekcję: [[Miejsce]]
 
 Oczekiwania co do przestrzeni:
 
-(przeniesiono do [[Miejsce#wymagania]]
+(przeniesiono do [[Miejsce#wymagania]])
