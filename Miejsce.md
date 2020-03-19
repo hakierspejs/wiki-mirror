@@ -2,6 +2,24 @@ Luźne notatki na temat poszukiwań lokalu.
 
 Dyskusja zaczęła się od tego posta: https://lists.hackerspace.pl/pipermail/lodz/2020-March/000030.html
 
+# Wymagania
+
+Konieczne:
+
+* możemy być 24h/dobę (hałas)
+* kilka osób może mieć klucz
+* łatwy dojazd
+* stać nas na nią
+* internet, prąd
+* ...?
+
+"Fajnie byłoby":
+
+* managed kibelek
+* możliwość dalszej ekspansji w budynku
+* możliwość wnoszenia dużego sprzętu
+* możliwość zamontowania własnego elektrozaczepu
+
 # Meblowanie
 
 Podobno nie powinno się dzielić skóry na niedźwiedziu, ale wyobraźmy sobie, że mamy już przestrzeń. Jakie koszty powinniśmy wziąć pod uwagę, żeby było nam tam dobrze?
