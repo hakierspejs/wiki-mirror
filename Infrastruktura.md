@@ -89,8 +89,20 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 # Lista mailingowa
 * [https://lists.hackerspace.pl/pipermail/lodz/](https://lists.hackerspace.pl/pipermail/lodz/)
 
+**Opis/zastosowanie:** dzielenie się informacjami o bieżących planach/wydarzeniach/co się dzieje
+
+**Koszty:** 0
+
+**Migracja:** stoi na Pipermail 0.09
+
+**Kto kontroluje:** @d33tah
+
 # Boty
 * mariusz
+**Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem
+
+* Konfident
+**Opis/zastosowanie:** transport między Telegramem a IRC-em
 
 # Hosting
 
