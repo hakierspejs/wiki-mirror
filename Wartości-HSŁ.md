@@ -12,6 +12,10 @@ Praktycznie wszyscy mamy "syndrom oszusta" - przekonanie, że nie jesteśmy wyst
 
 Rozumiana zarówno jako minimum barier wejścia do organizacji, inkluzywność i sens naszego istnienia jako organizacji: wolna i otwarta kultura. Więcej info [tutaj](https://pl.wikipedia.org/wiki/Ruch_wolnej_kultury).
 
+## Równość
+
+W Łódzkim Hakierspejsie wszyscy są równi, pomimo tego, że jesteśmy różni. Bez względu na to jak się identyfikujesz i jak postrzegają Cię inni, możesz liczyć na nasz szacunek.
+
 ## Egalitaryzm / "do-ocracy"
 
 Staramy się dążyć do sytuacji, w której lider jest zastępowalny i ingeruje jak najmniej. Członkowie HSu mają równe prawo do wyrażenia swojego zdania i postępowania zgodnie ze swoimi przekonaniami. Czyli: jeśli czegoś ci brakuje, uważasz że coś powinno być zrobione i widzisz że nikt tego nie rusza: po prostu zacznij. Władzę ma ten, kto robi rzeczy. Mówiąc inaczej: "it's better to ask forgiveness than permission".
