@@ -6,7 +6,7 @@ _Poniżej jest tylko szkic opisu wartości. Potrzeba go rozwinąć. Nie krępuj 
 
 Większość z nas już ma jakąś pracę i ostatnie czego chce, to twardych deadline'ów, surowych code review i negatywnych konsekwencji za złamanie standardów na temat tego, jak się ubierać, mówić czy co robić. Jasne, obowiązują nas wszystkich normy społeczne, ale w wersji lekko poluzowanej.
 
-Praktycznie wszyscy mamy "syndrom oszusta" - przekonanie, że nie jesteśmy wystarczająco dobrzy, bo wiemy o ile jeszcze moglibyśmy być lepsi. Sam HS powstał dlatego, że ktoś stwierdził "chrzanię to, spróbujmy prowizorki" zamiast czekać aż zrobi to ktoś lepiej. Obniżenie oczekiwań na początku odbiera trochę niepotrzebnego stresu. Robienie rzeczy źle jest OK.
+Praktycznie wszyscy mamy "syndrom oszusta" - przekonanie, że nie jesteśmy wystarczająco dobrzy, bo wiemy o ile jeszcze moglibyśmy być lepsi. Sam HS powstał dlatego, że ktoś stwierdził "chrzanię to, spróbujmy prowizorki" zamiast czekać aż zrobi to ktoś lepiej. Obniżenie oczekiwań na początku odbiera trochę niepotrzebnego stresu. Odzwierciedlenie tej koncepcji znajduje się także w naszej autoironicznej nazwie organizacji.
 
 ## Otwartość
 
