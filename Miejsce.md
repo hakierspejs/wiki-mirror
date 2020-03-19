@@ -44,7 +44,7 @@ Absolutne minimum to czajnik elektryczny. Fajnie byłoby móc coś ugotować, w
 
 ## Elektronika
 
-Multimetr? Oscyloskop? Lutownica? Jakieś arduino/esp8266, kabelki, podstawowe elementy układów elektrycznych: płytki stykowe, zworki, rezystory itd. Ekran, klawiatura i myszka USB. Przedłużacze do prądu. Finansowo to jest worek bez dna.
+Multimetr? Oscyloskop? Lutownica? Jakieś arduino/esp8266, kabelki, podstawowe elementy układów elektrycznych: płytki stykowe, zworki, rezystory itd. Ekran, klawiatura i myszka USB. Przedłużacze do prądu. Ledstripy. Więcej ledstripów. Finansowo to jest worek bez dna.
 
 Z rzeczy droższych: drukarka, drukarka 3D.
 
