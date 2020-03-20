@@ -20,6 +20,8 @@ Po co nam Hakierspejs, skoro jest na księżycu?
 
 Pewnie część z nas mieszka w różnych dziwnych skrajach Łodzi i przynajmniej część nie ma samochodu, np. d33tah jest ze skraju Retkinii i na myśl o regularnym dojeżdżaniu autobusem na Widzew robi mu się smutno. Dlatego idealny byłby dobrze skomunikowany lokal gdzieś blisko centrum. Atutem byłaby możliwość dospacerowania z Łodzi Kaliskiej albo Fabrycznej.
 
+Z drugiej strony -- nie wszyscy są z Łodzi, niektórzy mają auta -- parking też by się przydał.
+
 ### Metraż >30m2
 
 Klitka 15m2 nas nie urządzi, bo ciężko oczekiwać że kilkanaście osób zrzuci się na czynsz do miejsca, gdzie zmieszczą się maks trzy. Z tego powodu potrzebujemy jednego pomieszczenia, gdzie po dodaniu biurek/stołu i siedzeń, ciągle może wejść przynajmniej 6 osób. 30m2 to chyba w takiej sytuacji minimum.
