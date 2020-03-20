@@ -4,7 +4,7 @@ Napisać:
 
 **Koszty:**
 
-**Migracja:**
+**Migracja:** __rozumiana zarówno jako zmiana providera jak i admina, jeśli zniknie__
 
 **Kto kontroluje:**
 
@@ -50,7 +50,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 **Koszty:** null.
 
-**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis. Gogs ma nawet możliwość automatycznej migracji repozytoriów.
+**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis, ale przydałoby się zautomatyzować backupy. Gogs ma nawet możliwość automatycznej migracji repozytoriów.
 
 **Kto kontroluje:** Każdy członek Hakierspejsu może zostać dodany do grupy na GitHubie. Pull requesty może słać dosłownie każdy, na takiej samej zasadzie jak na każdym innym repozytorium na GitHubie. Patche mergujemy po pozytywnym code review (każdy członek HS'u może takie przeprowadzić). Członków może dodawać d33tah, który ma też we wszystkich repozytoriach rolę admina.
 
@@ -62,11 +62,12 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 **Koszty:** 0 zł / miesiąc, każdy może założyć swoją własną grupę na serwerach Telegrama i zapraszać do niej ludzi.
 
-**Migracja:** Niemozliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują.
+**Migracja:** Niemożliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują. Na szczęście można przynajmniej wyeksportować historię kanału.
 
 **Kto kontroluje:** @d33tah
 
 # Mumble
+
 **Opis/zastosowanie:** Serwer do rozmów głosowych dostępny pod domeną `junkcc.net`
 
 **Koszty:** 0 zł / miesiąc, jako iż serwer jest już wykorzystywany jako serwer gier
@@ -76,13 +77,14 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 **Kto kontroluje:** @BluRaf
 
 # IRC
+
 **Opis/zastosowanie:** Kanał IRC #hakierspejs dostępny w sieci Freenode (`chat.freenode.net`) zmostkowany z czatem na Telegramie.
 
 **Koszty:** 0 zł / miesiąc
 
 **Migracja:** -
 
-**Kto kontroluje:** @BluRaf @d33tah (operatorzy)
+**Kto kontroluje:** @BluRaf, @d33tah (operatorzy)
 
 # Shitposty
 
@@ -93,19 +95,31 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 **Koszty:** 0
 
-**Migracja:** stoi na Pipermail 0.09
+**Migracja:** stoi na Pipermail 0.09 hostowane przez Hackerspace Warszawa. W razie czego można zrobić dumpy .txt całych archiwów, ale adres listy musiałby się zmienić. Możliwy eksport listy osób zasubskrybowanych.
 
-**Kto kontroluje:** @d33tah
+**Kto kontroluje:** @d33tah, q3k
 
 # Boty
 ## mariusz
-**Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem
+
+**Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem, integrowanie poprzez wspólne programowanie.
 
 ## Konfident
+
 **Opis/zastosowanie:** transport między Telegramem a IRC-em
+
+**Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera pod nowym API keyem na innym serwerze.
+
+**Kto kontroluje:** @BluRaf
 
 # Hosting
 
 # Logo
 
 # Naklejki
+
+**Opis/zastosowanie:** promocja HSŁ
+
+**Migracja:** nie dotyczy
+
+**Kto kontroluje:** są dostępne na CC0 jako SVG, każdy może robić co chce. W wersji wydrukowanej kilka osób w HSŁ ma parę nadmiarowych sztuk. Wydruk ogarniał Kacper. Firma która tym się zajęła to: http://www.magmedia.pl/naklejki_samoprzylepne.php - wychodziło 50-100gr za naklejkę ~4x3cm z wycięciem (20 na arkusz). W razie czego q3k ogarnia inną firmę, którą poleca. 
