@@ -8,7 +8,8 @@ Konieczne:
 
 * możemy być 24h/dobę (hałas)
 * kilka osób może mieć klucz
-* łatwy dojazd
+* łatwy dojazd (najlepiej centrum, blisko MPK/pociągi)
+* metraż >30m2
 * stać nas na nią
 * internet, prąd
 * ...?
