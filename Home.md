@@ -11,7 +11,7 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 
 Liczby oznaczają: ilość napisanych sekcji / ilość wszystkich sekcji.
 
-## [[Finanse]] (0/4)
+## [[Finanse]] (2/8)
 ## [[Forma prawna]] (8/12)
 ## [[Infrastruktura]] (5/12)
 ## [[Lista mailingowa]]
