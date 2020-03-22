@@ -16,21 +16,9 @@
 
 Porównanie z innymi HSami:
 
-## Kraków
-
-Fundacja. Statut: https://github.com/HackerspaceKRK/statut/blob/master/statut.tex
-
-## Trójmiasto
-
-Komórka wewnątrz fundacji CODE-ME. Konstytucja: https://wiki.hs3.pl/dokumenty/konstytucja
-
-## Warszawa
-
-Stowarzyszenie. Statut: https://wiki.hackerspace.pl/_media/hackorg:statut_warszawski_hackerspace-v1.1.pdf
-
-## Wrocław
-
-Stowarzyszenie. Statut: https://github.com/HackerspaceWroclaw/Documents/blob/master/Statut%20HSWro.pdf
+|-|WAW|KRK|WRO|3M
+|---|---|---|---|---
+|Dokument|[Status](https://wiki.hackerspace.pl/_media/hackorg:statut_warszawski_hackerspace-v1.1.pdf)|[Fundacja](https://github.com/HackerspaceKRK/statut/blob/master/statut.tex)|[Stowarzyszenie](https://github.com/HackerspaceWroclaw/Documents/blob/master/Statut%20HSWro.pdf)|[Konstytucja](https://wiki.hs3.pl/dokumenty/konstytucja)
 
 # Kroki milowe
 
