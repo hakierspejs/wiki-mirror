@@ -26,7 +26,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 |-|Warszawa|Kraków|Wrocław|Trójmiasto
 |---|---|---|---|---
-|Dokument|[Status](https://wiki.hackerspace.pl/_media/hackorg:statut_warszawski_hackerspace-v1.1.pdf)|[Fundacja](https://github.com/HackerspaceKRK/statut/blob/master/statut.tex)|[Stowarzyszenie](https://github.com/HackerspaceWroclaw/Documents/blob/master/Statut%20HSWro.pdf)|[Konstytucja](https://wiki.hs3.pl/dokumenty/konstytucja)
+|Dokument|[Status](https://wiki.hackerspace.pl/_media/hackorg:statut_warszawski_hackerspace-v1.1.pdf)|[Fundacja](https://github.com/HackerspaceKRK/statut/blob/master/statut.tex)|[Stowarzyszenie](https://github.com/HackerspaceWroclaw/Documents/blob/master/Statut%20HSWro.pdf)|[Konstytucja](https://wiki.hs3.pl/dokumenty/konstytucja) (część [https://wiki.hs3.pl/codeme](CODE:ME))
 |Zarząd|[Wiki](https://wiki.hackerspace.pl/freemasonry)|[Wiki](https://phabricator.hskrk.pl/w/dokumenty/zarzad/)|[Wiki](https://wiki.hswro.org/ludzie)
 |Deklaracja członkowska|[PDF](https://wiki.hackerspace.pl/_media/hswaw-deklaracja-czlonkowska-2016.pdf)
 |Regulamin|[Wiki](https://wiki.hackerspace.pl/space:rules)|[Wiki](https://phabricator.hskrk.pl/w/dokumenty/regulaminy/)|[Wiki](https://wiki.hswro.org/regulamin)
