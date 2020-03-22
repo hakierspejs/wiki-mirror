@@ -1,6 +1,6 @@
 Luźne notatki na temat poszukiwań lokalu.
 
-Dyskusja zaczęła się od tego posta: https://lists.hackerspace.pl/pipermail/lodz/2020-March/000030.html
+Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/lodz/2020-March/000030.html).
 
 # Wymagania
 
