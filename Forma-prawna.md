@@ -30,6 +30,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 |Zarząd|[Wiki](https://wiki.hackerspace.pl/freemasonry)|[Wiki](https://phabricator.hskrk.pl/w/dokumenty/zarzad/)|[Wiki](https://wiki.hswro.org/ludzie)
 |Deklaracja członkowska|[PDF](https://wiki.hackerspace.pl/_media/hswaw-deklaracja-czlonkowska-2016.pdf)
 |Regulamin|[Wiki](https://wiki.hackerspace.pl/space:rules)|[Wiki](https://phabricator.hskrk.pl/w/dokumenty/regulaminy/)|[Wiki](https://wiki.hswro.org/regulamin)
+|Warunki dołączenia|[Wiki](https://wiki.hackerspace.pl/jak-dolaczyc)|[Wiki](https://phabricator.hskrk.pl/w/about/first_steps/#jak-dolaczyc)|[Wiki](https://wiki.hswro.org/czlonkostwo)|[Wiki](https://wiki.hs3.pl/organizacja/czlonkostwo#jak_zostac_czlonkiem)
 
 # Kroki milowe
 
