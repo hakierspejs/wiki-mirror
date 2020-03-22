@@ -88,6 +88,14 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Shitposty
 
+**Opis/zastosowanie:** Dołączyć można [tutaj](https://t.me/hslodzbot). Początkowo był to kanał do testowania botów, a teraz robi za spamiarnie i kanał do shitpostów. W momencie, w którym to piszę (pandemia [SARS-CoV-2](https://pl.wikipedia.org/wiki/SARS-CoV-2)) można również wymienić się wrażeniami na temat koronawirusa. **Uwaga**: tematy około-techniczno-hakerskie, nawet jeżeli zahaczają o shitpost (typu: rant na *wstaw dowolne distro*), lepiej kierować na główny kanał, żeby nam po prostu nie umarł. Więcej informacji na ten temat [tutaj](https://lists.hackerspace.pl/pipermail/lodz/2020-March/000026.html).
+
+**Koszty:** 0 zł / miesiąc, kolejny czat na telegramie.
+
+**Migracja:** To tylko kanał na shitposty i testowanie botów.
+
+**Kto kontroluje:** Każdy kto poprosi o admina.
+
 # Lista mailingowa
 * [https://lists.hackerspace.pl/pipermail/lodz/](https://lists.hackerspace.pl/pipermail/lodz/)
 
@@ -123,3 +131,4 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 **Migracja:** nie dotyczy
 
 **Kto kontroluje:** są dostępne na CC0 jako SVG, każdy może robić co chce. W wersji wydrukowanej kilka osób w HSŁ ma parę nadmiarowych sztuk. Wydruk ogarniał Kacper Sz. Firma która tym się zajęła to: http://www.magmedia.pl/naklejki_samoprzylepne.php - wychodziło 50-100gr za naklejkę ~4x3cm z wycięciem (20 na arkusz). W razie czego q3k ogarnia inną firmę, którą poleca. 
+***
