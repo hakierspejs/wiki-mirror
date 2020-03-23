@@ -20,6 +20,6 @@ Liczby oznaczają: ilość napisanych sekcji / ilość wszystkich sekcji.
 ## [[O nas]] (0/2)
 ## [[Projekty]] (2/7)
 ## [[Roadmapa]]
-## [[Spotkania]] (0/3)
+## [[Spotkania]] (2/4)
 ## [[Potrzebujemy pomocy z...]]
 ## [[Wartości HSŁ]]
