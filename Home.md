@@ -13,7 +13,7 @@ Liczby oznaczają: ilość napisanych sekcji / ilość wszystkich sekcji.
 
 ## [[Finanse]] (2/8)
 ## [[Forma prawna]] (8/12)
-## [[Infrastruktura]] (5/12)
+## [[Infrastruktura]] (10/13)
 ## [[Lista mailingowa]]
 ## [[Miejsce]]
 ## [[Nowy projekt: checklista]]
