@@ -59,6 +59,10 @@ Podobno nie powinno się dzielić skóry na niedźwiedziu, ale wyobraźmy sobie
 
 Prąd, internet, woda. Póki będzie sam softroom, nie powinno wyjść razem więcej niż 300zł, chyba że uprzemy się na łącze symetryczne.
 
+## Przechowywanie
+
+Szafki na kłódki, np takie jak w przebieralniach.
+
 ## Powierzchnie
 
 Przydałoby się kilka biurek i/lub jakiś stół.
