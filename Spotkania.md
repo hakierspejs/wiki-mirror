@@ -17,7 +17,7 @@ Poniżej znajduje się lista padów z różnych spotkań:
 * [24 marca 2020](https://hastebin.com/raw/itikifijow)
 
 ## OPUS
-
+[chwilowo zawieszone]
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
 * spotkania co 2 tyg. w środy o 17
 
