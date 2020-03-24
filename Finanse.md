@@ -14,6 +14,10 @@ Chcielibyśmy coś wynająć, patrz: [[Miejsce]]. Prawdopodobnie będziemy potr
 
 ## Naklejki
 
+# Składki?
+
+# Sponsorzy?
+
 # Wydatki
 
 ## Meetup
