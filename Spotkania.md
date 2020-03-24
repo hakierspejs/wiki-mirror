@@ -12,11 +12,11 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są lu�
 
 Poniżej znajduje się lista padów z różnych spotkań:
 
-1. [11 lutego 2020](https://hastebin.com/raw/fefahuyoce) -- w OPUS
-2. [25 lutego 2020](https://hastebin.com/raw/jijajesova) -- w OPUS
-3. [10 marca 2020](https://hastebin.com/raw/saxidohose) -- w OPUS
-4. [18 marca 2020](https://hastebin.com/raw/urixigifon) -- online: jit.si, mumble
-5. [24 marca 2020](https://hastebin.com/raw/itikifijow) - online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
+1. [11 lutego 2020](https://hastebin.com/raw/fefahuyoce) – w OPUS
+2. [25 lutego 2020](https://hastebin.com/raw/jijajesova) – w OPUS
+3. [10 marca 2020](https://hastebin.com/raw/saxidohose) – w OPUS
+4. [18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
+5. [24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
 
 ## OPUS
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
