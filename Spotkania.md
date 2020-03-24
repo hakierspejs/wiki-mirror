@@ -10,8 +10,8 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są lu�
 
 Poniżej znajduje się lista padów z różnych spotkań:
 
-* [11 luty 2020](https://hastebin.com/raw/fefahuyoce)
-* [25 luty 2020](https://hastebin.com/raw/jijajesova)
+* [11 lutego 2020](https://hastebin.com/raw/fefahuyoce)
+* [25 lutego 2020](https://hastebin.com/raw/jijajesova)
 * [10 marca 2020](https://hastebin.com/raw/saxidohose)
 * [18 marca 2020](https://hastebin.com/raw/urixigifon)
 * [24 marca 2020](https://hastebin.com/raw/itikifijow)
