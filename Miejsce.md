@@ -73,9 +73,13 @@ Przydałoby się kilka biurek i/lub jakiś stół.
 
 Z sześć foteli i kanapa.
 
+... To chyba można ogarnąć bezkosztowo (samym kosztem transportu) opcją "za darmo" / jakimiś minimalnymi kwotami z OLX. Ludzie wystawiają całe wypoczynki byle tylko ktoś od nich to odebrał.
+
 ## Gastro
 
 Absolutne minimum to czajnik elektryczny. Fajnie byłoby móc coś ugotować, więc także talerze, sztućce, gąbki i płyn do mycia naczyń, kuchenka, patelnia, garnek i szklanki.
+
+... Czajniki marek własnych z marketów typu Tesco, Auchan są tanie i długowieczne.
 
 ## Elektronika
 
