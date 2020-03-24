@@ -29,16 +29,16 @@ Keij0: Z tego, co zauważyłem poza czytaniem artykułów z doświadczeń innych
 
 q3k ( wypowiedź z 24.03.2020 ):
 
-Konfident, [24.03.20 20:09]
+q3k, [24.03.20 20:09]
 <q3k> nie robcie fundacji
 
-Konfident, [24.03.20 20:10]
+q3k, [24.03.20 20:10]
 <q3k> fundacja jest pojebanym pomyslem, bo nie mozecie zbierac skladek czlonkowskich
 
-Konfident, [24.03.20 20:10]
+q3k, [24.03.20 20:10]
 <q3k> tylko darowizny
 
-Konfident, [24.03.20 20:10]
+q3k, [24.03.20 20:10]
 <q3k> wiec nie mozecie bez krzywego ryja dawac kluczy/kart czlonkowskich/kont
 
 ## Porównanie z innymi HSami:
