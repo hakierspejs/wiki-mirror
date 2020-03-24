@@ -34,6 +34,8 @@ Nasz budżet to: "mniej". Szukamy lokalu, z którego całkowitym opłaceniem zam
 
 Potrzebujemy móc podłączyć dużo urządzeń, które mogą jeść szalone ilości prądu. Już kilka gamingowych PCtów i dwa czajniki elektryczne mogą przeciążyć źle zrobioną instalację elektryczną, więc dobrze jest upewnić się, że nie jest zrobiona po taniości sto lat temu.
 
+... Jakaś minimalna moc w kW / maks. obciążenie w A, jakie nam wystarczy – jako kryterium przy szukaniu mieszkania?
+
 ### Sensowny internet
 
 Na pewno nic gorszego niż ADSL. Fajnie byłoby, gdybyśmy mieli wybór ISPków i przynajmniej jeden oferował >=300mbps.
