@@ -108,7 +108,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 **Kto kontroluje:** @d33tah, q3k
 
 # Boty
-## mariusz
+## Mariusz
 
 **Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem, integrowanie poprzez wspólne programowanie.
 
