@@ -1,12 +1,4 @@
-# Miejsca
-
-- adres
-- kontakt
-- reguły
-
-**Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
-
-## Pady
+# Pady
 
 Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
 
@@ -17,6 +9,14 @@ Poniżej znajduje się lista padów z różnych spotkań:
 3. [10 marca 2020](https://hastebin.com/raw/saxidohose) – w OPUS
 4. [18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
 5. [24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
+
+# Miejsca
+
+- adres
+- kontakt
+- reguły
+
+**Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
 
 ## OPUS
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
