@@ -4,7 +4,7 @@
 - kontakt
 - reguły
 
-> Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.
+**Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
 
 ## Pady
 
