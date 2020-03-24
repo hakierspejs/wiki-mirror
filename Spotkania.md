@@ -16,7 +16,7 @@ Poniżej znajduje się lista padów z różnych spotkań:
 * [25 lutego 2020](https://hastebin.com/raw/jijajesova)
 * [10 marca 2020](https://hastebin.com/raw/saxidohose)
 * [18 marca 2020](https://hastebin.com/raw/urixigifon)
-* [24 marca 2020](https://hastebin.com/raw/itikifijow)
+* [24 marca 2020](https://hastebin.com/raw/itikifijow) (PS: był też keij0, PanTadeusz i BluRaf)
 
 ## OPUS
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
