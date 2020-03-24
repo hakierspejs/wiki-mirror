@@ -13,8 +13,10 @@
 ## Zarządzanie ryzykiem
 
 # Stowarzyszenie czy fundacja?
+## Podstawa prawna poszczególnych form i porównanie między nimi
+TODO
 
-Porównanie z innymi HSami:
+## Porównanie z innymi HSami:
 
 <!--
 
