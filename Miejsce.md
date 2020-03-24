@@ -20,7 +20,7 @@ Po co nam Hakierspejs, skoro jest na księżycu?
 
 Pewnie część z nas mieszka w różnych dziwnych skrajach Łodzi i przynajmniej część nie ma samochodu, np. d33tah jest ze skraju Retkinii i na myśl o regularnym dojeżdżaniu autobusem na Widzew robi mu się smutno. Dlatego idealny byłby dobrze skomunikowany lokal gdzieś blisko centrum. Atutem byłaby możliwość dospacerowania z Łodzi Kaliskiej albo Fabrycznej.
 
-Z drugiej strony -- nie wszyscy są z Łodzi, niektórzy mają auta -- parking też by się przydał.
+Z drugiej strony – nie wszyscy są z Łodzi, niektórzy mają auta – parking też by się przydał.
 
 ### Metraż >30m2
 
@@ -28,7 +28,7 @@ Klitka 15m2 nas nie urządzi, bo ciężko oczekiwać że kilkanaście osób zrzu
 
 ### Stać nas na nią
 
-Nasz budżet to: "mniej". Szukamy lokalu, z którego całkowitym opłaceniem zamkniemy się w 1400zł - najlepiej żeby była to jeszcze mniejsza kwota.
+Nasz budżet to: "mniej". Szukamy lokalu, z którego całkowitym opłaceniem zamkniemy się w 1400 zł - najlepiej żeby była to jeszcze mniejsza kwota.
 
 ### Sensowny prąd
 
@@ -37,6 +37,8 @@ Potrzebujemy móc podłączyć dużo urządzeń, które mogą jeść szalone ilo
 ### Sensowny internet
 
 Na pewno nic gorszego niż ADSL. Fajnie byłoby, gdybyśmy mieli wybór ISPków i przynajmniej jeden oferował >=300mbps.
+
+Publiczne IP, najlepiej statyk.
 
 ### ...?
 
