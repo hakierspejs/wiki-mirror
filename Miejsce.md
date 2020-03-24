@@ -38,7 +38,7 @@ Potrzebujemy móc podłączyć dużo urządzeń, które mogą jeść szalone ilo
 
 Na pewno nic gorszego niż ADSL. Fajnie byłoby, gdybyśmy mieli wybór ISPków i przynajmniej jeden oferował >=300mbps.
 
-Publiczne IP, najlepiej statyk. Toya spełnia te wymagania.
+Publiczne IP, najlepiej statyk.
 
 ### ...?
 
