@@ -16,11 +16,11 @@ Poniżej lista padów ze spotkań:
 - kontakt
 - reguły
 
-**Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
-
 ## OPUS
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
 * spotkania co 2 tyg. w środy o 17
+
+**Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
 
 ## 6 dzielnica
 
