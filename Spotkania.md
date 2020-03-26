@@ -2,11 +2,11 @@
 
 Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
 
-Poniżej znajduje się lista padów z różnych spotkań:
+Poniżej lista padów ze spotkań:
 
-1. [11 lutego 2020](https://hastebin.com/raw/fefahuyoce) – w OPUS
-2. [25 lutego 2020](https://hastebin.com/raw/jijajesova) – w OPUS
-3. [10 marca 2020](https://hastebin.com/raw/saxidohose) – w OPUS
+1. [11 lutego 2020](https://hastebin.com/raw/fefahuyoce) -  OPUS
+2. [25 lutego 2020](https://hastebin.com/raw/jijajesova) -  OPUS
+3. [10 marca 2020](https://hastebin.com/raw/saxidohose) –  OPUS
 4. [18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
 5. [24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
 
