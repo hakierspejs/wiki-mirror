@@ -19,8 +19,9 @@ Przydałoby się mieć jakąś "pamiątkę" po naszych spotkaniach - informacj�
 ## Media (w tym social media)
 
 Potrzebujemy, żeby dowiedziało się o nas jak najwięcej hakerów z Łodzi
-i okolic. Nie mamy konta na Facebooku, powinniśmy odezwać się do uczelni
-i liceów i dać znać, że istniejemy. Nawiązać lepszy kontakt z innymi HSami.
+i okolic. Od niedawna istniejemy również na Facebooku : https://fb.me/hakierspejs.
+ Powinniśmy też odezwać się do uczelni
+i liceów i dać znać, że istniejemy. Fajnie byłoby też nawiązać lepszy kontakt z innymi HSami.
 
 ## Graficznych
 
