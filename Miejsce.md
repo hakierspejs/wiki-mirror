@@ -8,7 +8,7 @@ Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/l
 
 ### Dostęp kilku osób
 
-Jeżeli klucze będzie miała tylko jedna osoba, to nie będzie Hakierspejs, tylko Jacekspejs. Dlatego już na samym początku trzeba uprzedzić, że potrzebujemy kluczy dla kilku-kilkunastu osób i w miarę możliwości chcielibyśmy założyć elektrozamek.
+Jeżeli klucze będzie miała tylko jedna osoba, to nie będzie Hakierspejs, tylko Onepersonspejs. Dlatego już na samym początku trzeba uprzedzić, że potrzebujemy kluczy dla kilku-kilkunastu osób i w miarę możliwości chcielibyśmy założyć elektrozamek.
 
 ### Dostęp 24h/dobę
 
@@ -18,9 +18,8 @@ Będziemy robić hackathony. Będziemy się socjalizować do późna. Będziemy
 
 Po co nam Hakierspejs, skoro jest na księżycu?
 
-Pewnie część z nas mieszka w różnych dziwnych skrajach Łodzi i przynajmniej część nie ma samochodu, np. d33tah jest ze skraju Retkinii i na myśl o regularnym dojeżdżaniu autobusem na Widzew robi mu się smutno. Dlatego idealny byłby dobrze skomunikowany lokal gdzieś blisko centrum. Atutem byłaby możliwość dospacerowania z Łodzi Kaliskiej albo Fabrycznej.
-
-Z drugiej strony – nie wszyscy są z Łodzi, niektórzy mają auta – parking też by się przydał.
+Pewnie część z nas mieszka w różnych dziwnych skrajach Łodzi, lub zupełnie poza jej granicami. Przydałby się lokal, który komunikowałby nawet najdalsze krańce miasta i obszary poza nim (dla osób niewładających mocami prowadzenia samochodu - fajnie byłoby, gdyby niedaleko miejsca spotkań znajdował się przystanek autobusowy/tramwajowy skupiający wiele linii).
+Jako,że nie wszyscy są z Łodzi, niektórzy mają auta – parking też by się przydał.
 
 ### Metraż >30m2
 
