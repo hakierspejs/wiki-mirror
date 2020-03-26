@@ -1,3 +1,5 @@
+Ta sekcja jest w trakcie rozbudowy. Zerknij w notatki, żeby zobaczyć co jeszcze można dopisać.
+
 # Pady
 
 Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
