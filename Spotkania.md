@@ -1,4 +1,4 @@
-Ta sekcja jest w trakcie rozbudowy. Zerknij w notatki, żeby zobaczyć co jeszcze można dopisać.
+Ta sekcja jest w trakcie rozbudowy. Zerknij w kod źródłowy, żeby zobaczyć co jeszcze można dopisać.
 
 # Pady
 
