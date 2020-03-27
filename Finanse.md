@@ -14,6 +14,12 @@ Chcielibyśmy coś wynająć, patrz: [[Miejsce]]. Prawdopodobnie będziemy potr
 
 ## Naklejki
 
+ * Pomysł na reklamę i formę - 15. lutego
+ * Faktyczna zbiórka - 25. lutego
+ * Liczba osób zainteresowanych - 8
+ * Zebrana kwota - 100 zł
+
+
 # Składki?
 
 # Sponsorzy?
