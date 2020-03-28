@@ -17,7 +17,7 @@ Liczby oznaczają: ilość napisanych sekcji / ilość wszystkich sekcji.
 ## [[Lista mailingowa]]
 ## [[Miejsce]]
 ## [[Nowy projekt: checklista]]
-## [[O nas]] (0/2)
+## [[O nas]]
 ## [[Porównanie HSów]]
 ## [[Projekty]] (2/7)
 ## [[Roadmapa]]
