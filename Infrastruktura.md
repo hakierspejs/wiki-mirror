@@ -32,9 +32,9 @@ last modified:         2020.03.14 21:23:50
 renewal date:          2021.03.14 21:17:12 
 ```
 
-Domenę hakierspejs.pl zarejestrował d33tah, żeby nikt jej nam nie zasiedział (q3k wolałby żebyśmy jej nie używali jako głównej, co by się nie myliło z hackerspace.pl). hs-ldz.pl jest ustawiony na wildcard kierujący do VMki PC d33taha.
+Domenę hakierspejs.pl zarejestrował d33tah, żeby nikt jej nam nie zasiedział (@q3k wolałby żebyśmy jej nie używali jako głównej, co by się nie myliło z hackerspace.pl). hs-ldz.pl jest ustawiony na wildcard kierujący do VMki PC d33taha.
 
-**Kto kontroluje:** d33tah. Przydałby się drugi admin.
+**Kto kontroluje:** @d33tah. Przydałby się drugi admin.
 
 **Koszty:** 2x13zł, +/- 5zł. Zarówno w OVH jak i w MicroHost za przedłużenie wezmą jakieś 50zł licząc VAT.
 
@@ -105,7 +105,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 **Migracja:** stoi na Pipermail 0.09 hostowane przez Hackerspace Warszawa. W razie czego można zrobić dumpy .txt całych archiwów, ale adres listy musiałby się zmienić. Możliwy eksport listy osób zasubskrybowanych.
 
-**Kto kontroluje:** @d33tah, q3k
+**Kto kontroluje:** @d33tah, @q3k
 
 # Boty
 ## Mariusz
