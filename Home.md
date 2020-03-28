@@ -18,6 +18,7 @@ Liczby oznaczają: ilość napisanych sekcji / ilość wszystkich sekcji.
 ## [[Miejsce]]
 ## [[Nowy projekt: checklista]]
 ## [[O nas]] (0/2)
+## [[Porównanie HSów]]
 ## [[Projekty]] (2/7)
 ## [[Roadmapa]]
 ## [[Spotkania]] (2/4)
