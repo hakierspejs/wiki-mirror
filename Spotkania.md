@@ -23,6 +23,9 @@ Poniżej lista padów ze spotkań:
 -->
 
 ## OPUS
+
+(dopisać co to jest OPUS)
+
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
 * spotkania co 2 tyg. w środy o 17
 
