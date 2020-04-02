@@ -136,7 +136,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 **Migracja:** self-hosted, więc gdzieś przenieść nie problem, przeniesienie samych treści może być bardziej problematyczne, ale notatki opierają się na kodzie źródłowym a'la Markdown, więc jest to rabialne
 
-**Kto kontroluje:** d33tah
+**Kto kontroluje:** @d33tah
 
 # Hosting
 
