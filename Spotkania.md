@@ -36,7 +36,7 @@ Poniżej lista padów ze spotkań:
 
 ## 6 dzielnica
 
-W środę 29 stycznia spotkaliśmy się w pubie "6 dzielnica" (Piotrkowska 102). Można jeszcze skorzystać z tej opcji w przyszłości.
+W środę 29 stycznia spotkaliśmy się w pubie „6 dzielnica” (Piotrkowska 102). Można jeszcze skorzystać z tej opcji w przyszłości.
 
 ## [BODO](https://kinobodo.pl)
 
