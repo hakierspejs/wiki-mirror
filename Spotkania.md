@@ -34,8 +34,9 @@ Poniżej lista padów ze spotkań:
 
 **Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
 
-## 5 dzielnica
-Planowaliśmy luźniejsze spotkania przy piwie, ale... sami-wiecie-co.
+## 6 dzielnica
+
+W środę 29 stycznia spotkaliśmy się w pubie "6 dzielnica" (Piotrkowska 102). Można jeszcze skorzystać z tej opcji w przyszłości.
 
 ## [BODO](https://kinobodo.pl)
 
