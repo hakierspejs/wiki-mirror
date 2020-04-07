@@ -28,7 +28,7 @@ Wydrukowane było [LOGO](https://scontent.flcj1-1.fna.fbcdn.net/v/t1.0-9/s960x96
 
 Ta sekcja jest "do napisania". Na ten moment ważne informacje można wyczytać stąd:
 
-https://github.com/hakierspejs/wiki/wiki/Miejsce/_compare/854c9b8293fdb1989b7b1ca77dd2283612cb0d7e%5E...854c9b8293fdb1989b7b1ca77dd2283612cb0d7e
+https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
 
 # Sponsorzy?
 
