@@ -22,9 +22,20 @@ Można już wpłacać!
 
 Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
 
-Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje -- w większości hackerspace'ów jest to np. pełen dostęp do [[Miejsce]] w dowolnym momencie.
+Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje – w większości hackerspace'ów jest to np. pełen dostęp do [[Miejsce]] w dowolnym momencie. Płacenie składek __nie__ będzie natomiast warunkiem uczestnictwa w spotkaniach.
 
 Więcej informacji: https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
+
+> Obgadaliśmy temat na Mumble i doszliśmy wspólnie do wniosku, że żeby
+Hakierspejs miał fizyczną siedzibę, przy założeniu czynszu ~1500zł
+(>30m2 niedaleko centrum) potrzebujemy 15 osób które będą wpłacać po
+100zł lub - co wydaje mi się mniej realistyczne - 30 osób które będą
+regularnie dorzucać 50zł. Ta kasa będzie w większości czekać na moim
+koncie aż zbierze się masa krytyczna. Dopóki nie zarejestrujemy
+stowarzyszenia, osobom które przestaną wpłacać mogę zaproponować jej
+zwrot. Planuję też dodać do naszej strony pasek postępu, w którym będę
+na bieżąco - a docelowo automatycznie - aktualizował info o tym, ile
+osób regularnie wpłaca.
 
 ## Zrzuty
 ### Meetup
