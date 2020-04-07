@@ -14,13 +14,15 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
 
 Można już wpłacać!
 
-**Numer konta Hakierspejsu**: 55 1140 2004 0000 3002 7656 1893
+**Numer konta Hakierspejsu**: 55 1140 2004 0000 3002 7656 1893 (mBank)
 
 **Nazwa odbiorcy**: Jacek Wielemborek
 
 **Tytuł**: "Hakierspejs - składka", ale w sumie konto jest tylko dla Hakierspejsu.
 
 Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
+
+Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje -- w większości hackerspace'ów jest to np. pełen dostęp do [[Miejsce]] w dowolnym momencie.
 
 Więcej informacji: https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
 
