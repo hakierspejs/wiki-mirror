@@ -18,7 +18,7 @@ Można już wpłacać!
 
 **Nazwa odbiorcy**: Jacek Wielemborek
 
-**Tytuł**: "Hakierspejs - składka", ale w sumie konto jest tylko dla Hakierspejsu.
+**Tytuł**: „Hakierspejs – składka”, ale w sumie konto jest tylko dla Hakierspejsu.
 
 Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
 
