@@ -34,9 +34,12 @@ Poniżej lista padów ze spotkań:
 
 **Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
 
-## 6 dzielnica
+## 5 dzielnica
+Planowaliśmy luźniejsze spotkania przy piwie, ale... sami-wiecie-co.
 
-## BODO
+## [BODO](https://kinobodo.pl)
+
+W planach było tzw. nocne haczenie w kinie. Nadal jest w planach, ale musimy poczekać na koniec sami-wiecie-czego.
 
 ## Online
 
