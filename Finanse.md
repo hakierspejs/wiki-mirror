@@ -13,9 +13,13 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
 # Zrzuty
 # Składki
 
-Ta sekcja jest "do napisania". Na ten moment ważne informacje można wyczytać stąd:
+Można już wpłacać!
 
-https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
+55 1140 2004 0000 3002 7656 1893 -- konto Jacka (d33tah)
+
+Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
+
+Więcej informacji: https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
 
 
 ## Meetup
