@@ -13,6 +13,7 @@ Poniżej lista padów ze spotkań:
 5. [24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
 6. [31 marca 2020](https://pad.hs-ldz.pl/BNDBoOqfT_-dnLAbjOCqwQ) – online: mumble
 7. [4 kwietnia 2020](https://pad.hs-ldz.pl/-_uV1G2eSAWKyOmzpcgo6w) – online: mumble
+8. [7 kwietnia 2020](https://pad.hs-ldz.pl/F3oHd44sTCapJGABtOaYrg) – online: mumble
 
 <!--
 
