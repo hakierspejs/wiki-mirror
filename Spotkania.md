@@ -42,3 +42,4 @@ Poniżej lista padów ze spotkań:
 
 * pierwsze spotkanie w tym trybie rozpoczęło się na jit.si, jednak ze względu na problemy techniczne przenieśliśmy się na Mumble -- więcej informacji [[Infrastruktura#Mumble]]
 * zwyczajowo spotykamy się wieczorami we wtorki i/lub soboty
+* aktualna informacja o terminie najbliższego spotkania zawsze na [https://lodz.hackerspace.pl]
