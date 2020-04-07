@@ -14,7 +14,9 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
 
 Można już wpłacać!
 
-55 1140 2004 0000 3002 7656 1893 -- konto Jacka (d33tah)
+Numer konta Hakierspejsu: 55 1140 2004 0000 3002 7656 1893
+Nazwa odbiorcy: Jacek Wielemborek
+Tytuł: "Hakierspejs - składka", ale w sumie konto jest tylko dla Hakierspejsu.
 
 Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
 
