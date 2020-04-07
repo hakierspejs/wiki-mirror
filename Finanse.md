@@ -10,7 +10,6 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
 
 # Przychody
 
-# Zrzuty
 # Składki
 
 Można już wpłacać!
@@ -21,7 +20,7 @@ Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesi�
 
 Więcej informacji: https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
 
-
+# Zrzuty
 ## Meetup
 
 ## Naklejki
