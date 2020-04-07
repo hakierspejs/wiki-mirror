@@ -11,6 +11,12 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
 # Przychody
 
 # Zrzuty
+# Składki
+
+Ta sekcja jest "do napisania". Na ten moment ważne informacje można wyczytać stąd:
+
+https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
+
 
 ## Meetup
 
@@ -23,12 +29,6 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
  * Zorganizował: @kszmigiel
 
 Wydrukowane było [LOGO](https://scontent.flcj1-1.fna.fbcdn.net/v/t1.0-9/s960x960/90774574_102903281360894_4797632130676948992_o.png?_nc_cat=104&_nc_sid=85a577&_nc_ohc=nbaeW9sTsgsAX8HfOS_&_nc_ht=scontent.flcj1-1.fna&oh=6691cd5d3a764e3ad71330f7aeafeca0&oe=5EA1C909).
-
-# Składki
-
-Ta sekcja jest "do napisania". Na ten moment ważne informacje można wyczytać stąd:
-
-https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
 
 # Sponsorzy?
 
