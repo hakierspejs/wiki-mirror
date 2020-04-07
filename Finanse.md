@@ -35,7 +35,7 @@ koncie aż zbierze się masa krytyczna. Dopóki nie zarejestrujemy
 stowarzyszenia, osobom które przestaną wpłacać mogę zaproponować jej
 zwrot. Planuję też dodać do naszej strony pasek postępu, w którym będę
 na bieżąco - a docelowo automatycznie - aktualizował info o tym, ile
-osób regularnie wpłaca.
+osób regularnie wpłaca. ~d33tah
 
 ## Zrzuty
 ### Meetup
