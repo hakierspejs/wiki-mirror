@@ -53,6 +53,12 @@ router dostawcy z włączonym DMZ? (nieobowiązkowy) -> router/firewall (pfSense
 
 Chciałbym, żeby nasza sieć była łatwo skalowalna i w miarę ogarnięta w obsłudzę, w związku z tym chciałbym, żeby był jakiś główny OS, od siebie proponuje OpenSUSE Leap, bo jest stabilny i pakiety w nim nie gniją + release switch mniej boli od Debiana/Ubuntu. Jest to kwestia zrobienia głosowania na chacie. By to osiągnąć chciałbym też wprowadzić pewne rozwiązania do deploymentu i zarządzania maszynami, żeby było nam łatwiej skupiać się na projektach, a nie na infrastrukturze napierdzielającej fikołki.
 
+Alternatywy jeśli większość nie będzie się zgadzać na OpenSUSE Leap:
+* CentOS
+* Fedora Server (chociaż to chyba proszenie sie o problemy) 
+* Ubuntu
+* Debian
+
 ## Lista rozwiązań
 * lokalny dynamiczny DNS dla nowych i current maszyn, co uwolni nas od szukania/pamiętania IP
 * dynamiczna adresacja po DHCP z ewentualną pulą statycznych adresów na przykład na mastery klastrów i inne.
