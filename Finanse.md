@@ -10,7 +10,7 @@ Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March
 
 # Przychody
 
-# Składki
+## Składki
 
 Można już wpłacać!
 
@@ -20,10 +20,10 @@ Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesi�
 
 Więcej informacji: https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html
 
-# Zrzuty
-## Meetup
+## Zrzuty
+### Meetup
 
-## Naklejki
+### Naklejki
 
  * Pomysł na reklamę i formę - 15. lutego
  * Faktyczna zbiórka - 25. lutego
@@ -33,7 +33,7 @@ Więcej informacji: https://lists.hackerspace.pl/pipermail/lodz/2020-April/00006
 
 Wydrukowane było [LOGO](https://scontent.flcj1-1.fna.fbcdn.net/v/t1.0-9/s960x960/90774574_102903281360894_4797632130676948992_o.png?_nc_cat=104&_nc_sid=85a577&_nc_ohc=nbaeW9sTsgsAX8HfOS_&_nc_ht=scontent.flcj1-1.fna&oh=6691cd5d3a764e3ad71330f7aeafeca0&oe=5EA1C909).
 
-# Sponsorzy?
+## Sponsorzy?
 
 # Wydatki
 
