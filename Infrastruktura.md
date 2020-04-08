@@ -46,37 +46,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Infrastruktura do lokalu - plan szkieletowy, żeby wdrożenie było łatwiejsze
 
-## Nakreślony wstępnie by Keijo & Co. 
-
-## Schemat przebicia z internetu
-router dostawcy z włączonym DMZ? (nieobowiązkowy) -> router/firewall (pfSense) -> Gateway (lokalny DNS, PXE, TFTP, DHCP) -> Switch -> Node docelowe
-
-Chciałbym, żeby nasza sieć była łatwo skalowalna i w miarę ogarnięta w obsłudzę, w związku z tym chciałbym, żeby był jakiś główny OS, od siebie proponuje OpenSUSE Leap, bo jest stabilny i pakiety w nim nie gniją + release switch mniej boli od Debiana/Ubuntu. Jest to kwestia zrobienia głosowania na chacie. By to osiągnąć chciałbym też wprowadzić pewne rozwiązania do deploymentu i zarządzania maszynami, żeby było nam łatwiej skupiać się na projektach, a nie na infrastrukturze napierdzielającej fikołki.
-
-Alternatywy jeśli większość nie będzie się zgadzać na OpenSUSE Leap:
-* CentOS
-* Fedora Server (chociaż to chyba proszenie sie o problemy) 
-* Ubuntu
-* Debian
-
-## Lista rozwiązań
-* lokalny dynamiczny DNS dla nowych i current maszyn, co uwolni nas od szukania/pamiętania IP
-* dynamiczna adresacja po DHCP z ewentualną pulą statycznych adresów na przykład na mastery klastrów i inne.
-* bootstrap maszyny z PXE z wyborem docelowego OSu, w końcu nie wszystko musi stać na jednym
-* Salt do zarządzania grupowo maszynami
-
-## Opisy rozwiązań
-### lokalny dynamiczny DNS
-Można to robić po DHCP i bardzo ułatwia pracę, bo nie trzeba pamiętać IP
-
-### DHCP
-Chyba każdy wie co to jest, ale jest wymagane do poprawnego działania PXE
-
-### bootstrapper maszyn
-na Gatewayu byłoby repozytorium obrazów i TFTP serwujące iPXE do klienta z naszym bootmenu do wyboru OSów. Prawdopodobnie musielibyśmy troche zmodyfikować obrazy albo pobawić sie z cloud-initem, ale w zamian dostajemy automatyczną rejestrację typowych node do sieci albo i VMek jeśli będziemy chcieli się też w nie bawić
-
-### Salt
-Salt służy do zarządzania maszynami poprzez pisanie state, które można na nich aplikować. Jest to o tyle fajne, że można wykonać jedną monotomną operację na całej szafie i nie bawić się w wchodzenie do każdego serwera po kolei. Pozwala to też na pisanie state'ów, które zachowują się dynamicznie i dostosowują się do docelowego hosta, na przykład instalacja innych paczek w zależności od roli hosta czy też OSu, który na nim działa. Link do projektu: http://saltstack.com
+Przeniesione do `http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki`
 
 
 # Github
