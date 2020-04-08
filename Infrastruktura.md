@@ -46,7 +46,7 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 # Infrastruktura do lokalu - plan szkieletowy, żeby wdrożenie było łatwiejsze
 
-Przeniesione do `http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki`
+Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
 
 
 # Github
