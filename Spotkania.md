@@ -35,7 +35,7 @@ Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji po
 
 **Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
 
-## 6 dzielnica
+## [6 dzielnica](https://szostadzielnica.pl/)
 
 W środę 29 stycznia spotkaliśmy się w pubie „6 dzielnica” (Piotrkowska 102). Można jeszcze skorzystać z tej opcji w przyszłości.
 
