@@ -51,7 +51,7 @@ Spotkania w OPUSie itd. są **chwilowo zawieszone** z wiadomego powodu. Aktualni
 ## [6. dzielnica](https://szostadzielnica.pl/) <sup>([**FB**](https://www.facebook.com/6dzielnica/))
 ### Opis
 
-6. Dzielnica – to klub w samym sercu miasta przy ul. Piotrkowskiej 102. Dzielnica twórczej energii i dyskusji o ideach. To również przestrzeń dla artystów, wypełniona sztuką, muzyką i wyjątkowymi ludźmi.
+> 6. Dzielnica – to klub w samym sercu miasta przy ul. Piotrkowskiej 102. Dzielnica twórczej energii i dyskusji o ideach. To również przestrzeń dla artystów, wypełniona sztuką, muzyką i wyjątkowymi ludźmi.
 
 ### Lokalizacja
 
@@ -67,7 +67,7 @@ Pierwsze spotkanie w pubie „6 dzielnica” miało miejsce 29 stycznia. Można 
 
 ### Opis
 
-To kameralne miejsce, które oprócz spełniania swej podstawowej funkcji jest jednocześnie wielozadaniową instytucją kulturalną.
+> To kameralne miejsce, które oprócz spełniania swej podstawowej funkcji jest jednocześnie wielozadaniową instytucją kulturalną.
 Obok typowego repertuaru kinowego prezentujemy również tematyczne pokazy i przeglądy filmowe, a także festiwale.
 
 
