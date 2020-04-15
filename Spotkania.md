@@ -63,9 +63,21 @@ Pierwsze spotkanie w pubie „6 dzielnica” miało miejsce 29 stycznia. Można 
 
 ***
 
-## [BODO](https://kinobodo.pl)
+## [BODO](https://kinobodo.pl) <sup>([**FB**](https://www.facebook.com/KinoBodo))</sup>
 
-W planach było tzw. nocne haczenie w kinie. Nadal jest w planach, ale musimy poczekać na koniec sami-wiecie-czego.
+### Opis
+
+To kameralne miejsce, które oprócz spełniania swej podstawowej funkcji jest jednocześnie wielozadaniową instytucją kulturalną.
+Obok typowego repertuaru kinowego prezentujemy również tematyczne pokazy i przeglądy filmowe, a także festiwale.
+
+
+### Lokalizacja
+
+Kino mieści się pod adresem ul. Rewolucji 1905 roku 78/80.
+
+### Spotkania
+
+Mamy możliwość organizacji nocnego haczenia. Wydarzenie zostanie ogłoszone asap.
 
 
 ***
