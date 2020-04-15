@@ -1,5 +1,4 @@
-Ta sekcja jest w trakcie rozbudowy. Zerknij w kod źródłowy, żeby zobaczyć co jeszcze można dopisać.
-
+Sekcja w trakcie rozbudowy. Jeśli chcesz coś zmienić/dopisać, wejdź tu : [Kod źródłowy](https://github.com/hakierspejs/wiki/wiki/Spotkania/_edit)
 # Pady
 
 Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
@@ -25,23 +24,51 @@ Poniżej lista padów ze spotkań:
 
 -->
 
-## OPUS
-Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji pozarządowych. Można tam uzyskać informacje czy wskazówki potrzebne przy rejestracji zrzeszeń. Dla Hakierspejsu Centrum OPUS pełni rolę inkubatora z racji wypożyczania sali potrzebnej na nasze spotkania.
 
-**Lokalizacja Centrum OPUS**
+***
+
+
+## [OPUS](https://opus.org.pl/) <sup>([**FB**](https://www.facebook.com/CentrumOPUS))</sup>
+
+### Opis
+
+Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji pozarządowych. Można tam uzyskać informacje czy wskazówki potrzebne przy rejestracji zrzeszeń. Dla Hakierspejsu Centrum OPUS pełni rolę inkubatora z racji wypożyczania sali potrzebnej na nasze spotkania - na chwilę obecną jest to nasze główne miejsce do spotkań na żywo.
+
+### Lokalizacja Centrum OPUS
 
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
-* spotkania co 2 tyg. w środy o 17
 
-**Spotkania w OPUSie itd. są chwilowo zawieszone z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się online.**
+### Spotkania
+* co 2 tyg. w środy o 17
 
-## [6 dzielnica](https://szostadzielnica.pl/)
+Spotkania w OPUSie itd. są **chwilowo zawieszone** z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się **online**.
 
-W środę 29 stycznia spotkaliśmy się w pubie „6 dzielnica” (Piotrkowska 102). Można jeszcze skorzystać z tej opcji w przyszłości.
+
+***
+
+
+## [6. dzielnica](https://szostadzielnica.pl/) <sup>([**FB**](https://www.facebook.com/6dzielnica/))
+### Opis
+
+6. Dzielnica – to klub w samym sercu miasta przy ul. Piotrkowskiej 102. Dzielnica twórczej energii i dyskusji o ideach. To również przestrzeń dla artystów, wypełniona sztuką, muzyką i wyjątkowymi ludźmi.
+
+### Lokalizacja
+
+Lokal mieści się pod adresem Łódź, ul. Piotrkowska 102, II Piętro
+
+### Spotkania
+
+Pierwsze spotkanie w pubie „6 dzielnica” miało miejsce 29 stycznia. Można jeszcze skorzystać z tej opcji w przyszłości.
+
+***
 
 ## [BODO](https://kinobodo.pl)
 
 W planach było tzw. nocne haczenie w kinie. Nadal jest w planach, ale musimy poczekać na koniec sami-wiecie-czego.
+
+
+***
+
 
 ## Online
 
