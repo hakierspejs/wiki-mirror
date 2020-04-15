@@ -1,4 +1,5 @@
-Sekcja w trakcie rozbudowy. Jeśli chcesz coś zmienić/dopisać, wejdź tu : [Kod źródłowy](https://github.com/hakierspejs/wiki/wiki/Spotkania/_edit)
+Sekcja w trakcie rozbudowy. Jeśli chcesz coś zmienić/dopisać, wejdź w [kod źródłowy](https://github.com/hakierspejs/wiki/wiki/Spotkania/_edit).
+
 # Pady
 
 Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
