@@ -94,6 +94,10 @@ Multimetr? Oscyloskop? Lutownica? Jakieś arduino/esp8266, kabelki, podstawowe e
 
 Z rzeczy droższych: drukarka, drukarka 3D.
 
+Jakiś czas temu zobowiązałem się do przekazania moich elektronicznych klamotów gdy już będziemy mieli swoją siedzibę i formę prawną. Jest tam oscyloskop (jakiś Uni-t z zakresem do 100MHz), multimetr, zasilacz laboratoryjny, stacja lutownicza Zhaoxin, 4x RPi 3B i masa innego sprzętu który służył mi w liceum do budowy chorych projektów.
+
+_@kszmigiel_
+
 # Mapowanie okolicy
 
 Gdzie jest najbliższy:
