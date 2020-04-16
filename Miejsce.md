@@ -88,6 +88,9 @@ Absolutne minimum to czajnik elektryczny. Fajnie byłoby móc coś ugotować, w
 
 ... Czajniki marek własnych z marketów typu Tesco, Auchan są tanie i długowieczne.
 
+IMO czajnik, kubki, łyżeczki, kawa i herbata na początek wystarczą. Później można pomyśleć o mikrofali dla zainteresowanych. Raczej niewskazane byłoby pichcenie 3-daniowego obiadu w spejsie.
+_@kszmigiel_
+
 ## Elektronika
 
 Multimetr? Oscyloskop? Lutownica? Jakieś arduino/esp8266, kabelki, podstawowe elementy układów elektrycznych: płytki stykowe, zworki, rezystory itd. Ekran, klawiatura i myszka USB. Przedłużacze do prądu. Ledstripy. Więcej ledstripów. Finansowo to jest worek bez dna.
