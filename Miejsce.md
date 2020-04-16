@@ -27,7 +27,9 @@ Będziemy robić hackathony. Będziemy się socjalizować do późna. Będziemy
 Po co nam Hakierspejs, skoro jest na księżycu?
 
 Pewnie część z nas mieszka w różnych dziwnych skrajach Łodzi, lub zupełnie poza jej granicami. Przydałby się lokal, który komunikowałby nawet najdalsze krańce miasta i obszary poza nim (dla osób niewładających mocami prowadzenia samochodu - fajnie byłoby, gdyby niedaleko miejsca spotkań znajdował się przystanek autobusowy/tramwajowy skupiający wiele linii).
-Jako,że nie wszyscy są z Łodzi, niektórzy mają auta – parking też by się przydał.
+Jako, że nie wszyscy są z Łodzi, niektórzy mają auta – parking też by się przydał.
+
+Lokal z witryną od Piotrkowskiej nie jest pożądany – dużo lepsze będzie coś, co zapewni nam odpowiedni poziom prywatności.
 
 ### Metraż >30m2
 
