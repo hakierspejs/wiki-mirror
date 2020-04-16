@@ -33,7 +33,7 @@ Poniżej lista padów ze spotkań:
 
 ### Opis
 
-Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji pozarządowych. Można tam uzyskać informacje czy wskazówki potrzebne przy rejestracji zrzeszeń. Dla Hakierspejsu Centrum OPUS pełni rolę inkubatora z racji wypożyczania sali potrzebnej na nasze spotkania - na chwilę obecną jest to nasze główne miejsce do spotkań na żywo.
+Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji pozarządowych. Można tam uzyskać informacje czy wskazówki potrzebne przy rejestracji zrzeszeń. Dla Hakierspejsu Centrum OPUS pełni rolę inkubatora z racji wypożyczania sali potrzebnej na nasze spotkania – na chwilę obecną jest to nasze główne miejsce do spotkań na żywo.
 
 ### Lokalizacja Centrum OPUS
 
