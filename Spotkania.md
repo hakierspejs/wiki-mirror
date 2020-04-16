@@ -83,7 +83,7 @@ Mamy możliwość organizacji nocnego haczenia. Wydarzenie zostanie ogłoszone a
 ***
 
 
-### Online
+# Online
 
 * pierwsze spotkanie w tym trybie rozpoczęło się na jit.si, jednak ze względu na problemy techniczne przenieśliśmy się na Mumble -- więcej informacji [[Infrastruktura#Mumble]]
 * zwyczajowo spotykamy się wieczorami we wtorki i/lub soboty
