@@ -9,18 +9,15 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 
 -->
 
-Liczby oznaczają: ilość napisanych sekcji / ilość wszystkich sekcji.
-
-## [[Finanse]] (2/8)
-## [[Forma prawna]] (8/12)
-## [[Infrastruktura]] (11/13)
+## [[Finanse]]
+## [[Forma prawna]]
+## [[Infrastruktura]]
 ## [[Lista mailingowa]]
 ## [[Miejsce]]
 ## [[Nowy projekt: checklista]]
 ## [[O nas]]
 ## [[Porównanie HSów]]
-## [[Projekty]] (2/7)
-## [[Roadmapa]]
-## [[Spotkania]] (2/4)
+## [[Projekty]]
+## [[Spotkania]]
 ## [[Potrzebujemy pomocy z...]]
 ## [[Wartości HSŁ]]
