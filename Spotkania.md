@@ -2,7 +2,7 @@ Sekcja w trakcie rozbudowy. Jeśli chcesz coś zmienić/dopisać, wejdź w [kod 
 
 # Pady
 
-Na każdym spotkaniu staramy się prowadzić notatki, w których zabrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
+Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są luźne myśli uczestników, pomysły i plany na przyszłe spotkania.
 
 Poniżej lista padów ze spotkań:
 
@@ -35,7 +35,7 @@ Poniżej lista padów ze spotkań:
 
 Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji pozarządowych. Można tam uzyskać informacje czy wskazówki potrzebne przy rejestracji zrzeszeń. Dla Hakierspejsu Centrum OPUS pełni rolę inkubatora z racji wypożyczania sali potrzebnej na nasze spotkania – na chwilę obecną jest to nasze główne miejsce do spotkań na żywo.
 
-### Lokalizacja Centrum OPUS
+### Lokalizacja
 
 * Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
 
