@@ -6,9 +6,29 @@ Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/l
 
 # Po co nam spejs
 
+
 ## Socjalizacja
 
+Pohaczyłbyś, ale nie masz co, albo z kim. Spejs to takie miejsce, do którego przychodzisz znudzony, a wracasz z głową pełną inspiracji. Każdy problem jest mniej straszny, gdy nie rozwiązujesz go sam. Gromadzimy ludzi o różnych specjalizacjach i zainteresowaniach, dzięki czemu każdy ma szansę, aby nauczyć czegoś innych. Dużo przyjemniej również rozmawia się z kimś, kto ma te same lub podobne zainteresowania.
+
+
 ## Wymiana narzędzi
+
+Zebranie się w jednym miejscu pozwoli nam na wykorzystanie ekonomii skali: im nas więcej, tym więcej można zrobić za 100 zł/mies. Drukarka 3D w celach nauki dla jednej osoby może być fanaberią, ale przy kilkunastoosobowym zespole eksperymentatorów posiadanie jej ma sens. To samo dotyczy oscyloskopu. Większość czasu jest nieużywany. Gromadzenie wszystkiego w jednym miejscu sprawi, że wszyscy będziemy mieli pod ręką dowolną zabawkę.
+
+
+## Laboratorium
+
+Jako rzecze d33tah:
+> "Jeden kąkuter to tylko kąkuter, ale dwa kąkutery połączone w sieć to prawie klaster". 
+
+Używamy hakierspejsu jako pretekstu do eksperymentowania w tworzeniu infrastruktury. Zamiast ryzykować zwolnienie z pracy, testujemy tu nasze rozwiązania. 
+
+> "Nie ma złych pomysłów, są tylko takie, których nie można wykorzystać od razu." ~ Marti
+
+
+
+
 
 # Wymagania
 
