@@ -1,4 +1,3 @@
-
 |-|Warszawa|Kraków|Wrocław|Trójmiasto|Silesia
 |---|---|---|---|---|---
 |Forma prawna|Stowarzyszenie|Fundacja|Stowarzyszenie|Część fundacji ([CODE:ME](https://wiki.hs3.pl/codeme))|Stowarzyszenie
