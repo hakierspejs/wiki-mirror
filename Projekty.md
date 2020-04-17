@@ -7,23 +7,23 @@
 
 # MPKMPK
 
-**Opis:**
+**Opis:** MPKMPK to projekt autorstwa Hakierspejs Łódź oparty na już istniejącej stronie rozklad.mpk.lodz.pl. Polega na eksperymentalnym wyeksponowaniu rozkładów jazdy pojazdów MPK.
 
-**Stan:**
+**Stan:** Proof of concept - można wpisać ID przystanku i zobaczyć najbliższe przyjazdy.
 
 
 # OSMLodz
 
-**Opis:**
+**Opis:** OSMŁódź to projekt wyświetlający wszystkie punkty handlowe na terenie Łodzi łącznie z godzinami ich otwarcia
 
-**Stan:**
+**Stan:** Wyświetlanie aktualnych danych bez reagowania na zmianę czasu
 
 
 # Corononews
 
-**Opis:**
+**Opis:** Ten projekt powstał, aby ze strony [Hacker News](https://news.ycombinator.com/) "odsiewać" wszystkie wątki dotyczące koronawirusa.
 
-**Stan:**
+**Stan:** Projekt jest bardzo powolny i niestabilny, przydałoby się go postawić za jakimś cache.
 
 
 # Homepage
@@ -33,15 +33,20 @@
 **Stan:** Strona spełnia swoje zadanie, ale jeśli znajdzie się jakiś front-endowy czarodziej, który ogarnie temat i stworzy nam jakiś własny theme to na pewno nikt nie będzie go zatrzymywał.
 
 
-# meetupscraper
+# Meetupscraper
+
+**Opis:** Biblioteka do wczytywania zaplanowanych spotkań na meetupie
+
+**Stan:** Zawartość jest, pudełka brak. Biblioteka działa, ale nie ma np. dokumentacji.
+
+# Jekyll-screenshot-github-action
+
+
+**Opis:** Github Action, który robi screenshota stronie napisanej w jekyllu. 
+
+**Stan:** Działa, ale nie jest używany, bo załączniki Github Actions niewygodnie się otwiera.
+
+# Ksiemgowy
+
 
 **Opis:**
-
-**Stan:**
-
-# jekyll-screenshot-github-action
-
-
-**Opis:**
-
-**Stan:**
