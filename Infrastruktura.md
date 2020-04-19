@@ -109,7 +109,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** To tylko kanał na shitposty.
 
-**Kto kontroluje:** Każdy kto poprosi o admina.
+**Kto kontroluje:** @BluRaf
 
 ## Kanał do testowania botów
 
