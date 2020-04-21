@@ -2,7 +2,7 @@ Luźne notatki na temat poszukiwań lokalu.
 
 Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/lodz/2020-March/000030.html).
 
-[Lista lokali, które nas mogą interesować](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA)
+[Lista lokali, które mogą nas interesować](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA)
 
 # Po co nam spejs
 
