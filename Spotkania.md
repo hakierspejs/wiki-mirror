@@ -38,10 +38,10 @@ Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji po
 
 ### Lokalizacja
 
-* Łódź, Narutowicza 8/10 (dawny Empik), nie bać się tylko wejść do budynku, następnie po schodach na I piętro i korytarzem w prawo, salka po lewej
+* Łódź, Narutowicza 8/10 (dawny Empik), następnie po schodach na I piętro i korytarzem w prawo, salka po lewej.
 
 ### Spotkania
-* co 2 tyg. w środy o 17
+* Co 2 tyg. w środy o 17.
 
 Spotkania w OPUSie itd. są **chwilowo zawieszone** z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się **online**.
 
