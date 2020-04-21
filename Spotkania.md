@@ -16,6 +16,7 @@ Poniżej lista padów ze spotkań:
 8. [7 kwietnia 2020](https://pad.hs-ldz.pl/F3oHd44sTCapJGABtOaYrg) – online: mumble
 9. [14 kwietnia 2020](https://pad.hs-ldz.pl/SmR-JF0QTNKagijU7v3PoA) – online: mumble
 10. [18 kwietnia 2020](https://pad.hs-ldz.pl/bSAx1vb-SIuy8ITXu9tdRQ) – online: mumble
+11. [21 kwietnia 2020](https://pad.hs-ldz.pl/1yTcKE_LQEW_CyNWsWu3fA) - online: mumble
 <!--
 
 # Miejsca
