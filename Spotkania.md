@@ -7,17 +7,29 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 Poniżej lista padów ze spotkań:
 
 [11 lutego 2020](https://hastebin.com/raw/fefahuyoce) -  OPUS
+
 [25 lutego 2020](https://hastebin.com/raw/jijajesova) -  OPUS
+
 [10 marca 2020](https://hastebin.com/raw/saxidohose) –  OPUS
+
 [18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
+
 [24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
+
 [31 marca 2020](https://pad.hs-ldz.pl/BNDBoOqfT_-dnLAbjOCqwQ) – online: mumble
+
 [4 kwietnia 2020](https://pad.hs-ldz.pl/-_uV1G2eSAWKyOmzpcgo6w) – online: mumble
+
 [7 kwietnia 2020](https://pad.hs-ldz.pl/F3oHd44sTCapJGABtOaYrg) – online: mumble
+
 [14 kwietnia 2020](https://pad.hs-ldz.pl/SmR-JF0QTNKagijU7v3PoA) – online: mumble
+
 [18 kwietnia 2020](https://pad.hs-ldz.pl/bSAx1vb-SIuy8ITXu9tdRQ) – online: mumble
+
 [21 kwietnia 2020](https://pad.hs-ldz.pl/1yTcKE_LQEW_CyNWsWu3fA) - online: mumble
+
 [25 kwietnia 2020](https://pad.hs-ldz.pl/3jFOIuccSrOMtcjct5mLOw) - online: mumble
+
 [28 kwietnia 2020](https://pad.hs-ldz.pl/eXJcEioMQdiL3J8eKnJPjA) - online: mumble
 <!--
 
