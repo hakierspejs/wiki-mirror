@@ -8,7 +8,7 @@ Na ten moment, póki nie mamy ustalonej oficjalnej formy prawnej – a co za tym
 
 # Kiedy powstał Hakierspejs?
 
-Pierwsze spotkanie było 15 stycznia 2020 roku: https://lists.hackerspace.pl/pipermail/lodz/2020-January/000001.html
+[Pierwsze spotkanie](https://lists.hackerspace.pl/pipermail/lodz/2020-January/000001.html) było 15 stycznia 2020 roku.
 
 # Co trzeba umieć, żeby pasować do HSŁ?
 
