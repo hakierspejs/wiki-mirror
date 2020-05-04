@@ -38,7 +38,7 @@ Poniżej lista padów ze spotkań:
 
 [28 kwietnia 2020](https://pad.hs-ldz.pl/eXJcEioMQdiL3J8eKnJPjA) - online: mumble
 
-## Man
+## Maj
 
 [2 maja 2020](https://pad.hs-ldz.pl/exePV_y3SGaKfivP2mFb7w) - online: mumble
 
