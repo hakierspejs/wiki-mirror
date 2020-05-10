@@ -34,7 +34,7 @@ renewal date:          2021.03.14 21:17:12
 
 Domenę hakierspejs.pl zarejestrował d33tah, żeby nikt jej nam nie zasiedział (@q3k wolałby żebyśmy jej nie używali jako głównej, co by się nie myliło z hackerspace.pl). hs-ldz.pl jest ustawiony na wildcard kierujący do VMki PC d33taha.
 
-**Kto kontroluje:** @d33tah. Przydałby się drugi admin.
+**Kto kontroluje:** @d33tah, @cb4b1fd915
 
 **Koszty:** 2x13zł, +/- 5zł. Zarówno w OVH jak i w MicroHost za przedłużenie wezmą jakieś 50zł licząc VAT.
 
