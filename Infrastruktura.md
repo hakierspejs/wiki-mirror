@@ -34,7 +34,7 @@ renewal date:          2021.03.14 21:17:12
 
 Domenę hakierspejs.pl zarejestrował d33tah, żeby nikt jej nam nie zasiedział (@q3k wolałby żebyśmy jej nie używali jako głównej, co by się nie myliło z hackerspace.pl). hs-ldz.pl jest ustawiony na wildcard kierujący do VMki PC d33taha.
 
-**Kto kontroluje:** @d33tah, @cb4b1fd915
+**Kto kontroluje:** @d33tah, @cytP450
 
 **Koszty:** 2x13zł, +/- 5zł. Zarówno w OVH jak i w MicroHost za przedłużenie wezmą jakieś 50zł licząc VAT.
 
@@ -156,6 +156,14 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 **Kto kontroluje:** @d33tah
 
 # Hosting
+
+**Opis/zastosowanie**: maszyna wirtualna hostowana przez Hackerspace Warszawa. Hostujemy na niej nasze projekty i usługi różnego typu, m.in.: Grafanę, CodiMD czy Discourse.
+
+**Koszty**: dzięki uprzejmości Hackerspace Warszawa, na ten moment jest gratis. W momencie gdy zostaniemy przemigrowani na fizycznego hosta, pojawią się koszty za prąd (poniżej 50zł/mies).
+
+**Migracja:** zakładając, że robimy regularnie backupy, jest to kwestia wynajęcia gdzieś innej VMki i przepięcia domeny na nowy adres IP.
+
+**Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher i @cytP450. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
 
 # Logo
 
