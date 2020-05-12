@@ -67,7 +67,7 @@ Opinia d33taha: nie przykładałbym do tego zbyt dużej wagi. Wystarczy jakiś 
 
 ## Zapis w sądzie, poprawki statutu, czekanie
 
-Podobno rejestracja stowarzyszenia trwa dość długo.
+Podobno rejestracja stowarzyszenia trwa dość długo - około trzech miesięcy plus dodatkowe 3mies za każdym razem kiedy sąd odrzuci naszą rejestrację.
 
 ## Zabezpieczenie kwestii księgowych
 
