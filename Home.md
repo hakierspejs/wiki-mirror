@@ -12,6 +12,7 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 ## [[Finanse]]
 ## [[Forma prawna]]
 ## [[Infrastruktura]]
+## [[Kontakt]]
 ## [[Lista mailingowa]]
 ## [[Miejsce]]
 ## [[Nowy projekt: checklista]]
