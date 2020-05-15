@@ -14,6 +14,7 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 ## [[Infrastruktura]]
 ## [[Kontakt]]
 ## [[Lista mailingowa]]
+## [[Ludzie]]
 ## [[Miejsce]]
 ## [[Nowy projekt: checklista]]
 ## [[O nas]]
