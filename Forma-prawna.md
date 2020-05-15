@@ -10,7 +10,7 @@ Jak wspomniano w poprzednim akapicie, na ten moment d33tah jest [SPOF](https://e
 
 ## Legitymizacja, pogłębienie tożsamości
 
-Powołanie stowarzyszenia sprawi, że będziemy (m.in. poprzez stworzenie statutu) musieli odpowiedzieć na parę pytań: co jest naszym celem, na jakich zasadach go realizujemy, kto u nas sprawuje kontrolę i na jakich warunkach. Taka forma przezroczystości może dodać nam wiarygodności, np. przy pozyskiwaniu nowych członków lub nawiązywaniu współpracy z innymi organizacjami. Będziemy formalnie NGO, co otwiera nowe drzwi.
+Powołanie stowarzyszenia sprawi, że będziemy (m.in. poprzez stworzenie statutu) musieli odpowiedzieć na parę pytań: co jest naszym celem, na jakich zasadach go realizujemy, kto u nas sprawuje kontrolę i na jakich warunkach. Taka forma przezroczystości może dodać nam wiarygodności, np. przy pozyskiwaniu nowych członków lub nawiązywaniu współpracy z innymi organizacjami. Będziemy formalnie [NGO](https://pl.wikipedia.org/wiki/Organizacja_pozarz%C4%85dowa), co otwiera nowe drzwi.
 
 ## Możliwość oficjalnego działania jako grupa
 
