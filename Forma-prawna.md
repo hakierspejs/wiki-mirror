@@ -1,16 +1,20 @@
 # Po co nam forma prawna?
 
-**TODO**: ta sekcja jest szkicem, który należy uzupełnić.
+## Kwestie finansowe
+
+Na ten moment d33tah zbiera składki "na gębę", co a) jest prawdopodobnie w prawnej szarej strefie, b) oznacza że jest [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)em, c) wymaga większego zaufania od strony przelewających. Po zarejestrowaniu moglibyśmy mieć skarbnika, który oficjalnie objąłby tę rolę, składki byłyby legalnie zgłaszane do skarbówki a w razie gdy startowalibyśmy o jakieś dofinansowanie np. w ramach konkursu czy mikrograntów, mamy taką możliwość ponieważ jesteśmy zarejestrowanym ciałem prawnym.
+
+## Zarządzanie ryzykiem
+
+Jak wspomniano w poprzedinm akapicie, na ten moment d33tah jest SPOFem Hakierspejsu. Oznacza to, że jeśli z jakiegoś powodu nie będzie mógł być aktywny w Hakierspejsie, jego aktywność będzie ograniczona do oddolnych działań. O ile większość naszej struktury ma więcej niż jednego admina, uregulowanie w ten sposób umów prawnych, np. wynajmu przestrzeni czy internetu będzie dużo łatwiejsze po zarejestrowaniu.
 
 ## Legitymizacja, pogłębienie tożsamości
 
-## Możliwość działania jako grupa
+TODO
 
-## Kwestie finansowe
+## Możliwość oficjalnego działania jako grupa
 
-(dofinansowania)
-
-## Zarządzanie ryzykiem
+TODO
 
 # Stowarzyszenie czy fundacja?
 ## Podstawa prawna poszczególnych form i porównanie między nimi
