@@ -6,11 +6,11 @@ Na ten moment d33tah zbiera składki "na gębę", co a) jest prawdopodobnie w pr
 
 ## Zarządzanie ryzykiem
 
-Jak wspomniano w poprzedinm akapicie, na ten moment d33tah jest [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)em Hakierspejsu. Oznacza to, że jeśli z jakiegoś powodu nie będzie mógł być aktywny w Hakierspejsie, aktywność organizacji będzie ograniczona do oddolnych działań. O ile większość naszej struktury ma więcej niż jednego admina, uregulowanie w ten sposób umów prawnych, np. wynajmu przestrzeni czy internetu będzie dużo łatwiejsze po zarejestrowaniu.
+Jak wspomniano w poprzednim akapicie, na ten moment d33tah jest [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)em Hakierspejsu. Oznacza to, że jeśli z jakiegoś powodu nie będzie mógł być aktywny w Hakierspejsie, aktywność organizacji będzie ograniczona do oddolnych działań. O ile większość naszej struktury ma więcej niż jednego admina, uregulowanie w ten sposób umów prawnych, np. wynajmu przestrzeni czy internetu będzie dużo łatwiejsze po zarejestrowaniu. Dodatkowo, dzięki stworzeniu statutu, warunki przekazania kontroli komuś innemu będą przejrzyste.
 
 ## Legitymizacja, pogłębienie tożsamości
 
-TODO
+Powołanie stowarzyszenia sprawi, że będziemy (m.in. poprzez stworzenie statutu) musieli odpowiedzieć na parę pytań: co jest naszym celem, na jakich zasadach go realizujemy, kto u nas sprawuje kontrolę i na jakich warunkach. Taka forma przezroczystości może dodać nam wiarygodności, np. przy pozyskiwaniu nowych członków lub nawiązywaniu współpracy z innymi organizacjami. Będziemy formalnie NGO, co otwiera nowe drzwi.
 
 ## Możliwość oficjalnego działania jako grupa
 
