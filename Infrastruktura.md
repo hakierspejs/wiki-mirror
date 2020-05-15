@@ -48,7 +48,6 @@ https://microhost.pl/domeny/cennik/ ("pl" jest poniżej "work")
 
 Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
 
-
 # Github
 
 **Opis/zastosowanie:** Repozytorium gita na projekty, które rozwijają członkowie hakierspejsu i nie tylko. Rozważaliśmy hostowanie własnego serwisu (Gogs, Gitea), ale korzystanie z Githuba otwiera nasze repozytoria na kontrybucje z zewnątrz.
@@ -69,7 +68,20 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Kto kontroluje:** @d33tah (organizer), @Martti25 (co-organizer), @biniu (co-organizer) @kszmigiel (co-organizer), @nikolaad (co-organizer), @Keij0 (co-organizer)
 
-# Telegram
+# Lista mailingowa
+* [https://lists.hackerspace.pl/pipermail/lodz/](https://lists.hackerspace.pl/pipermail/lodz/)
+
+**Opis/zastosowanie:** dzielenie się informacjami o bieżących planach/wydarzeniach/co się dzieje
+
+**Koszty:** 0
+
+**Migracja:** stoi na Pipermail 0.09 hostowane przez Hackerspace Warszawa. W razie czego można zrobić dumpy .txt całych archiwów, ale adres listy musiałby się zmienić. Możliwy eksport listy osób zasubskrybowanych.
+
+**Kto kontroluje:** @d33tah, @q3k
+
+# Telegram - kanały
+
+## Hakierspejs Łódź
 
 **Opis/zastosowanie:** Podstawowe narzędzie komunikacji. Dołączyć do grupy może każdy pod tym [linkiem](https://t.me/hakierspejs). Telegram to dobry kompromis jako narzędzie do komunikacji dla hackerów (aplikacje dla klientów mają otwarty kod źródłowy). Jednocześnie, jeżeli ktoś czuje się bardziej komfortowo z IRC, to może dalej z niego korzystać. Bramka, która wymienia wiadomości między IRC a grupą na Telegramie, zadba o reszte.
 
@@ -77,31 +89,9 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** Niemożliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują. Na szczęście można przynajmniej wyeksportować historię kanału.
 
-**Kto kontroluje:** @d33tah
+**Kto kontroluje:** @d33tah, @kszmigiel, @BluRaf
 
-# Mumble
-
-**Opis/zastosowanie:** Serwer do rozmów głosowych dostępny pod domeną `junkcc.net`
-
-**Koszty:** 0 zł / miesiąc, jako iż serwer jest już wykorzystywany jako serwer gier
-
-**Migracja:** Kwestia przeniesienia konfiguracji (o ile jest co przenosić)
-
-**Kto kontroluje:** @BluRaf
-
-# IRC
-
-**Opis/zastosowanie:** Kanał IRC #hakierspejs dostępny w sieci Freenode (`chat.freenode.net`) zmostkowany z czatem na Telegramie.
-
-**Koszty:** 0 zł / miesiąc
-
-**Migracja:** -
-
-**Kto kontroluje:** @BluRaf, @d33tah (operatorzy)
-
-# Telegram – secondary channels
-
-## Shitposty
+## Shitposty z łódzkiego hakierspejsu
 
 **Opis/zastosowanie:** Pierwotnie do shitpostowania, spamowania i gadania na tematy mało związane z IT, elektroniką i wolną kulturą (w tym na będący bardzo na czasie temat pewnego biologicznego bytu, który opanował cały świat i przewrócił życie milionów ludzi do góry nogami) używaliśmy kanału, który stworzyliśmy na jednym ze spotkań w Opusie w celu testowania botów do Telegrama. Z uwagi jednak na to, że wiadomości diagnostyczne od botów przeszkadzały w użytkowaniu kanału do komunikacji human-to-human, 18 kwietnia 2020 stworzyliśmy [nowy kanał do shitpostów](https://t.me/hakierspejs_spam). **Uwaga**: tematy około-techniczno-hakerskie, nawet jeżeli zahaczają o shitpost (typu: rant na *wstaw dowolne distro*), lepiej kierować na główny kanał, żeby nam po prostu nie umarł. Więcej informacji na ten temat [tutaj](https://lists.hackerspace.pl/pipermail/lodz/2020-March/000026.html).
 
@@ -109,7 +99,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** To tylko kanał na shitposty.
 
-**Kto kontroluje:** @BluRaf
+**Kto kontroluje:** @BluRaf, @d33tah
 
 ## Kanał do testowania botów
 
@@ -121,16 +111,25 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Kto kontroluje:** Każdy kto poprosi o admina.
 
-# Lista mailingowa
-* [https://lists.hackerspace.pl/pipermail/lodz/](https://lists.hackerspace.pl/pipermail/lodz/)
+# IRC
 
-**Opis/zastosowanie:** dzielenie się informacjami o bieżących planach/wydarzeniach/co się dzieje
+**Opis/zastosowanie:** Kanał IRC #hakierspejs dostępny w sieci Freenode (`chat.freenode.net`) zmostkowany z czatem na Telegramie.
 
-**Koszty:** 0
+**Koszty:** 0 zł / miesiąc
 
-**Migracja:** stoi na Pipermail 0.09 hostowane przez Hackerspace Warszawa. W razie czego można zrobić dumpy .txt całych archiwów, ale adres listy musiałby się zmienić. Możliwy eksport listy osób zasubskrybowanych.
+**Migracja:** -
 
-**Kto kontroluje:** @d33tah, @q3k
+**Kto kontroluje:** @BluRaf, @d33tah (operatorzy)
+
+# Mumble
+
+**Opis/zastosowanie:** Serwer do rozmów głosowych dostępny pod domeną `junkcc.net`
+
+**Koszty:** 0 zł / miesiąc, jako iż obecny serwer jest wykorzystywany przez właściciela również do innych celów
+
+**Migracja:** Kwestia przeniesienia konfiguracji (o ile jest co przenosić)
+
+**Kto kontroluje:** @BluRaf
 
 # Boty
 ## Mariusz
@@ -141,19 +140,9 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Opis/zastosowanie:** transport między Telegramem a IRC-em
 
-**Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera pod nowym API keyem na innym serwerze.
+**Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera na innym serwerze z tym samym lub innym kluczem API.
 
 **Kto kontroluje:** @BluRaf
-
-# Pad
-
-**Opis:** spejsowy notatnik https://pad.hs-ldz.pl; zastosowanie np. notatki ze spotkań
-
-**Koszty:** 0 (musi być gdzieś hostowany)
-
-**Migracja:** self-hosted, więc gdzieś przenieść nie problem, przeniesienie samych treści może być bardziej problematyczne, ale notatki opierają się na kodzie źródłowym a'la Markdown, więc jest to rabialne
-
-**Kto kontroluje:** @d33tah
 
 # Hosting
 
@@ -164,6 +153,16 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 **Migracja:** zakładając, że robimy regularnie backupy, jest to kwestia wynajęcia gdzieś innej VMki i przepięcia domeny na nowy adres IP.
 
 **Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher i @cytP450. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
+
+## Pad
+
+**Opis:** spejsowy notatnik https://pad.hs-ldz.pl; zastosowanie np. notatki ze spotkań
+
+**Koszty:** 0 (musi być gdzieś hostowany)
+
+**Migracja:** self-hosted, więc gdzieś przenieść nie problem, przeniesienie samych treści może być bardziej problematyczne, ale notatki opierają się na kodzie źródłowym a'la Markdown, więc jest to rabialne
+
+**Kto kontroluje:** @d33tah
 
 # Logo
 
