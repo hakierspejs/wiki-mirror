@@ -6,7 +6,7 @@ Na ten moment d33tah zbiera składki "na gębę", co a) jest prawdopodobnie w pr
 
 ## Zarządzanie ryzykiem
 
-Jak wspomniano w poprzedinm akapicie, na ten moment d33tah jest SPOFem Hakierspejsu. Oznacza to, że jeśli z jakiegoś powodu nie będzie mógł być aktywny w Hakierspejsie, jego aktywność będzie ograniczona do oddolnych działań. O ile większość naszej struktury ma więcej niż jednego admina, uregulowanie w ten sposób umów prawnych, np. wynajmu przestrzeni czy internetu będzie dużo łatwiejsze po zarejestrowaniu.
+Jak wspomniano w poprzedinm akapicie, na ten moment d33tah jest [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)em Hakierspejsu. Oznacza to, że jeśli z jakiegoś powodu nie będzie mógł być aktywny w Hakierspejsie, jego aktywność będzie ograniczona do oddolnych działań. O ile większość naszej struktury ma więcej niż jednego admina, uregulowanie w ten sposób umów prawnych, np. wynajmu przestrzeni czy internetu będzie dużo łatwiejsze po zarejestrowaniu.
 
 ## Legitymizacja, pogłębienie tożsamości
 
