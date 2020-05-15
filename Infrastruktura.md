@@ -67,7 +67,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** stracimy historię meetupów oraz przestaniemy przyciągać ludzi, którzy stamtąd się o nas dowiedzieli. Also, żeby boty działały, trzeba będzie przepisać/przemigrować z [meetupscrapera](https://github.com/hakierspejs/meetupscraper).
 
-**Kto kontroluje:** @d33tah (organizer), @Martti25 (co-organizer), @biniu (co-organizer) @kszmigiel (co-organizer), @nikolaad
+**Kto kontroluje:** @d33tah (organizer), @Martti25 (co-organizer), @biniu (co-organizer) @kszmigiel (co-organizer), @nikolaad (co-organizer), @Keij0 (co-organizer)
 
 # Telegram
 
