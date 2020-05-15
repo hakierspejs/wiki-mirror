@@ -2,7 +2,7 @@
 
 ## Kwestie finansowe
 
-Na ten moment d33tah zbiera składki "na gębę", co a) jest prawdopodobnie w prawnej szarej strefie, b) oznacza że jest [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)em, c) wymaga większego zaufania od strony przelewających. Po zarejestrowaniu moglibyśmy mieć skarbnika, który oficjalnie objąłby tę rolę, składki byłyby legalnie zgłaszane do skarbówki a w razie gdy startowalibyśmy o jakieś dofinansowanie np. w ramach konkursu czy mikrograntów, mamy taką możliwość ponieważ jesteśmy zarejestrowanym ciałem prawnym.
+Na ten moment d33tah zbiera składki "na gębę", co a) jest prawdopodobnie w prawnej szarej strefie, b) oznacza że jest on [SPOF](https://en.wikipedia.org/wiki/Single_point_of_failure)em, c) wymaga większego zaufania od strony przelewających. Po zarejestrowaniu moglibyśmy mieć skarbnika, który oficjalnie objąłby tę rolę, składki byłyby legalnie zgłaszane do skarbówki a w razie gdy startowalibyśmy o jakieś dofinansowanie np. w ramach konkursu czy mikrograntów, mamy taką możliwość ponieważ jesteśmy zarejestrowanym ciałem prawnym.
 
 ## Zarządzanie ryzykiem
 
