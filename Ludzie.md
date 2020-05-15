@@ -1,1 +1,1 @@
-![kto co kontroluje - diagram](https://github.com/hakierspejs/wiki/blob/master/media-w-wiki/kto-co-kontroluje.svg)
+![kto co kontroluje - diagram](https://raw.githubusercontent.com/hakierspejs/wiki/master/media-w-wiki/kto-co-kontroluje.svg)
