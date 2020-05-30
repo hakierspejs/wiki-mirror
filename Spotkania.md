@@ -50,6 +50,8 @@ Poniżej lista padów ze spotkań:
 
 [23 maja 2020](https://pad.hs-ldz.pl/5eHe0DfxT6mqVVeI7TzayA) - online: mumble
 
+[30 maja 2020](https://pad.hs-ldz.pl/5MhNsEmsQTqIIP3307563g) - online: mumble
+
 <!--
 
 # Miejsca
