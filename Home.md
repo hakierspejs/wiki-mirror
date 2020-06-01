@@ -1,4 +1,4 @@
-Jesteśmy hackerspace'em w Łodzi. Istniejemy od niedawna. Robimy projekty. Nasza aktywność on-line skupia się na [[Telegramie|Infrastruktura#Telegram]] i [[IRC-u|Infrastruktura#IRC]]. Spotkania odbywają się w [[Opusie|Spotkania#OPUS]] (off-line) (chwilowo zawieszone sam-wiesz-dlaczego) i zdalnie (on-line) na [[Mumble|Infrastruktura#Mumble]].
+Jesteśmy hackerspace'em w Łodzi. Istniejemy od niedawna. Robimy projekty. Nasza aktywność on-line skupia się na [[Telegramie|Infrastruktura#Telegram]] i [[IRC-u|Infrastruktura#IRC]]. Spotkania odbywają się w [[Opusie|Spotkania#OPUS]] (off-line) (chwilowo zawieszone) i zdalnie (on-line) na [[Mumble|Infrastruktura#Mumble]].
 
 Hakierspejs – spis treści
 =========================
