@@ -1,4 +1,4 @@
-Sekcja w trakcie rozbudowy. Jeśli chcesz coś zmienić/dopisać, wejdź w [kod źródłowy](https://github.com/hakierspejs/wiki/wiki/Spotkania/_edit).
+TODO: podzielić ten artykuł na "Spotkania - notatki" oraz "Spotkania - miejsca".
 
 # Pady
 
