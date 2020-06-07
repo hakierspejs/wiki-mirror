@@ -56,6 +56,8 @@ Poniżej lista padów ze spotkań:
 
 [6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
 
+***
+
 # Miejsca
 
 <!--
@@ -65,10 +67,6 @@ Poniżej lista padów ze spotkań:
 - reguły
 
 -->
-
-
-***
-
 
 ## [OPUS](https://opus.org.pl/) <sup>([**FB**](https://www.facebook.com/CentrumOPUS))</sup>
 
