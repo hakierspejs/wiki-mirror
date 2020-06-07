@@ -52,9 +52,13 @@ Poniżej lista padów ze spotkań:
 
 [30 maja 2020](https://pad.hs-ldz.pl/5MhNsEmsQTqIIP3307563g) - online: mumble
 
-<!--
+## Czerwiec
+
+[6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
 
 # Miejsca
+
+<!--
 
 - adres
 - kontakt
