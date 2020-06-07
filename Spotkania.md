@@ -83,9 +83,7 @@ Centrum OPUS zajmuje się pomocą w założeniu różnego rodzaju organizacji po
 
 Spotkania w OPUSie itd. są **chwilowo zawieszone** z wiadomego powodu. Aktualnie wszystkie spotkania odbywają się **online**.
 
-
 ***
-
 
 ## [6. dzielnica](https://szostadzielnica.pl/) <sup>([**FB**](https://www.facebook.com/6dzielnica/))
 ### Opis
@@ -121,6 +119,21 @@ Mamy możliwość organizacji nocnego haczenia. Wydarzenie zostanie ogłoszone a
 
 ***
 
+## [Altanka na Zdrowiu](https://goo.gl/maps/h18uohKsXMZCon478)
+
+### Opis
+
+Altanka w parku im. Józefa Piłsudskiego ("park na Zdrowiu"), która służy nam jako punkt orientacyjny. Niedaleko jest miejsce, gdzie można rozłożyć koce. Jest cień, słońce, kaczki, gołębie i komary. Niedaleko znajduje się toi-toi.
+
+### Lokalizacja
+
+Współrzedne GPS: 51.7677759,19.4125613 (nie sprawdzone, na ile jest to dokładne).
+
+### Spotkania
+
+Pierwsze spotkanie odbyło się 6 czerwca. Ze względu na specyfikę, trzeba brać pod uwagę przewidywaną pogodę i przygotować wcześniej rzeczy pod piknik: koc, prowiant, krem z filtrem i artykuły higieniczne (zwłaszcza w okresie pandemii). Nigdy nie można wykluczyć deszczu, więc zalecany jest także zestaw ciepłych ubrań oraz parasol.
+
+***
 
 # Online
 
