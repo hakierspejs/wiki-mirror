@@ -55,6 +55,7 @@ Poniżej lista padów ze spotkań:
 ## Czerwiec
 
 [6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
+[9 czerwca 2020](https://pad.hs-ldz.pl/L7naXTGsS0qLNB3PFFpOcw?edit) - online: mumble. gość specjalny: marmarta
 
 ***
 
