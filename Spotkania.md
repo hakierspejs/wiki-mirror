@@ -44,7 +44,7 @@ Poniżej lista padów ze spotkań:
 
 [4 maja 2020](https://pad.hs-ldz.pl/wVVTLdxNQ4e9yhm6l-SKgg) - online: mumble. Nagraliśmy [audio i terminal](https://github.com/hakierspejs/wiki/tree/master/spotkania/2020/maj/04)
 
-[9 maja 2020](https://pad.hs-ldz.pl/HaE6ojkOQQW1kBRoI6Ikzw#) - online: mumble
+[9 maja 2020](https://pad.hs-ldz.pl/HaE6ojkOQQW1kBRoI6Ikzw#) - online: mumble. Gość specjalny: q3k (temat: k8s)
 
 [16 maja 2020](https://pad.hs-ldz.pl/0sakKK1VRX2JgR9ZWVmM2g) - online: mumble
 
@@ -55,7 +55,8 @@ Poniżej lista padów ze spotkań:
 ## Czerwiec
 
 [6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
-[9 czerwca 2020](https://pad.hs-ldz.pl/L7naXTGsS0qLNB3PFFpOcw?edit) - online: mumble. gość specjalny: marmarta
+
+[9 czerwca 2020](https://pad.hs-ldz.pl/L7naXTGsS0qLNB3PFFpOcw?edit) - online: mumble. gość specjalny: marmarta z QubesOS
 
 ***
 
