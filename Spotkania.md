@@ -6,21 +6,27 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
-## Luty
+## Czerwiec
 
-[11 lutego 2020](https://hastebin.com/raw/fefahuyoce) -  OPUS
+[6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
 
-[25 lutego 2020](https://hastebin.com/raw/jijajesova) -  OPUS
+[9 czerwca 2020](https://pad.hs-ldz.pl/L7naXTGsS0qLNB3PFFpOcw) - online: mumble. gość specjalny: marmarta z QubesOS
 
-## Marzec
+[17 czerwca 2020](https://pad.hs-ldz.pl/FobGsp3iSjKcvK2VSxIOGQ) - online: mumble
 
-[10 marca 2020](https://hastebin.com/raw/saxidohose) –  OPUS
+## Maj
 
-[18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
+[2 maja 2020](https://pad.hs-ldz.pl/exePV_y3SGaKfivP2mFb7w) - online: mumble
 
-[24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
+[4 maja 2020](https://pad.hs-ldz.pl/wVVTLdxNQ4e9yhm6l-SKgg) - online: mumble. Nagraliśmy [audio i terminal](https://github.com/hakierspejs/wiki/tree/master/spotkania/2020/maj/04)
 
-[31 marca 2020](https://pad.hs-ldz.pl/BNDBoOqfT_-dnLAbjOCqwQ) – online: mumble
+[9 maja 2020](https://pad.hs-ldz.pl/HaE6ojkOQQW1kBRoI6Ikzw#) - online: mumble. Gość specjalny: q3k (temat: k8s)
+
+[16 maja 2020](https://pad.hs-ldz.pl/0sakKK1VRX2JgR9ZWVmM2g) - online: mumble
+
+[23 maja 2020](https://pad.hs-ldz.pl/5eHe0DfxT6mqVVeI7TzayA) - online: mumble
+
+[30 maja 2020](https://pad.hs-ldz.pl/5MhNsEmsQTqIIP3307563g) - online: mumble
 
 ## Kwiecień 
 
@@ -38,25 +44,21 @@ Poniżej lista padów ze spotkań:
 
 [28 kwietnia 2020](https://pad.hs-ldz.pl/eXJcEioMQdiL3J8eKnJPjA) - online: mumble
 
-## Maj
+## Marzec
 
-[2 maja 2020](https://pad.hs-ldz.pl/exePV_y3SGaKfivP2mFb7w) - online: mumble
+[10 marca 2020](https://hastebin.com/raw/saxidohose) –  OPUS
 
-[4 maja 2020](https://pad.hs-ldz.pl/wVVTLdxNQ4e9yhm6l-SKgg) - online: mumble. Nagraliśmy [audio i terminal](https://github.com/hakierspejs/wiki/tree/master/spotkania/2020/maj/04)
+[18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
 
-[9 maja 2020](https://pad.hs-ldz.pl/HaE6ojkOQQW1kBRoI6Ikzw#) - online: mumble. Gość specjalny: q3k (temat: k8s)
+[24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
 
-[16 maja 2020](https://pad.hs-ldz.pl/0sakKK1VRX2JgR9ZWVmM2g) - online: mumble
+[31 marca 2020](https://pad.hs-ldz.pl/BNDBoOqfT_-dnLAbjOCqwQ) – online: mumble
 
-[23 maja 2020](https://pad.hs-ldz.pl/5eHe0DfxT6mqVVeI7TzayA) - online: mumble
+## Luty
 
-[30 maja 2020](https://pad.hs-ldz.pl/5MhNsEmsQTqIIP3307563g) - online: mumble
+[11 lutego 2020](https://hastebin.com/raw/fefahuyoce) -  OPUS
 
-## Czerwiec
-
-[6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
-
-[9 czerwca 2020](https://pad.hs-ldz.pl/L7naXTGsS0qLNB3PFFpOcw?edit) - online: mumble. gość specjalny: marmarta z QubesOS
+[25 lutego 2020](https://hastebin.com/raw/jijajesova) -  OPUS
 
 ***
 
@@ -129,11 +131,11 @@ Altanka w parku im. Józefa Piłsudskiego ("park na Zdrowiu"), która służy na
 
 ### Lokalizacja
 
-Współrzedne GPS: 51.7677759,19.4125613 (nie sprawdzone, na ile jest to dokładne).
+Współrzędne GPS: 51.7677759,19.4125613 (nie sprawdzone, na ile jest to dokładne).
 
 ### Spotkania
 
-Pierwsze spotkanie odbyło się 6 czerwca. Ze względu na specyfikę, trzeba brać pod uwagę przewidywaną pogodę i przygotować wcześniej rzeczy pod piknik: koc, prowiant, krem z filtrem i artykuły higieniczne (zwłaszcza w okresie pandemii). Nigdy nie można wykluczyć deszczu, więc zalecany jest także zestaw ciepłych ubrań oraz parasol.
+Pierwsze spotkanie odbyło się 6 czerwca. Ze względu na specyfikę, trzeba brać pod uwagę przewidywaną pogodę i przygotować wcześniej rzeczy pod piknik: koc, granulat dla hakerów, krem z filtrem i artykuły higieniczne (zwłaszcza w okresie pandemii). Nigdy nie można wykluczyć deszczu, więc zalecany jest także zestaw ciepłych ubrań oraz parasol.
 
 ***
 
