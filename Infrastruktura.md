@@ -154,7 +154,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher i @cytP450. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
 
-## Pad
+# Pad
 
 **Opis:** spejsowy notatnik https://pad.hs-ldz.pl; zastosowanie np. notatki ze spotkań
 
@@ -163,6 +163,16 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 **Migracja:** self-hosted, więc gdzieś przenieść nie problem, przeniesienie samych treści może być bardziej problematyczne, ale notatki opierają się na kodzie źródłowym a'la Markdown, więc jest to rabialne
 
 **Kto kontroluje:** @d33tah
+
+# Grafana
+
+**Opis:** [https://grafana.hs-ldz.pl/](https://grafana.hs-ldz.pl/)
+
+**Koszty:** 0 (musi być hostowany)
+
+**Migracja:** self-hosted
+
+**Kto kontroluje:** #deetah
 
 # Logo
 
