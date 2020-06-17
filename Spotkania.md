@@ -46,19 +46,19 @@ Poniżej lista padów ze spotkań:
 
 ## Marzec
 
-[10 marca 2020](https://hastebin.com/raw/saxidohose) –  OPUS
+[10 marca 2020](https://pad.hskrk.pl/p/hslodz-10mar2020) –  OPUS
 
-[18 marca 2020](https://hastebin.com/raw/urixigifon) – online: jit.si, mumble
+[18 marca 2020](https://pad.hskrk.pl/p/hslodz-18mar2020) – online: jit.si, mumble
 
-[24 marca 2020](https://hastebin.com/raw/itikifijow) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
+[24 marca 2020](https://pad.hskrk.pl/p/hs_lodz_24_03_2020) – online: mumble (PS: był też keij0, PanTadeusz i BluRaf)
 
 [31 marca 2020](https://pad.hs-ldz.pl/BNDBoOqfT_-dnLAbjOCqwQ) – online: mumble
 
 ## Luty
 
-[11 lutego 2020](https://hastebin.com/raw/fefahuyoce) -  OPUS
+[11 lutego 2020](https://pad.hskrk.pl/p/hslodz-11lut2020) -  OPUS
 
-[25 lutego 2020](https://hastebin.com/raw/jijajesova) -  OPUS
+[25 lutego 2020](https://pad.hskrk.pl/p/hslodz-25lut2020) -  OPUS
 
 ***
 
