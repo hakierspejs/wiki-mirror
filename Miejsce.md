@@ -149,7 +149,7 @@ Lokal w budynku wyglądającym na biurowy/ex-szkolny? na terenie osiedla mieszka
 
 > Obecny (drugi z kolei) lokal ma mniej więcej 100m² powierzchni. Układ pomieszczeń jest dużo lepszy niż w poprzedniej siedzibie i pozwala delikatnie "rozwinąć skrzydła". Dodatkowo jest możliwość najęcia dodatkowego pomieszczenia - jeśli pozwolą wpływy z darowizn. (Tak nieśmiało powiem że można by tam uruchomić np chillroom)
 
-Lokal mają w piwnicy, składa się z aż 6 pomieszczeń. Sala ogólna do spotkań, szkoleń itp. (nazywają to softroomem), lab elektroniczny, hardroom, „magazynek” (także z miejscami do pracy), serwerownia, pusty pokój.
+Lokal mają w piwnicy, składa się z aż 4 pomieszczeń. Sala ogólna do spotkań, szkoleń itp. (nazywają to softroomem), lab elektroniczny, hardroom, „magazynek” (także z miejscami do pracy).
 
 ### [Wcześniejsza siedziba](https://phabricator.hskrk.pl/w/about/siedziba/pierwsza/)
 Hackerspace mieścił się w Krakowie przy ulicy Radziwiłłowskiej 20, mieszkanie 2.
