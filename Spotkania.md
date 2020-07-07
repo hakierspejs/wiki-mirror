@@ -6,6 +6,12 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
+## Lipiec
+
+4 lipca 2020 - na żywo, nie było pada
+
+[7 lipca 2020](https://pad.hs-ldz.pl/867NnD78RG-x0APWHse31w) - online: mumble
+
 ## Czerwiec
 
 [6 czerwca 2020](https://pad.hs-ldz.pl/z8TvQJt-RxKjeMObk_7zxw) - park na Zdrowiu
