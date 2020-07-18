@@ -26,10 +26,6 @@ Używamy hakierspejsu jako pretekstu do eksperymentowania w tworzeniu infrastruk
 
 > "Nie ma złych pomysłów, są tylko takie, których nie można wykorzystać od razu." ~ Marti
 
-
-
-
-
 # Wymagania
 
 ## Konieczne
@@ -61,7 +57,7 @@ Nasz budżet to: "mniej". Szukamy lokalu, z którego całkowitym opłaceniem zam
 
 ### Sensowny prąd
 
-Potrzebujemy móc podłączyć dużo urządzeń, które mogą jeść szalone ilości prądu. Już kilka gamingowych PCtów i dwa czajniki elektryczne mogą przeciążyć źle zrobioną instalację elektryczną, więc dobrze jest upewnić się, że nie jest zrobiona po taniości sto lat temu.
+Potrzebujemy móc podłączyć dużo urządzeń, które mogą jeść szalone ilości prądu. Już kilka gamingowych PCtów i dwa czajniki elektryczne mogą przeciążyć źle zrobioną instalację elektryczną, więc dobrze jest upewnić się, że nie jest zrobiona po taniości sto lat temu. Szczególnie ważne jeżeli mamy grzać się prądem.
 
 ... Jakaś minimalna moc w kW / maks. obciążenie w A, jakie nam wystarczy – jako kryterium przy szukaniu mieszkania?
 
@@ -77,6 +73,7 @@ Od d33tah: pewnie o czymś nie pomyślałem, więc drogi czytelniku, nie krępuj
 
 ## "Fajnie byłoby":
 
+### dobra wentylacja
 ### managed kibelek
 ### możliwość dalszej ekspansji w budynku
 ### możliwość wnoszenia dużego sprzętu
@@ -184,3 +181,19 @@ Trójmiasto ma całkiem bogatą historię przeprowadzek.
 > Ondraszka 17 to blok mieszkalny; w pobliżu znajdują się miejsca parkingowe. Aktualnie nie mamy stojaków na rowery, ale możesz go wprowadzić do środka — w lokalu mamy dość obszerny korytarz.
 
 I tak się da.
+
+# Kwestie prawne / ryzyko
+
+## Ubezpieczenie
+
+W tym kwestie uszkodzeń ciała.
+
+## Czas trwania umowy
+
+## Odpowiedzialność
+
+Tzn. co się stanie w przypadku wandalizmu?
+
+## Kradzieże
+
+Zarówno wewnątrz HSu jak i zewnątrz.
