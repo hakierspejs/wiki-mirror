@@ -4,6 +4,8 @@ Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/l
 
 [Lista lokali, które mogą nas interesować](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA)
 
+[Kwestionariusz z przykładowymi pytaniami do pierwszej rozmowy przez telefon](https://pad.hs-ldz.pl/s/ByqBEoxlP)
+
 # Po co nam spejs
 
 
