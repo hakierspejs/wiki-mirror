@@ -8,6 +8,8 @@ Poniżej lista padów ze spotkań:
 
 ## Lipiec
 
+[28 lipca 2020](https://pad.hs-ldz.pl/xWzuTOyhTeKRUlzkbe-lhA#) - online: mumble
+
 4 lipca 2020 - na żywo, nie było pada
 
 [7 lipca 2020](https://pad.hs-ldz.pl/867NnD78RG-x0APWHse31w) - online: mumble
