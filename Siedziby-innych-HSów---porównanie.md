@@ -1,4 +1,4 @@
-# Miejsca innych HS-ów
+# Miejsca innych HS-ów i podstawowe informacje
 ## [Waw](https://hackerspace.pl/about)
 > Warszawski Hackerspace mieści się na podwyższonym parterze w budynku na ul. Wolność 2A.
 
