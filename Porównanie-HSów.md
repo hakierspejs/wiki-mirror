@@ -10,8 +10,7 @@
 |Chat|#hackerspace-pl na Freenode|[Telegram](https://t.me/hackerspace_krk)|[Telegram](https://t.me/hackerspace_wroclaw)|prywatny Slack, IRC|#hackerspace-silesia na Freenode
 |Finanse|[dashboard](https://kasownik.hackerspace.pl/), [wątek (loginwall)](https://lists.hackerspace.pl/mailman/private/waw/2020-March/050056.html)|[wątek](https://groups.google.com/forum/?fromgroups#!topic/hackerspace-krk/seeF26xc1j0)|?|?|? [dashboard](https://finanse.hs-silesia.pl/)
 
-## Miejsca
-# Miejsca innych HS-ów i podstawowe informacje
+# Miejsca
 ## [Waw](https://hackerspace.pl/about)
 > Warszawski Hackerspace mieści się na podwyższonym parterze w budynku na ul. Wolność 2A.
 
