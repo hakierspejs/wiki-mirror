@@ -175,6 +175,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 **Kto kontroluje:** #deetah
 
 # Logo
+![Logo HS-u](https://raw.githubusercontent.com/hakierspejs/wiki/master/media-w-wiki/hakierspejs.png)
 
 # Naklejki
 
