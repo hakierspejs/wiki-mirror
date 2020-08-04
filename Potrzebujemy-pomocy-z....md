@@ -6,7 +6,7 @@ Chcemy założyć stowarzyszenie, ale nie jesteśmy pewni, czy rozumiemy wszystk
 konsekwencje. Przydałoby się też, żeby ktoś nam przejrzał statut, który
 napiszemy i zasugerował poprawki.
 
-Pytałem się w Urzędzie Miasta o możliwości pomocy prawnej. Zgodnie z uzyskanymi informacjami, jest możliwość uzyskania takiej informacji od Miasta poprzez punkty bezpłatnej pomocy prawnej. W celu uzyskania takiej pomocy należy zwrócić się do Zespołu ds. Nadzoru nad Stowarzyszeniami i Fundacjami w Wydziale Spraw Obywatelskich UMŁ -- tel. 42 638 46 01, ul. Sienkiewicza 5. ~kpc
+Pytałem się w Urzędzie Miasta o możliwości pomocy prawnej. Zgodnie z uzyskanymi informacjami, jest możliwość uzyskania takiej pomocy poprzez punkty bezpłatnej pomocy prawnej. W celu uzyskania takiej pomocy należy zwrócić się do Zespołu ds. Nadzoru nad Stowarzyszeniami i Fundacjami w Wydziale Spraw Obywatelskich UMŁ -- tel. 42 638 46 01, ul. Sienkiewicza 5. ~kpc
 
 ## Rachunkowości
 
