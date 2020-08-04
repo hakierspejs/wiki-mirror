@@ -86,6 +86,10 @@ Dobrym pomysłem może być rozplanowanie oglądanej przez nas przestrzeni, żeb
 1. https://planner5d.com/pl/view/?key=eb4c65ba2c9ae29390e1a6712c461242
 2. https://planner5d.com/pl/view/?key=a02ab391b65689118fd6ec7a0b1b1c1b (drugi pokój był dla beki)
 
+## Infrastruktura IT
+
+Keijo opracował plan infrastruktury IT dla HS-u: https://github.com/hakierspejs/hakierspejs-netzwerk/wiki
+
 ## Media
 
 Prąd, internet, woda. Póki będzie sam softroom, nie powinno wyjść razem więcej niż 300zł, chyba że uprzemy się na łącze symetryczne.
