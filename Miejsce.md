@@ -81,11 +81,51 @@ Od d33tah: pewnie o czymś nie pomyślałem, więc drogi czytelniku, nie krępuj
 ### możliwość wnoszenia dużego sprzętu
 ### możliwość zamontowania własnego elektrozaczepu
 
+# Szukanie lokalu
+
+## Lokale miejskie
+
+kpc zrobił potężny research na temat lokali miejskich. Są to lokale dostępne od miasta, które zwykle wymagają remontu, ale za to są dostępne na dużo bardziej korzystnych warunkach (znacznie niższy czynsz, brak kaucji, itd).
+
+* [Wątek na liście mailingowej z pełnym opisem (zawiera więcej linków)](https://lists.hackerspace.pl/pipermail/lodz/2020-August/000172.html)
+* [Lista dostępnych lokali](http://lists.hackerspace.pl/pipermail/lodz/attachments/20200803/2ef8e05a/attachment-0001.xls)
+* [Korespondencja kpc z urzędami (wymaga zalogowania)](https://pad.hs-ldz.pl/NLwBiwBKSiaca0GA9ey2gQ)
+
+## Wynajem
+
+### Wyszukiwanie
+
+Regularnie przeglądamy i oceniamy ogłoszenia z olx.pl. Mamy specjalny kanał na Telegramie, gdzie automatycznie pojawiają się najnowsze ogłoszenia i można nad nimi głosować. Aby dołączyć, poproś d33taha o invite link albo zapytaj na głównym kanale Telegramowym/IRC. Pracujemy nad stroną internetową, gdzie byłaby dostępna podobna funkcjonalność. Kod scrapera oraz frontendu dostępny pod [tym repo](https://github.com/hakierspejs/rentchan/) (link tylko dla członków grupy na GH - jako że kod scrapera jest delikatny).
+
+### Pierwszy kontakt oraz oglądanie
+
+Po znalezieniu interesującego ogłoszenia, należy zadzwonić i zadać trzy pytania przesiewowe: 
+
+1. czy jest dostęp 24h na dobę,
+2. czy będzie problem ze zorganizowaniem kilku kompletów kluczy (każdy z członków ma móc wejść samodzielnie),
+3. jaka jest typowa całościowa kwota brutto którą będziemy płacić miesięcznie - wliczając typowe koszty mediów itd.
+
+Jeśli komuś chce się robić dłuższy research, pod [tym linkiem](https://pad.hs-ldz.pl/B8SGA2EAQceco6BTkJ-IEA) dostępny jest napisany na szybko kwestionariusz. Do tej pory zdyskwalifikowaliśmy [jeden lokal](https://www.olx.pl/oferta/lokal-przy-ul-piotrkowskiej-35m2-CID3-IDA05uL.html), bo na dalszym etapie okazało się, że nie ma możliwości wypowiedzenia umowy.
+
+Następnie należy się umówić na wygodny dla siebie termin, najlepiej na następny dzień albo za dwa dni oraz ogłosić go na liście. Po obejrzeniu fajnie byłoby ponownie ogłosić na tym samym wątku na liście jak przebiegło oglądanie. Przykłady:
+
+1. https://lists.hackerspace.pl/pipermail/lodz/2020-August/000174.html
+2. https://lists.hackerspace.pl/pipermail/lodz/2020-July/000171.html (niestety odwołane przez nas, trzeba umówić jeszcze raz)
+3. https://lists.hackerspace.pl/pipermail/lodz/2020-July/000155.html
+4. https://lists.hackerspace.pl/pipermail/lodz/2020-July/000150.html (raport tutaj: https://lists.hackerspace.pl/pipermail/lodz/2020-July/000153.html)
+
 # Meblowanie
 
 Podobno nie powinno się dzielić skóry na niedźwiedziu, ale wyobraźmy sobie, że mamy już przestrzeń. Jakie koszty powinniśmy wziąć pod uwagę, żeby było nam tam dobrze?
 
 (załóżmy bardzo ograniczony budżet i branie rzeczy z OLX)
+
+## Projekty
+
+Dobrym pomysłem może być rozplanowanie oglądanej przez nas przestrzeni, żeby uświadomić sobie jej mocne i słabe strony. Przykładowe projekty:
+
+1. https://planner5d.com/pl/view/?key=eb4c65ba2c9ae29390e1a6712c461242
+2. https://planner5d.com/pl/view/?key=a02ab391b65689118fd6ec7a0b1b1c1b (drugi pokój był dla beki)
 
 ## Media
 
