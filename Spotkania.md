@@ -6,13 +6,19 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
-## Lipiec
+## Sierpień
 
-[28 lipca 2020](https://pad.hs-ldz.pl/xWzuTOyhTeKRUlzkbe-lhA#) - online: mumble
+8 sierpnia 2020 - urodziny Marti; na żywo, nie było pada.
+
+[11 sierpnia 2020](https://pad.hs-ldz.pl/mxE5-jwrTxuUoSDfCiTHuQ#) - online: mumble
+
+## Lipiec
 
 4 lipca 2020 - na żywo, nie było pada
 
 [7 lipca 2020](https://pad.hs-ldz.pl/867NnD78RG-x0APWHse31w) - online: mumble
+
+[28 lipca 2020](https://pad.hs-ldz.pl/xWzuTOyhTeKRUlzkbe-lhA#) - online: mumble
 
 ## Czerwiec
 
