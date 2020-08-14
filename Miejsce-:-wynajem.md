@@ -40,6 +40,10 @@ Następnie należy się umówić na wygodny dla siebie termin, najlepiej na nas
 
 W tym kwestie uszkodzeń ciała.
 
+Niektórzy wynajmujący wymagają ubezpieczenia lokalu.
+
+Ubezpieczenie lokalu jest tanie.
+
 ## Czas trwania umowy
 
 ## Odpowiedzialność
