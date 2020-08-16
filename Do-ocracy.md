@@ -1,17 +1,17 @@
 ## W skrócie
 
-* Jeśli chcesz coś zrobić: ** Po prostu zrób to! **
-* Zrobiłeś coś? ** Świetnie!, Teraz powiedz o tym innym. ** Powiedz im, co zrobiłeś i dlaczego to zrobiłeś. Wspólny pokój rozmów lub lista mailingowa to świetne miejsce do zrobienia tego. Mówienie innym o swoich działaniach pozwoli im wiedzieć, komu podziękować, i da ci większe wsparcie.
-* Jeśli ktoś narzeka: albo ** cofnij to **, albo znajdź rozwiązanie z osobą, która narzeka.
+* Jeśli chcesz coś zrobić:**Po prostu zrób to!**
+* Zrobiłeś coś? **Świetnie!, Teraz powiedz o tym innym.** Powiedz im, co zrobiłeś i dlaczego to zrobiłeś. Wspólny pokój rozmów lub lista mailingowa to świetne miejsce do zrobienia tego. Mówienie innym o swoich działaniach pozwoli im wiedzieć, komu podziękować, i da ci większe wsparcie.
+* Jeśli ktoś narzeka: albo**cofnij to**, albo znajdź rozwiązanie z osobą, która narzeka.
 
-Do-okracja to struktura organizacyjna, w której jednostki decydują się na samodzielne wybieranie ról i wykonywanie zadań, zamiast wyznaczania ich przez innych. Odpowiedzialność i autorytet przypisuje się ludziom, którzy wykonują pracę, a nie wybranym / wybranym urzędnikom. ** Wykonanie zadania jest samo w sobie usprawiedliwieniem bycia osobą, która wykonuje tę pracę. **
+Do-okracja to struktura organizacyjna, w której jednostki decydują się na samodzielne wybieranie ról i wykonywanie zadań, zamiast wyznaczania ich przez innych. Odpowiedzialność i autorytet przypisuje się ludziom, którzy wykonują pracę, a nie wybranym / wybranym urzędnikom. **Wykonanie zadania jest samo w sobie usprawiedliwieniem bycia osobą, która wykonuje tę pracę.**
 
 ## Dlaczego nie Demokracja czy Konsensus?
 
 Demokracja i Konsensus cierpią z powodu tego samego problemu: każdy ma jakieś zdanie na jakiś temat, a większość ludzi lubi taką opinię. W tych systemach dużo czasu i energii poświęca się na debatę, jakie jest najlepsze rozwiązanie lub najlepszy kompromis. Powoduje to szereg problemów.
 
 * Zajmuje dużo czasu i energii, które można lepiej wykorzystać na robienie rzeczy.
-* Bardzo łatwo jest nie rozwiązać problemów, ponieważ grupa nie zgadza się co do najlepszego rozwiązania. To duży problem, ponieważ ** złe rozwiązanie jest często lepsze niż brak rozwiązania. **
+* Bardzo łatwo jest nie rozwiązać problemów, ponieważ grupa nie zgadza się co do najlepszego rozwiązania. To duży problem, ponieważ **złe rozwiązanie jest często lepsze niż brak rozwiązania.**
 * Zbyt duży nacisk kładzie na pomysł zamiast na jego wykonanie, mimo że badania pokazują, że wykonanie decyzji jest często ważniejsze niż sama decyzja.
 * Grupowe podejmowanie decyzji często prowadzi do rozwodnionych wyników, które zawierają elementy opinii wszystkich, ale których nikt w pełni nie popiera. W rezultacie ludzie będą mniej entuzjastycznie nastawieni do poświęcania czasu i energii na wykonanie danej czynności. W końcu doprowadzi to do gorszych wyników, ponieważ wpływ dobrze wykonanego dobrego pomysłu jest o wiele lepszy niż źle wykonanego idealnego pomysłu.
 * Nagradza krytyków zajmujących się fotelami i aktywistów zajmujących się fotelami. Jeśli jedyną rzeczą, którą chcesz przekazać, jest Twoja opinia, nie powinieneś zmuszać innych ludzi do wzięcia jej pod uwagę.
@@ -21,11 +21,11 @@ Demokracja i Konsensus cierpią z powodu tego samego problemu: każdy ma jakieś
 
 Gdy otoczenie jest odpowiednie, naturalnie pojawia się doktryna. Istnieje wiele ważnych czynników.
 
-* ** Pozwól ludziom ponieść porażkę. ** Ludzie muszą czuć się bezpiecznie, wiedząc, że wolno im próbować i nie udać się. Tak więc, kiedy ludzie zawodzą, musimy być mili i pomagać im wyzdrowieć, zamiast ich karcić. Hackerspace daje każdemu możliwość rozwoju, a porażka jest tego częścią. Aby uzyskać więcej informacji, przeczytaj o idei „nienagannych sekcji zwłok” w społecznościach operacji IT i DevOps.
-* ** Poproś o pomoc i pomóż innym. **
-* ** Zaufaj sobie. **
-* ** Skoncentruj się na tym, co masz wspólnego, a nie na tym, z czym się nie zgadzasz. **
-* ** Rozpoznaj i nagradzaj ludzi, którzy coś robią. **
+* **Pozwól ludziom ponieść porażkę.** Ludzie muszą czuć się bezpiecznie, wiedząc, że wolno im próbować i nie udać się. Tak więc, kiedy ludzie zawodzą, musimy być mili i pomagać im wyzdrowieć, zamiast ich karcić. Hackerspace daje każdemu możliwość rozwoju, a porażka jest tego częścią. Aby uzyskać więcej informacji, przeczytaj o idei „nienagannych sekcji zwłok” w społecznościach operacji IT i DevOps.
+* **Poproś o pomoc i pomóż innym.**
+* **Zaufaj sobie.**
+* **Skoncentruj się na tym, co masz wspólnego, a nie na tym, z czym się nie zgadzasz.**
+* **Rozpoznaj i nagradzaj ludzi, którzy coś robią.**
 
 ## Autorytet bez przymusu
 
@@ -45,15 +45,15 @@ Niektóre rzeczy są zbyt wrażliwe, by zajmować się nimi w pojedynkę, lub s�
 
 Ogólnie rzecz biorąc, jeśli działanie jest nieodwracalne, do-ocracja nie ma zastosowania i należy omówić to z większą grupą.
 
-## Do-ocracy nie jest ...
+## Do-ocracy nie jest...
 
-* ** Demokracja ** - W demokracji każdy ma coś do powiedzenia w sprawie tego, co zostanie zrobione. W praktyce każdy wykonuje prace, które uważają za konieczne, ** bez udziału wszystkich. **
-* ** Merytokracja ** - W przypadku merytokracji na dane stanowisko wybierane są osoby o najwyższych kwalifikacjach. W przypadku robactwa każdy, kto wykonuje pracę, ją otrzymuje, bez względu na to, jak dobrze ma kwalifikacje.
+* **Demokracja**- W demokracji każdy ma coś do powiedzenia w sprawie tego, co zostanie zrobione. W praktyce każdy wykonuje prace, które uważają za konieczne, **bez udziału wszystkich.**
+* **Merytokracja**- W przypadku merytokracji na dane stanowisko wybierane są osoby o najwyższych kwalifikacjach. W przypadku robactwa każdy, kto wykonuje pracę, ją otrzymuje, bez względu na to, jak dobrze ma kwalifikacje.
 
 ## Więcej informacji
 
-* CommunityWiki zawiera [dokładne wyjaśnienie do-ocracy] (http://www.communitywiki.org/en/DoOcracy).
-* Embassy SF omówiła swoje doświadczenia z [do-ocracy in a shared house] (https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
+* CommunityWiki zawiera [dokładne wyjaśnienie do-ocracy](http://www.communitywiki.org/en/DoOcracy).
+* Embassy SF omówiła swoje doświadczenia z [do-ocracy in a shared house](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
 
 ## [Źródło](https://raw.githubusercontent.com/0x20/hackerspace-blueprint/master/2-do-ocracy.md)
 
