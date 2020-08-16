@@ -1,6 +1,6 @@
 ## W skrócie
 
-* Jeśli chcesz coś zrobić:**Po prostu zrób to!**
+* Jeśli chcesz coś zrobić: **Po prostu zrób to!**
 * Zrobiłeś coś? **Świetnie!, Teraz powiedz o tym innym.** Powiedz im, co zrobiłeś i dlaczego to zrobiłeś. Wspólny pokój rozmów lub lista mailingowa to świetne miejsce do zrobienia tego. Mówienie innym o swoich działaniach pozwoli im wiedzieć, komu podziękować, i da ci większe wsparcie.
 * Jeśli ktoś narzeka: albo **cofnij to**, albo znajdź rozwiązanie z osobą, która narzeka.
 
