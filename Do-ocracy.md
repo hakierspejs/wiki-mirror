@@ -2,7 +2,7 @@
 
 * Jeśli chcesz coś zrobić:**Po prostu zrób to!**
 * Zrobiłeś coś? **Świetnie!, Teraz powiedz o tym innym.** Powiedz im, co zrobiłeś i dlaczego to zrobiłeś. Wspólny pokój rozmów lub lista mailingowa to świetne miejsce do zrobienia tego. Mówienie innym o swoich działaniach pozwoli im wiedzieć, komu podziękować, i da ci większe wsparcie.
-* Jeśli ktoś narzeka: albo**cofnij to**, albo znajdź rozwiązanie z osobą, która narzeka.
+* Jeśli ktoś narzeka: albo **cofnij to**, albo znajdź rozwiązanie z osobą, która narzeka.
 
 Do-okracja to struktura organizacyjna, w której jednostki decydują się na samodzielne wybieranie ról i wykonywanie zadań, zamiast wyznaczania ich przez innych. Odpowiedzialność i autorytet przypisuje się ludziom, którzy wykonują pracę, a nie wybranym / wybranym urzędnikom. **Wykonanie zadania jest samo w sobie usprawiedliwieniem bycia osobą, która wykonuje tę pracę.**
 
