@@ -47,8 +47,8 @@ Ogólnie rzecz biorąc, jeśli działanie jest nieodwracalne, do-ocracja nie ma 
 
 ## Do-ocracy nie jest...
 
-* **Demokracja**- W demokracji każdy ma coś do powiedzenia w sprawie tego, co zostanie zrobione. W praktyce każdy wykonuje prace, które uważają za konieczne, **bez udziału wszystkich.**
-* **Merytokracja**- W przypadku merytokracji na dane stanowisko wybierane są osoby o najwyższych kwalifikacjach. W przypadku robactwa każdy, kto wykonuje pracę, ją otrzymuje, bez względu na to, jak dobrze ma kwalifikacje.
+* **Demokracja**-W demokracji każdy ma coś do powiedzenia w sprawie tego, co zostanie zrobione. W praktyce każdy wykonuje prace, które uważają za konieczne, **bez udziału wszystkich.**
+* **Merytokracja**-W przypadku merytokracji na dane stanowisko wybierane są osoby o najwyższych kwalifikacjach. W przypadku robactwa każdy, kto wykonuje pracę, ją otrzymuje, bez względu na to, jak dobrze ma kwalifikacje.
 
 ## Więcej informacji
 
