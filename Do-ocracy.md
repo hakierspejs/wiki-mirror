@@ -1,3 +1,5 @@
+_Poniższy dokument jest automatycznie przetłumaczonym rozdziałem 2 z Hackerspace Blueprint. Całość dostępna na CC4 BY-NC-SA tutaj: https://github.com/0x20/hackerspace-blueprint/_
+
 ## W skrócie
 
 * Jeśli chcesz coś zrobić: **Po prostu zrób to!**
@@ -54,6 +56,3 @@ Ogólnie rzecz biorąc, jeśli działanie jest nieodwracalne, do-ocracja nie ma 
 
 * CommunityWiki zawiera [dokładne wyjaśnienie do-ocracy](http://www.communitywiki.org/en/DoOcracy).
 * Embassy SF omówiła swoje doświadczenia z [do-ocracy in a shared house](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
-
-## [Źródło](https://raw.githubusercontent.com/0x20/hackerspace-blueprint/master/2-do-ocracy.md)
-
