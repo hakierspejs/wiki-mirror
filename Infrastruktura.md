@@ -158,11 +158,21 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Opis:** spejsowy notatnik https://pad.hs-ldz.pl; zastosowanie np. notatki ze spotkań
 
-**Koszty:** 0 (musi być gdzieś hostowany)
+**Koszty:** 0 (musi być gdzieś hostowany; aktualnie jest to nasza VMka od HSWAW)
 
 **Migracja:** self-hosted, więc gdzieś przenieść nie problem, przeniesienie samych treści może być bardziej problematyczne, ale notatki opierają się na kodzie źródłowym a'la Markdown, więc jest to rabialne
 
 **Kto kontroluje:** @d33tah
+
+# Forum
+
+**Opis:** nasze forum Discourse https://forum.hs-ldz.pl; służy do dłuższych dyskusji, w odróżnieniu od listy mailingowej gdzie zwykle raczej idą powiadomienia
+
+**Koszty:** 0 (musi być gdzieś hostowane; aktualnie jest to nasza VMka od HSWAW)
+
+**Migracja:** self-hosted w Dockerze, więc raczej da radę to przenieść. Aleksy [udokumentował](https://github.com/hakierspejs/forumhsldz) proces żenienia tego z Traefikiem.
+
+**Kto kontroluje:** @d33tah, @thinkofher, @cytP450
 
 # Grafana
 
