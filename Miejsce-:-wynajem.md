@@ -4,12 +4,22 @@
 
 kpc zrobił potężny research na temat lokali miejskich. Są to lokale dostępne od miasta, które zwykle wymagają remontu, ale za to są dostępne na dużo bardziej korzystnych warunkach (znacznie niższy czynsz, brak kaucji, itd).
 
-* [Wątek na liście mailingowej z pełnym opisem (zawiera więcej linków)](https://lists.hackerspace.pl/pipermail/lodz/2020-August/000172.html)
+* **[Wątek na liście mailingowej z pełnym opisem (zawiera więcej linków)](https://lists.hackerspace.pl/pipermail/lodz/2020-August/000172.html)**
 * [Lista dostępnych lokali](http://lists.hackerspace.pl/pipermail/lodz/attachments/20200803/2ef8e05a/attachment-0001.xls) (lokale bezprzetargowe)
 * Lokale przetargowe (jako organizacja typu NGO nie musimy brać udziału w przetargu, możemy złożyć wniosek o wyłączenie, który jest potem opiniowany przez radnych):
   * [Lista lokali, jakie były wystawione do ostatniego przetargu](http://www.zlm.lodz.pl/bip/pliki2020/LU_GM_KONKURS_20200527_wykaz_lokali.pdf)
   * [Lista lokali, które zostały w tym przetargu wynajęte](http://www.zlm.lodz.pl/bip/pliki2020/LU_GM_KONKURS_20200527_wyniki.pdf) (a więc nie są dostępne)
 * [Korespondencja kpc z urzędami (wymaga zalogowania)](https://pad.hs-ldz.pl/NLwBiwBKSiaca0GA9ey2gQ)
+
+* [Lista lokali miejskich, w temacie których wypadałoby się skontaktować i porozmawiać z ich zarządcami (urzędnikami)](https://pad.hs-ldz.pl/iqqVr0DrRVadouNjPL_OHg)
+  * Ważne kwestie:
+    * Opłaty poza czynszem (prąd, woda, gaz, ogrzewanie, śmieci, szambo, opłata za administrowanie częścią wspólną nieruchomości!)
+    * Co wolno nam robić z lokalem (przeróbki), czy można założyć elektrozamek
+    * Sąsiedzi (biura, ludzie, czy można hałasować, czy wpuszczą nas w nocy)
+    * Prąd (ile amperów ma główny bezpiecznik)
+    * Fajnie by było mieć jakieś małe wydzielone pomieszczenie na serwerownię
+    * Gdyby wiedział, to dostępność ISP
+
 
 ## Wynajem
 
