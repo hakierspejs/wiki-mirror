@@ -11,7 +11,7 @@ kpc zrobił potężny research na temat lokali miejskich. Są to lokale dostępn
   * [Lista lokali, które zostały w tym przetargu wynajęte](http://www.zlm.lodz.pl/bip/pliki2020/LU_GM_KONKURS_20200527_wyniki.pdf) (a więc nie są dostępne)
 * [Korespondencja kpc z urzędami (wymaga zalogowania)](https://pad.hs-ldz.pl/NLwBiwBKSiaca0GA9ey2gQ)
 
-* [Lista lokali miejskich, w temacie których wypadałoby się skontaktować i porozmawiać z ich zarządcami (urzędnikami)](https://pad.hs-ldz.pl/iqqVr0DrRVadouNjPL_OHg)
+* **[Lista lokali miejskich, w temacie których wypadałoby się skontaktować i porozmawiać z ich zarządcami (urzędnikami)](https://pad.hs-ldz.pl/iqqVr0DrRVadouNjPL_OHg)** + kontakty do tych urzędników (wymaga zalogowania)
   * Ważne kwestie:
     * Opłaty poza czynszem (prąd, woda, gaz, ogrzewanie, śmieci, szambo, opłata za administrowanie częścią wspólną nieruchomości!)
     * Co wolno nam robić z lokalem (przeróbki), czy można założyć elektrozamek
