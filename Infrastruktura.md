@@ -54,17 +54,17 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Koszty:** null.
 
-**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis, ale przydałoby się zautomatyzować backupy. Gogs ma nawet możliwość automatycznej migracji repozytoriów.
+**Migracja:** W każdej chwili repozytoria można sklonować na inny serwis, ale przydałoby się zautomatyzować backupy. Gogs ma nawet możliwość automatycznej migracji repozytoriów.
 
 **Kto kontroluje:** Każdy członek Hakierspejsu może zostać dodany do grupy na GitHubie. Pull requesty może słać dosłownie każdy, na takiej samej zasadzie jak na każdym innym repozytorium na GitHubie. Patche mergujemy po pozytywnym code review (każdy członek HS'u może takie przeprowadzić). Członków może dodawać @d33tah i @Martti25.
 
 # Meetup
 
-**Opis:** konto na meetup.com, stronie na której ogłasza się tzw. meetupy, czyli spotkania o różnej tematyce. Jesteśmy tam, bo nie chcieliśmy zaczynać od Facebooka i sam meetup ogarnia nam promocję naszej grupy w ramach zainteresowań. Ma też społeczność użytkowników w Łodzi.
+**Opis:** konto na meetup.com, stronie na której ogłasza się tzw. meetupy, czyli spotkania o różnej tematyce. Jesteśmy tam, bo nie chcieliśmy zaczynać od Facebooka i sam meetup ogarnia nam promocję naszej grupy w ramach zainteresowań. Ma też społeczność użytkowników w Łodzi.
 
 **Koszty:** [Opis na ich stronie](https://help.meetup.com/hc/en-us/articles/360001620472-Organizer-subscription-pricing) ; pierwsze 6 miesięcy kosztowało w ramach promocji 164zł.
 
-**Migracja:** stracimy historię meetupów oraz przestaniemy przyciągać ludzi, którzy stamtąd się o nas dowiedzieli. Also, żeby boty działały, trzeba będzie przepisać/przemigrować z [meetupscrapera](https://github.com/hakierspejs/meetupscraper).
+**Migracja:** stracimy historię meetupów oraz przestaniemy przyciągać ludzi, którzy stamtąd się o nas dowiedzieli. Also, żeby boty działały, trzeba będzie przepisać/przemigrować z [meetupscrapera](https://github.com/hakierspejs/meetupscraper).
 
 **Kto kontroluje:** @d33tah (organizer), @Martti25 (co-organizer), @biniu (co-organizer) @kszmigiel (co-organizer), @nikolaad (co-organizer), @Keij0 (co-organizer)
 
@@ -87,7 +87,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Koszty:** 0 zł / miesiąc, każdy może założyć swoją własną grupę na serwerach Telegrama i zapraszać do niej ludzi.
 
-**Migracja:** Niemożliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują. Na szczęście można przynajmniej wyeksportować historię kanału.
+**Migracja:** Niemożliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują. Na szczęście można przynajmniej wyeksportować historię kanału.
 
 **Kto kontroluje:** @d33tah, @kszmigiel, @BluRaf
 
@@ -110,6 +110,27 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 **Migracja:** To tylko kanał do testowania botów.
 
 **Kto kontroluje:** Każdy kto poprosi o admina.
+
+# Matrix - kanały
+## hs-ldz:hackerspace.pl
+
+**Opis/zastosowanie:** Kanał Matrix zmostkowany z kanałem t.me/hakierspejs na Telegramie. Dołączyć można [tutaj](https://matrix.to/#/#hs-ldz:hackerspace.pl)
+
+**Koszty:** 0 zł / miesiąc
+
+**Migracja:** -
+
+**Kto kontroluje:** @BluRaf
+
+## hs-ldz-offtopic:hackerspace.pl
+
+**Opis/zastosowanie:** Kanał Matrix zmostkowany z kanałem t.me/hakierspejs_spam na Telegramie. Dołączyć można [tutaj](https://matrix.to/#/#hs-ldz-offtopic:hackerspace.pl)
+
+**Koszty:** 0 zł / miesiąc
+
+**Migracja:** -
+
+**Kto kontroluje:** @BluRaf
 
 # IRC
 
@@ -140,7 +161,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Opis/zastosowanie:** transport między Telegramem a IRC-em
 
-**Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera na innym serwerze z tym samym lub innym kluczem API.
+**Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera na innym serwerze z tym samym lub innym kluczem API.
 
 **Kto kontroluje:** @BluRaf
 
@@ -152,7 +173,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** zakładając, że robimy regularnie backupy, jest to kwestia wynajęcia gdzieś innej VMki i przepięcia domeny na nowy adres IP.
 
-**Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher i @cytP450. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
+**Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher i @cytP450. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
 
 # Pad
 
