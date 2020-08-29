@@ -68,6 +68,7 @@ Od d33tah: pewnie o czymś nie pomyślałem, więc drogi czytelniku, nie krępuj
 ## "Fajnie byłoby":
 
 ### dobra wentylacja
+### brak grzyba
 ### managed kibelek
 ### możliwość dalszej ekspansji w budynku
 ### możliwość wnoszenia dużego sprzętu
