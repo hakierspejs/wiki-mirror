@@ -6,6 +6,12 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
+## Wrzesień
+
+5 września 2020 – hackpiknik w parku na Zdrowiu, brak pada
+
+[8 września 2020](https://pad.hs-ldz.pl/Ytyx1Z5aQYCIqoWmeAXlfA) – online: mumble
+
 ## Sierpień
 
 8 sierpnia 2020 - urodziny Marti; na żywo, nie było pada.
