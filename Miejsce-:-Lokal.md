@@ -2,6 +2,8 @@ Hakierspejs od czwartku 17 września 2020 korzysta z lokalu przy ul. Zielonej 30
 
 Aktualnie trwa remont.
 
+[WĄTEK NA FORUM – CALL FOR EQUIPMENT](https://forum.hs-ldz.pl/t/call-for-equipment/81/4)... tam można się zgłaszać, jeśli ktoś ma coś do zaoferowania/przywiezienia...
+
 Things to do/think of:
 - ogrzewanie [w lokalu brak jest c.o.],
 - aranżacja wnętrza,
