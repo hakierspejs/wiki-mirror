@@ -63,6 +63,7 @@ Gdzie jest najbliższy:
   - do dw. Fabrycznego najlepiej tramwajem 9 lub 13, w pobliżu staje też 12, ewentualnie autobusem 86
   - do dw. Kaliskiego autobusem 65 lub 86, ewentualnie w pobliżu tramwaj 12
   - do dw. Widzew – do Fabrycznego tramwajem i stamtąd pociągiem na Widzew, ewentualnie tramwaj 9
+  - za niecały rok (prawdopodobnie wakacje 2021) w pobliżu (Zielona między Wólczańską a Zachodnią) zacznie się budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i Żabieńcem
 - sklep spożywczy
   - Biedro na Żeromskiego
   - targ na placu Barlickiego – w halach są spożywczaki i piekarnie
