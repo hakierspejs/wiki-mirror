@@ -47,7 +47,7 @@ Things to do/think of:
 
 Gdzie jest najbliższy:
 - transport publiczny
-  - lokal znajduje się w sąsiedztwie placu Barlickiego - przy samym HS-ie mamy:
+  - lokal znajduje się w sąsiedztwie placu Barlickiego – przy samym HS-ie mamy:
     - tramwaje: **9** (Widzew, dw. Fabryczny, Uniwerek, Zdrowie), **13** (Dąbrowa [aktualnie objazd, zamiast Dąbrowy jest Widzew], dw. Fabryczny, kampus UŁ, Koziny, Żubardź, Żabieniec, Teofilów)
     - autobusy: **65** (lotnisko, dw. Kaliski, Żubardź, Julianów, Bałuty, Radogoszcz Wschód), **74** (pl. Niepodległości, Polibuda, Zdrowie, Złotno), **83** (centrum tj. Tuwima/Nawrot, Złotno, Teofilów), **86** (Retkinia, dw. Kaliski, północne rejony centrum, dw. Fabryczny)
   - w pobliżu:
@@ -55,12 +55,12 @@ Gdzie jest najbliższy:
 - pociąg
   - do dw. Fabrycznego najlepiej tramwajem 9 lub 13, w pobliżu staje też 12, ewentualnie autobusem 86
   - do dw. Kaliskiego autobusem 65 lub 86, ewentualnie w pobliżu tramwaj 12
-  - do dw. Widzew - do Fabrycznego tramwajem i stamtąd pociągiem na Widzew, ewentualnie tramwaj 9
+  - do dw. Widzew – do Fabrycznego tramwajem i stamtąd pociągiem na Widzew, ewentualnie tramwaj 9
 - sklep spożywczy
   - Biedro na Żeromskiego
-  - targ na placu Barlickiego - w halach są spożywczaki i piekarnie
+  - targ na placu Barlickiego – w halach są spożywczaki i piekarnie
   - przy pl. Barlickiego jest też chyba jakaś Żabka czy inny podobny przybytek
 - sklep elektroniczny
-  - Zieleniewicz na Północnej? jest coś bliżej? - dojazd tramwaj 15/17 - 7 minut do Pomorska/Wschodnia i dalej 350 m z buta
-  - Elektra na Kopcińskiego przy Narutowicza - dojazd tramwaj 9/13 - 15-17 minut do Narutowicza/Kopcińskiego i dalej 100 m z buta
+  - Zieleniewicz na Północnej? jest coś bliżej? – dojazd tramwaj 15/17 – 7 minut do Pomorska/Wschodnia i dalej 350 m z buta
+  - Elektra na Kopcińskiego przy Narutowicza – dojazd tramwaj 9/13 – 15-17 minut do Narutowicza/Kopcińskiego i dalej 100 m z buta
 - pub
