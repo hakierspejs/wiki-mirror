@@ -1,6 +1,4 @@
-Hakierspejs od czwartku 17 września 2020 korzysta z lokalu przy ul. **Zielonej 30** w Łodzi, wynajmowanego przez d33taha. Współrzędne geograficzne: **51.76954° N, 19.44514° E**. Powierzchnia lokalu to ok. 30 mkw., z kuchnią i WC.
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=19.443673789501194%2C51.768970253789725%2C19.446109235286716%2C51.77003917929753&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/51.76950/19.44489">Wyświetl większą mapę</a></small>
+Hakierspejs od czwartku 17 września 2020 korzysta z lokalu przy ul. **Zielonej 30** w Łodzi, wynajmowanego przez d33taha. Współrzędne geograficzne: [**51.76954° N, 19.44514° E**](https://www.openstreetmap.org/#map=19/51.76950/19.44489). Powierzchnia lokalu to ok. 30 mkw., z kuchnią i WC.
 
 Aktualnie trwa remont.
 
