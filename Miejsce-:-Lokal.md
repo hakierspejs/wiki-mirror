@@ -34,7 +34,9 @@ Things to do/think of:
       - do wykorzystania także w ramach prac nad projektami i w ogóle w bieżącej działalności HS-u
 - apteczka pierwszej pomocy
 - internet
-  - zgodnie z rekonesansem d33taha, dostęp
+  - zgodnie z rekonesansem d33taha, dostępna jest Toya
+    - czy można zawrzeć umowę bezterminową/na krótki okres?
+      - jeśli nie, to przy przeprowadzce będziemy mieć problem, będziemy musieli szukać lokali z dostępną Toyą albo zabulić za przedterminowe zerwanie umowy
 - sprzęty "HS-owe"
   - infrastruktura sieciowo-serwerowa
     - HS-Waw (q3k) zaoferował nam serwer blade Dell M1000e z 16x M610
