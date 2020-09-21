@@ -1,5 +1,18 @@
 Ta strona dokumentuje lokalizację Hakierspejsu oraz jej okolicę z perspektywy dostępności transportu publicznego i innych placówek.
 
+# Dokładny adres
+
+Nasz lokal nie ma ścisłego numeru mieszkania (nie możemy jeszcze też się nazywać stowarzyszeniem), więc adres brzmiałby chyba:
+
+Hakierspejs
+pierwszy lokal po prawej w bramie
+ul. Zielona 30
+90-414 Łódź
+
+* Link do Google Maps: https://goo.gl/maps/XC74GE1oHAA8xfcy6
+* Link do Google Street View: https://goo.gl/maps/Kivi148ZxdPJc2KP9
+* Link do OpenStreetMap: https://www.openstreetmap.org/?mlat=51.76951&mlon=19.44514#map=19/51.76951/19.44514&layers=N
+
 # Transport publiczny
 
 Lokal znajduje się w sąsiedztwie placu Barlickiego – przy samym HS-ie mamy dostęp do tramwajów i autobusów, a dzięki nim także do sieci połączeń kolejowych.
