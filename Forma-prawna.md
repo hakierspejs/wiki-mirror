@@ -12,6 +12,10 @@ Jak wspomniano w poprzednim akapicie, na ten moment d33tah jest [SPOF](https://e
 
 Powołanie stowarzyszenia sprawi, że będziemy (m.in. poprzez stworzenie statutu) musieli odpowiedzieć na parę pytań: co jest naszym celem, na jakich zasadach go realizujemy, kto u nas sprawuje kontrolę i na jakich warunkach. Taka forma przezroczystości może dodać nam wiarygodności, np. przy pozyskiwaniu nowych członków lub nawiązywaniu współpracy z innymi organizacjami. Będziemy formalnie [NGO](https://pl.wikipedia.org/wiki/Organizacja_pozarz%C4%85dowa), co otwiera nowe drzwi.
 
+## Nazwanie zasad, przezroczystość
+
+Kodyfikowanie tego, w jaki sposób podejmujemy decyzje, czego oczekujemy od członków a co jest niemile widziane może w przyszłości zaoszczędzić nam konfliktów i stworzyć poczucie sprawiedliwości. Jednocześnie możemy stać się łatwiejsi do zrozumienia przez osoby z zewnątrz, w tym te, które chciałyby do nas dołączyć.
+
 ## Możliwość oficjalnego działania jako grupa
 
 TODO
