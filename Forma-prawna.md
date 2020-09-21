@@ -69,13 +69,17 @@ Patrz: [[Porównanie HSów]].
 
 Potrzebujemy 7-9 osób, z czego 3 które chcą być w zarządzie i 3 którzy chcą być w komisji rewizyjnej. Nie wystarczy zwykłe "tak, chcę" - potrzebne jest entuzjastyczne "tak, chcę" - od pozostania tych osób w HSie zależy dalsze istnienie HSŁ.
 
-## Dogadanie statutu
+## Dogadanie statutu/regulaminu, sporządzenie uchwał
 
-Opinia d33taha: nie przykładałbym do tego zbyt dużej wagi. Wystarczy jakiś potworek a'la pół statutu z HSWaw i pół z HSWro. Byleby przeszło w sądzie.
+Opinia d33taha: nie przykładałbym do tego zbyt dużej wagi. Wystarczy jakiś potworek a'la pół statutu z HSWaw i pół z HSWro lub wzorowany na regulaminach dostępnych z internetu. Byleby przeszło w sądzie i miało dla nas z grubsza sens. Nieścisłości doprecyzujemy w kolejnych uchwałach.
 
 ## Zapis w sądzie, poprawki statutu, czekanie
 
-Podobno rejestracja stowarzyszenia trwa dość długo - około trzech miesięcy plus dodatkowe 3mies za każdym razem kiedy sąd odrzuci naszą rejestrację.
+Podobno rejestracja stowarzyszenia trwa dość długo - około trzech miesięcy plus dodatkowe 3mies za każdym razem kiedy sąd odrzuci naszą rejestrację. W przypadku stowarzyszenia zwykłego (nierejestrowanego) jest to jakiś tydzień.
+
+## Wpis do REGON, skarbówka, konto bankowe, znowu skarbówka
+
+Po założeniu stowarzyszenia dostaniemy kwitek, z którym pójdziemy do GUS celem nadania REGONu (podobno wydają nawet tego samego dnia). Mając REGON możemy wnioskować o NIP, a potem złożyć oświadczenie o tym, że chcemy się prowadzić uproszczoną księgowość. Potem zakładamy konto bankowe i informujemy skarbówkę, że je mamy.
 
 ## Zabezpieczenie kwestii księgowych
 
