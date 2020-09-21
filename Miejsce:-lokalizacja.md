@@ -55,13 +55,25 @@ budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i �
 
 * przy pl. Barlickiego jest też Żabka
 
+* Tesco na Gdańskiej 81 (8min spacerem)
+
+# Bankomaty
+
+Są na Żeromskiego w kierunku placu Barlickiego.
+
 # Sklep elektroniczny
 
 **Zieleniewicz na Północnej**? jest coś bliżej? – dojazd tramwaj 15/17 – 7 minut do Pomorska/Wschodnia i dalej 350 m z buta
 
 **Elektra na Kopcińskiego przy Narutowicza** – dojazd tramwaj 9/13 – 15-17 minut do Narutowicza/Kopcińskiego i dalej 100 m z buta
 
-    
+# Paczkomaty
+
+* LOD50M, ul. Zielona 51 (koło Pogonowskiego): https://inpost.pl/paczkomat-lodz-lod50m-zielona-paczkomaty-lodzkie
+* LOD10M, ul. Plac Barlickiego 5 (koło Małej): https://inpost.pl/paczkomat-lodz-lod10m-plac-barlickiego-paczkomaty-lodzkie
+* LOD45M, ul. 6 sierpnia 29 (trochę dalej, koło Małej): https://inpost.pl/paczkomat-lodz-lod45m-6-sierpnia-paczkomaty-lodzkie
+* LOD25N, ul. Gdańska 81 (najdalej): https://inpost.pl/paczkomat-lodz-lod25n-gdanska-paczkomaty-lodzkie
+
 # Pub
 
 TODO
