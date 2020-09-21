@@ -4,6 +4,7 @@ Things to do/think of:
 - ogrzewanie [w lokalu brak jest c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
+  - na miejscu jest już jedna farelka, aczkolwiek nie była testowana
 - aranżacja wnętrza
 - meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
@@ -46,6 +47,7 @@ Things to do/think of:
   - szpeje do elektroniki
     - Kacper Szmigiel zaoferował się dostarczyć swoje
       - czy to aktualne?
+    - d33tah: mam do przywiezienia parę mikrokontrolerów z badge'y z konferencji
   - inne?
 - kontrola dostępu
   - BluRaf wyrzeźbił coś kiedyś na NFC UID dla Pokładu
