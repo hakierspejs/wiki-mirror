@@ -12,7 +12,7 @@ Poniżej lista padów ze spotkań:
 
 [8 września 2020](https://pad.hs-ldz.pl/Ytyx1Z5aQYCIqoWmeAXlfA) – online: mumble
 
-[22 września 2020](https://pad.hs-ldz.pl/6wZMv-GoQ565rljTSEutrg) – lokalnie w lokalu Zielona 30
+[22 września 2020](https://pad.hs-ldz.pl/6wZMv-GoQ565rljTSEutrg) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
 
 ## Sierpień
 
