@@ -116,7 +116,7 @@ Absolutne minimum to czajnik elektryczny. Fajnie byłoby móc coś ugotować, w
 ... Czajniki marek własnych z marketów typu Tesco, Auchan są tanie i długowieczne.
 
 IMO czajnik, kubki, łyżeczki, kawa i herbata na początek wystarczą. Później można pomyśleć o mikrofali dla zainteresowanych. Raczej niewskazane byłoby pichcenie 3-daniowego obiadu w spejsie.
-_@kszmigiel_
+_//kszmigiel_
 
 ## Elektronika
 
@@ -126,7 +126,7 @@ Z rzeczy droższych: drukarka, drukarka 3D.
 
 Jakiś czas temu zobowiązałem się do przekazania moich elektronicznych klamotów gdy już będziemy mieli swoją siedzibę i formę prawną. Jest tam oscyloskop (jakiś Uni-t z zakresem do 100MHz), multimetr, zasilacz laboratoryjny, stacja lutownicza Zhaoxin, 4x RPi 3B i masa innego sprzętu który służył mi w liceum do budowy chorych projektów.
 
-_@kszmigiel_
+_//kszmigiel_
 
 # Mapowanie okolicy
 
