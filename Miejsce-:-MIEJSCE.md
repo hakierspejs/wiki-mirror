@@ -4,6 +4,13 @@ Hakierspejs od czwartku 17 września 2020 korzysta z lokalu przy ul. **Zielonej 
 
 Aktualnie trwa remont.
 
+# Klucze do spejsu
+
+Klucze do spejsu mają:
+
+* @d33tah
+* @cytP450
+
 # Archiwum: poszukiwanie lokalu
 
 Luźne notatki na temat poszukiwań lokalu.
@@ -13,3 +20,10 @@ Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/l
 [Lista lokali, które mogą nas interesować](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA)
 
 [Kwestionariusz z przykładowymi pytaniami do pierwszej rozmowy przez telefon](https://pad.hs-ldz.pl/s/ByqBEoxlP)
+
+# Klucze do spejsu
+
+Klucze do spejsu mają:
+
+* @d33tah
+* @cytP450
