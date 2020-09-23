@@ -38,6 +38,7 @@ Things to do/think of:
       - jeśli nie, to przy przeprowadzce będziemy mieć problem, będziemy musieli szukać lokali z dostępną Toyą albo zabulić za przedterminowe zerwanie umowy
 - sprzęty "HS-owe"
   - __listwy zasilające__
+  - rzutnik
   - infrastruktura sieciowo-serwerowa
     - HS-Waw (q3k) zaoferował nam serwer blade Dell M1000e z 16x M610
       - to jest głośne i ciągnie dużo prądu
