@@ -4,12 +4,13 @@ Things to do/think of:
 - ogrzewanie [w lokalu brak jest c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
-  - na miejscu jest już jedna farelka, aczkolwiek nie była testowana
+  - na miejscu ~~jest już jedna farelka~~ są dwie, aczkolwiek nie były jeszcze testowane
 - aranżacja wnętrza
 - meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
     - nuke ma 4 krzesła biurowe, stare, ale w dobrym stanie
     - kujaw zaoferował wieszak ścienny na ubrania
+    - na miejscu jest coś, co wygląda jak jakieś rozłożone szafki lub biurka, trzeba spróbować to złożyć
   - rzeczy wystawiane za darmo/za niskie kwoty na OLX
     - [jest tego sporo, szczególnie jeśli chodzi o kanapy i fotele](https://www.olx.pl/dom-ogrod/meble/lodz/?search[filter_float_price%3Ato]=10)
   - transport
@@ -21,20 +22,22 @@ Things to do/think of:
     - na wyposażeniu jest taka sklepowa do napojów
       - trzeba umyć
       - ile to żre?
+      - czy działa?
     - przydałaby się taka do kuchni
       - j.w. może ktoś ma niepotrzebną?
-    - czajnik
-    - "gary" tzn. kubki, szklanki, talerze itp.
-    - odkurzacz i inne akcesoria do utrzymania czystości
+    - ~~czajnik~~ jest
+    - "gary" tzn. kubki, szklanki, talerze itp. -> są kubki
+    - ~~odkurzacz i inne akcesoria do utrzymania czystości~~ są, kwestia ewentualnego uzupełnienia braków, i trzeba kupić worki i filtry do odkurzacza
     - elektronarzędzia (coby nie przyjeżdżać ze swoją wiertarką, jak trzeba będzie dziurę wywiercić)
     - narzędzia ręczne (młotki, klucze, śrubokręty, piły, pilniki...)
       - do wykorzystania także w ramach prac nad projektami i w ogóle w bieżącej działalności HS-u
 - apteczka pierwszej pomocy
 - internet
-  - zgodnie z rekonesansem d33taha, dostępna jest Toya
+  - zgodnie z rekonesansem d33taha, dostępna jest Toya -> wentylacją wchodzi jakiś koncentryk 75 ohm jak do telewizji, to chyba tym by szła ta Toya
     - czy można zawrzeć umowę bezterminową/na krótki okres?
       - jeśli nie, to przy przeprowadzce będziemy mieć problem, będziemy musieli szukać lokali z dostępną Toyą albo zabulić za przedterminowe zerwanie umowy
 - sprzęty "HS-owe"
+  - __listwy zasilające__
   - infrastruktura sieciowo-serwerowa
     - HS-Waw (q3k) zaoferował nam serwer blade Dell M1000e z 16x M610
       - to jest głośne i ciągnie dużo prądu
