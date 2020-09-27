@@ -2,14 +2,9 @@
 
 Hakierspejs od czwartku 17 września 2020 korzysta z lokalu przy ul. **Zielonej 30** w Łodzi, wynajmowanego przez d33taha. Współrzędne geograficzne: [**51.76954° N, 19.44514° E**](https://www.openstreetmap.org/#map=19/51.76950/19.44489). Powierzchnia lokalu to ok. 30 mkw., z kuchnią i WC.
 
-Aktualnie trwa remont.
+Aktualnie trwa remont i dyskusje związane z użyciem przestrzeni. Stan dyskusji można przejrzeć tutaj:
 
-# Klucze do spejsu
-
-Klucze do spejsu mają:
-
-* @d33tah
-* @cytP450
+https://forum.hs-ldz.pl/c/organizacyjne/siedziba/7
 
 # Archiwum: poszukiwanie lokalu
 
