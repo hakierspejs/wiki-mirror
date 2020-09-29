@@ -15,7 +15,7 @@ Jako, że w związku z wynajęciem lokalu musimy podjąć sporo decyzji finansow
 * Aleksy_W
 * nuke
 * Kacper Szmigiel
-* pmysl
+* Piotr
 
 Dwie osoby jeszcze nie potwierdziły, czy wyrażają zgodę na umieszczenie na tej liście.
 
