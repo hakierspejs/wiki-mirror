@@ -26,6 +26,6 @@
 
 * [[Więcej]]
 
-  * [[Potrzebujemy pomocy z...]]
+  * [[Pomoc|Potrzebujemy pomocy z...]]
   * [[Do-ocracy]]
   * [[Porównanie HSów]]
