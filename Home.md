@@ -11,17 +11,8 @@ ls * | rg -v '^Home.md$' | sed -e 's/\.md$/]]/g' -e 's/^/## [[/g' | sort
 
 -->
 
-## [[Do-ocracy]]
-## [[Finanse]]
-## [[Forma prawna]]
-## [[Infrastruktura]]
-## [[Kontakt]]
-## [[Lista mailingowa]]
-## [[Ludzie]]
-## [[Miejsce|Miejsce-:-MIEJSCE]]
-## [[Nowy projekt: checklista]]
-## [[O nas]]
-## [[Porównanie HSów]]
-## [[Spotkania]]
-## [[Potrzebujemy pomocy z...]]
-## [[Wartości HSŁ]]
+# [[O nas]]
+# [[Organizacja]]
+# [[Miejsce|Miejsce::Miejsce]]
+# [[Projekty]]
+# [[Więcej]]
