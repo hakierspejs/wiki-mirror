@@ -6,9 +6,9 @@ TODO: udokumentować co autor mógł mieć na myśli + dodać linki do wszystkic
 
 Czyli media, w których odpowiedź nie jest "natychmiastowa" - wypowiedzi zwykle są dłuższe i docierają w ciągu kilku godzin. Używane, kiedy zależy nam na dotarciu do jak największej ilości osób powiązanych z HSŁ.
 
-### Lista mailingowa
+### [Lista mailingowa](https://github.com/hakierspejs/wiki/wiki/Lista-mailingowa)
 
-### Discourse
+### [Discourse](https://forum.hs-ldz.pl)
 
 ## Komunikacja synchroniczna
 
