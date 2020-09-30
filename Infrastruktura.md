@@ -173,7 +173,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** zakładając, że robimy regularnie backupy, jest to kwestia wynajęcia gdzieś innej VMki i przepięcia domeny na nowy adres IP.
 
-**Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher i @cytP450. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
+**Kto kontroluje:** roota mają: @d33tah, @kpc, @Keij0, @thinkofher, @cytP450 i @pmysl. Fizycznie maszynę kontroluje Hackerspace Warszawa, w szczególności q3k.
 
 # Pad
 
@@ -193,7 +193,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** self-hosted w Dockerze, więc raczej da radę to przenieść. Aleksy [udokumentował](https://github.com/hakierspejs/forumhsldz) proces żenienia tego z Traefikiem.
 
-**Kto kontroluje:** @d33tah, @thinkofher, @cytP450
+**Kto kontroluje:** @d33tah, @thinkofher, @cytP450, @pmysl
 
 # Grafana
 
@@ -203,7 +203,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** self-hosted
 
-**Kto kontroluje:** @d33tah
+**Kto kontroluje:** @d33tah, @pmysl
 
 # Naklejki
 
