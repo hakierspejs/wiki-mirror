@@ -1,1 +1,3 @@
 # Spis treści
+
+* [[Kontakt]]
