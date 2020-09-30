@@ -1,3 +1,1 @@
-TODO: zrobić tutaj jakąś lepszą nawigację.
-
-* Test
+# Spis treści
