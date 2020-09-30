@@ -1,5 +1,6 @@
 # Spis treści
 
+* [[Strona główna|Home]]
 * [[O nas]]
 
   * [[Wartości HSŁ]]
