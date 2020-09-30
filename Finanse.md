@@ -7,7 +7,7 @@ Chcielibyśmy coś wynająć, patrz: [[Miejsce]]. Prawdopodobnie będziemy potr
 
 **TODO**: Jak wyglądają finanse HSWAW/HSWro/HSKrk/H3S?
 
-Wpis na temat HSWAW: https://lists.hackerspace.pl/mailman/private/waw/2020-March/050056.html
+[Wpis na temat HSWAW.](https://lists.hackerspace.pl/mailman/private/waw/2020-March/050056.html)
 
 # Przychody
 
