@@ -14,10 +14,10 @@ Czyli media, w których odpowiedź nie jest "natychmiastowa" - wypowiedzi zwykle
 
 Czyli wszelkiej maści komunikatory natychmiastowe - chaty oraz (wideo)konferencje.
 
-### Telegram
+### [Telegram](https://t.me/hakierspejs)
 
-### IRC
+### [IRC](https://webchat.freenode.net/#hakierspejs)
 
-### Mumble
+### [Mumble](https://junkcc.net/)
 
 W odróżnieniu od innych, tu komunikujemy się dźwiękowo. Zwykle najpierw umawiamy się na spotkanie.
