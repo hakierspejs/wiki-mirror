@@ -203,7 +203,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** self-hosted
 
-**Kto kontroluje:** #deetah
+**Kto kontroluje:** @d33tah
 
 # Naklejki
 
