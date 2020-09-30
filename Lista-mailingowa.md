@@ -1,4 +1,4 @@
-Listę hostuje nam Hackerspace Warszawa. Używają oni projektu Mailman.
+Listę hostuje nam [Hackerspace Warszawa](https://hackerspace.pl/). Używają oni projektu [Mailman](http://www.list.org/).
 
 ### [Archiwum](https://lists.hackerspace.pl/pipermail/lodz/)  
 ### [Zapisz się](https://lists.hackerspace.pl/mailman/listinfo/lodz)
