@@ -16,7 +16,8 @@ Jako, że w związku z wynajęciem lokalu musimy podjąć sporo decyzji finansow
 * nuke
 * Kacper Szmigiel
 * Piotr
+* thinkofher
 
-Dwie osoby jeszcze nie potwierdziły, czy wyrażają zgodę na umieszczenie na tej liście.
+Jedna osoba jeszcze nie potwierdziła, czy wyraża zgodę na umieszczenie na tej liście.
 
 Składki płaci też jedna osoba, która chciałaby, żeby jej tożsamość nie była podana publicznie.
