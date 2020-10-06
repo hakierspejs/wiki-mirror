@@ -6,6 +6,10 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
+## Październik
+
+[6 października 2020](https://pad.hs-ldz.pl/JqgGWJCTRXyhSHkZy97ReQ) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
+
 ## Wrzesień
 
 5 września 2020 – hackpiknik w parku na Zdrowiu, brak pada
@@ -15,8 +19,6 @@ Poniżej lista padów ze spotkań:
 [22 września 2020](https://pad.hs-ldz.pl/6wZMv-GoQ565rljTSEutrg) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
 
 [29 września 2020](https://pad.hs-ldz.pl/Zse2cj0kTxaB59X3GHyllw) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
-
-[6 października 2020](https://pad.hs-ldz.pl/JqgGWJCTRXyhSHkZy97ReQ) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
 
 ## Sierpień
 
