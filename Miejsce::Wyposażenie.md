@@ -42,6 +42,7 @@ Things to do/think of:
     - narzędzia ręczne (młotki, klucze, śrubokręty, piły, pilniki...)
       - do wykorzystania także w ramach prac nad projektami i w ogóle w bieżącej działalności HS-u
 - apteczka pierwszej pomocy
+- gaśnca p/poż -- jest na wyposażeniu typu ABC
 - internet
   - zgodnie z rekonesansem d33taha, dostępna jest Toya -> wentylacją wchodzi jakiś koncentryk 75 ohm jak do telewizji, to chyba tym by szła ta Toya
     - czy można zawrzeć umowę bezterminową/na krótki okres?
