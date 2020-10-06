@@ -4,17 +4,19 @@ Things to do/think of:
 - ogrzewanie [w lokalu brak jest c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
-  - na miejscu ~~jest już jedna farelka~~ są dwie, aczkolwiek nie były jeszcze testowane
+  - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
 - aranżacja wnętrza
 - meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
     - nuke ma 4 krzesła biurowe, stare, ale w dobrym stanie
     - kujaw zaoferował wieszak ścienny na ubrania
     - na miejscu jest coś, co wygląda jak jakieś rozłożone szafki lub biurka, trzeba spróbować to złożyć
+    - meble od kpc
   - rzeczy wystawiane za darmo/za niskie kwoty na OLX
     - [jest tego sporo, szczególnie jeśli chodzi o kanapy i fotele](https://www.olx.pl/dom-ogrod/meble/lodz/?search[filter_float_price%3Ato]=10)
   - transport
     - kto ma duże auto?
+      - kejdżo, njuk
       - czy ma tak duże, by weszła kanapa?
       - albo przyczepkę?
 - sprzęty "bytowe"
@@ -24,9 +26,17 @@ Things to do/think of:
       - ile to żre?
       - czy działa?
     - przydałaby się taka do kuchni
-      - j.w. może ktoś ma niepotrzebną?
+      - ~~j.w. może ktoś ma niepotrzebną?~~ przywieziona mały Haier
     - ~~czajnik~~ jest
     - "gary" tzn. kubki, szklanki, talerze itp. -> są kubki
+      - 1 talerzyk
+      - 1 słoik
+      - 2 filiżanki
+      - 2 kubki
+      - 1 słoik do napojów
+      - 3 noże
+      - 1 łyżka
+      - 1 deska do krojenia plastikowa
     - ~~odkurzacz i inne akcesoria do utrzymania czystości~~ są, kwestia ewentualnego uzupełnienia braków, i trzeba kupić worki i filtry do odkurzacza
     - elektronarzędzia (coby nie przyjeżdżać ze swoją wiertarką, jak trzeba będzie dziurę wywiercić)
     - narzędzia ręczne (młotki, klucze, śrubokręty, piły, pilniki...)
@@ -38,7 +48,7 @@ Things to do/think of:
       - jeśli nie, to przy przeprowadzce będziemy mieć problem, będziemy musieli szukać lokali z dostępną Toyą albo zabulić za przedterminowe zerwanie umowy
 - sprzęty "HS-owe"
   - __listwy zasilające__
-  - rzutnik
+  - ~~rzutnik~~ będzie z Krakowa do odbioru w mięsnym
   - infrastruktura sieciowo-serwerowa
     - HS-Waw (q3k) zaoferował nam serwer blade Dell M1000e z 16x M610
       - to jest głośne i ciągnie dużo prądu
@@ -55,3 +65,8 @@ Things to do/think of:
   - inne?
 - kontrola dostępu
   - BluRaf wyrzeźbił coś kiedyś na NFC UID dla Pokładu
+- inne
+  - 2 manekiny
+  - 2 podświetlane reklamy Heyah
+  - 1 podświetlana reklama Ery Tak Tak
+  - 1 czajnik. elektryczny
