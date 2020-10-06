@@ -16,6 +16,8 @@ Poniżej lista padów ze spotkań:
 
 [29 września 2020](https://pad.hs-ldz.pl/Zse2cj0kTxaB59X3GHyllw) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
 
+[6 października 2020](https://pad.hs-ldz.pl/JqgGWJCTRXyhSHkZy97ReQ) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
+
 ## Sierpień
 
 8 sierpnia 2020 - urodziny Marti; na żywo, nie było pada.
