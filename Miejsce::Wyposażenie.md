@@ -70,3 +70,4 @@ Things to do/think of:
   - 2 podświetlane reklamy Heyah
   - 1 podświetlana reklama Ery Tak Tak
   - 1 czajnik. elektryczny
+  - 1 lustro wysokie pokojowe
