@@ -64,10 +64,11 @@ Things to do/think of:
     - Kacper Szmigiel zaoferował się dostarczyć swoje
       - czy to aktualne?
     - d33tah: mam do przywiezienia parę mikrokontrolerów z badge'y z konferencji
+  - jakieś audio (wzmacniacz, kolumny)
   - inne?
 - kontrola dostępu
   - BluRaf wyrzeźbił coś kiedyś na NFC UID dla Pokładu
-- inne
+- inne (są)
   - 2 manekiny
   - 2 podświetlane reklamy Heyah
   - 1 podświetlana reklama Ery Tak Tak
