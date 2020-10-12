@@ -19,7 +19,7 @@ Jest to lista rzeczy, które są niezbędne do tego by z HS-u można było korzy
 # Inne
 
 - [ ] 2 porządniejsze listwy zasilające
-- [ ] worki do odkurzacza
+- [ ] worki i filtry do odkurzacza
 - [ ] gąbki do mycia naczyń
 - [ ] szczotka ryżowa
 
