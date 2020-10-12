@@ -1,8 +1,3 @@
-# Plan
-
-Chcielibyśmy coś wynająć, patrz: [[Miejsce]]. Prawdopodobnie będziemy potrzebowali około 1500 zł miesięcznie, może mniej jeśli uda się zacisnąć pasa. Niewykluczone, że pierwsza płatność będzie musiała obejmować podwójny czynsz. Na ten moment finansujemy się z ze składek. Powiązane: [Lista lokali](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA#), na które warto zwrócić uwagę.
-
-
 # Porównanie z innymi HSami
 
 **TODO**: Jak wyglądają finanse HSWAW/HSWro/HSKrk/H3S?
@@ -23,7 +18,7 @@ Można już wpłacać!
 
 Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
 
-Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje – w większości hackerspace'ów jest to np. pełen dostęp do [[Miejsce]] w dowolnym momencie. Płacenie składek __nie__ będzie natomiast warunkiem uczestnictwa w regularnych otwartych spotkaniach.
+Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje – w większości hackerspace'ów jest to np. pełen dostęp do [[siedziby|Miejsce::Miejsce]] w dowolnym momencie. Płacenie składek __nie__ będzie natomiast warunkiem uczestnictwa w regularnych otwartych spotkaniach.
 
 Więcej informacji [tutaj](https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html).
 
@@ -60,3 +55,9 @@ Wydrukowane było [LOGO](https://github.com/hakierspejs/wiki/raw/master/media-w-
 ## Domeny
 
 ## Hosting
+
+---
+
+# Archiwum: plan
+
+Chcielibyśmy coś wynająć, patrz: [[Miejsce::Miejsce]]. Prawdopodobnie będziemy potrzebowali około 1500 zł miesięcznie, może mniej jeśli uda się zacisnąć pasa. Niewykluczone, że pierwsza płatność będzie musiała obejmować podwójny czynsz. Na ten moment finansujemy się z ze składek. Powiązane: [Lista lokali](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA#), na które warto zwrócić uwagę.
