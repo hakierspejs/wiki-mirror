@@ -8,15 +8,16 @@ HS jest zbudowany z ludzi. Poniższy autogenerowany diagram pokazuje, kto kontro
 
 Jako, że w związku z wynajęciem lokalu musimy podjąć sporo decyzji finansowych, a tutaj szczególny głos mają osoby, które płacą składki, oto lista osób które wpłaciły coś w ciągu ostatnich 30 dni i wyraziły zgodę na ujawnienie tej informacji:
 
-* Andrew
-* Tomek Księżak
-* Jan Starzak
-* kujawek
 * Aleksy_W
-* nuke
+* Andrew
+* Jan Starzak
 * Kacper Szmigiel
+* kujawek
+* nuke
+* olewales
 * Piotr
 * thinkofher
+* Tomek Księżak
 
 Jedna osoba jeszcze nie potwierdziła, czy wyraża zgodę na umieszczenie na tej liście.
 
