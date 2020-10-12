@@ -22,3 +22,4 @@ Jest to lista rzeczy, które są niezbędne do tego by z HS-u można było korzy
 - [ ] 2 porządniejsze listwy zasilające
 - [ ] worki do odkurzacza
 - [ ] gąbki do mycia naczyń
+- [ ] sposób na łatwe powiadamianie na stronie lub w innych miejscach, że HS jest aktualnie otwarty
