@@ -5,6 +5,7 @@ Things to do/think of:
   - ciepło od serwera
   - kujaw zaoferował farelkę
   - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
+    - są już chyba trzy, ale bezpiecznik jest tylko 6A
 - aranżacja wnętrza
 - meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
