@@ -9,7 +9,7 @@ Jest to lista rzeczy, które są niezbędne do tego by z HS-u można było korzy
 # Meble
 
 - [x] stół/blat
-- [ ] 4 do 6 krzeseł
+- [x] 4 do 6 krzeseł
 
 # Naprawy
 
