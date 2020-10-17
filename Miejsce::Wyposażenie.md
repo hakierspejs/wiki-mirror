@@ -12,7 +12,9 @@ Things to do/think of:
     - nuke ma 4 krzesła biurowe, stare, ale w dobrym stanie
     - kujaw zaoferował wieszak ścienny na ubrania
     - na miejscu jest coś, co wygląda jak jakieś rozłożone szafki lub biurka, trzeba spróbować to złożyć
+      - udało się złożyć 2 regały i skonstruować wielki stół; zostało jeszcze sporo płyt meblowych (MDF), z których jeszcze pewnie dałoby się coś wyrzeźbić
     - meble od kpc
+      - mamy 3 krzesła na kółkach przywiezione przeze mnie ~kpc i chyba trzy albo cztery krzesła stacjonarne, przywiezione chyba przez nuke'a
   - rzeczy wystawiane za darmo/za niskie kwoty na OLX
     - [jest tego sporo, szczególnie jeśli chodzi o kanapy i fotele](https://www.olx.pl/dom-ogrod/meble/lodz/?search[filter_float_price%3Ato]=10)
   - transport
@@ -50,7 +52,7 @@ Things to do/think of:
       - jeśli nie, to przy przeprowadzce będziemy mieć problem, będziemy musieli szukać lokali z dostępną Toyą albo zabulić za przedterminowe zerwanie umowy
 - sprzęty "HS-owe"
   - __listwy zasilające__
-  - ~~rzutnik~~ będzie z Krakowa do odbioru w mięsnym
+  - ~~rzutnik~~ podarowany przez HS-Krk
   - infrastruktura sieciowo-serwerowa
     - HS-Waw (q3k) zaoferował nam serwer blade Dell M1000e z 16x M610
       - to jest głośne i ciągnie dużo prądu
