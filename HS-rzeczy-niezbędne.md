@@ -26,3 +26,4 @@ Jest to lista rzeczy, które są niezbędne do tego by z HS-u można było korzy
 # Software
 
 - [ ] sposób na łatwe powiadamianie na stronie lub w innych miejscach, że HS jest aktualnie otwarty
+- [ ] kalendarz do koordynowania, kto i kiedy będzie w HSie (CalDAV?)
