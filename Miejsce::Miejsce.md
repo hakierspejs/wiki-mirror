@@ -22,3 +22,4 @@ Klucze do spejsu mają:
 
 * @d33tah
 * @cytP450
+* @nuke
