@@ -6,6 +6,10 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
+## Listopad
+
+[3 listopada 2020](https://pad.hs-ldz.pl/AJu9R_TLTT6ZVT-60OmBIA) – zdalnie (Mumbel)
+
 ## Październik
 
 [6 października 2020](https://pad.hs-ldz.pl/JqgGWJCTRXyhSHkZy97ReQ) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
@@ -13,7 +17,6 @@ Poniżej lista padów ze spotkań:
 [13 października 2020](https://pad.hs-ldz.pl/Wz7J6KkaSWSBq_xBAGIILg) – zdalnie (Mumble)
 
 [20 października 2020](https://pad.hs-ldz.pl/Tnfgv0KQQWaJX3Drg-5UAw) – zdalnie (Mumbel)
-
 
 ## Wrzesień
 
