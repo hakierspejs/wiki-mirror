@@ -1,4 +1,4 @@
-_Poniższy dokument jest automatycznie przetłumaczonym rozdziałem 2 z Hackerspace Blueprint. Całość dostępna na CC4 BY-NC-SA tutaj: https://github.com/0x20/hackerspace-blueprint/_
+_Poniższy dokument jest automatycznie przetłumaczonym rozdziałem 2 z Hackerspace Blueprint. Całość dostępna na CC4 BY-NC-SA jest [tutaj](https://github.com/0x20/hackerspace-blueprint/).
 
 ## W skrócie
 
