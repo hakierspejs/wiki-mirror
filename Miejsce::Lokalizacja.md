@@ -9,9 +9,9 @@ pierwszy lokal po prawej w bramie
 ul. Zielona 30
 90-414 Łódź
 
-* Link do Google Maps: https://goo.gl/maps/XC74GE1oHAA8xfcy6
-* Link do Google Street View: https://goo.gl/maps/Kivi148ZxdPJc2KP9
-* Link do OpenStreetMap: https://www.openstreetmap.org/?mlat=51.76951&mlon=19.44514#map=19/51.76951/19.44514&layers=N
+* [Google Maps](https://goo.gl/maps/XC74GE1oHAA8xfcy6)
+* [Google Street View](https://goo.gl/maps/Kivi148ZxdPJc2KP9)
+* [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.76951&mlon=19.44514#map=19/51.76951/19.44514&layers=N)
 
 # Transport publiczny
 
@@ -69,10 +69,10 @@ Są na Żeromskiego w kierunku placu Barlickiego.
 
 # Paczkomaty
 
-* LOD50M, ul. Zielona 51 (koło Pogonowskiego): https://inpost.pl/paczkomat-lodz-lod50m-zielona-paczkomaty-lodzkie
-* LOD10M, ul. Plac Barlickiego 5 (koło Małej): https://inpost.pl/paczkomat-lodz-lod10m-plac-barlickiego-paczkomaty-lodzkie
-* LOD45M, ul. 6 sierpnia 29 (trochę dalej, koło Małej): https://inpost.pl/paczkomat-lodz-lod45m-6-sierpnia-paczkomaty-lodzkie
-* LOD25N, ul. Gdańska 81 (najdalej): https://inpost.pl/paczkomat-lodz-lod25n-gdanska-paczkomaty-lodzkie
+* [LOD50M, ul. Zielona 51 (koło Pogonowskiego)](https://inpost.pl/paczkomat-lodz-lod50m-zielona-paczkomaty-lodzkie)
+* [LOD10M, ul. Plac Barlickiego 5 (koło Małej)](https://inpost.pl/paczkomat-lodz-lod10m-plac-barlickiego-paczkomaty-lodzkie)
+* [LOD45M, ul. 6 sierpnia 29 (trochę dalej, koło Małej)](https://inpost.pl/paczkomat-lodz-lod45m-6-sierpnia-paczkomaty-lodzkie)
+* [LOD25N, ul. Gdańska 81 (najdalej)](https://inpost.pl/paczkomat-lodz-lod25n-gdanska-paczkomaty-lodzkie)
 
 # Pub
 
