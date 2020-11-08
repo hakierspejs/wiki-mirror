@@ -17,7 +17,7 @@ Android:
 Linux:
 - [Thunderbird](https://www.thunderbird.net/pl/) z wtyczkami [CardBook](https://addons.thunderbird.net/pl/thunderbird/addon/cardbook/) i [Lightning](https://addons.thunderbird.net/pl/thunderbird/addon/lightning/)
 - GNOME [Calendar](https://wiki.gnome.org/Apps/Calendar), [Contacts](https://wiki.gnome.org/Apps/Contacts) i [Evolution](https://wiki.gnome.org/Apps/Evolution)
-- [MineTime](https://minetime.ai/) (niestety closed-source :( )
+- [MineTime](https://minetime.ai/) (niestety closed-source 😔 )
 
 ### Używanie
 
