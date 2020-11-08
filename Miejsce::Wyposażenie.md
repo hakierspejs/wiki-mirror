@@ -1,7 +1,7 @@
 [**WĄTEK NA FORUM – CALL FOR EQUIPMENT**](https://forum.hs-ldz.pl/t/call-for-equipment/81/4) - tam można się zgłaszać, jeśli ktoś ma coś do zaoferowania/przywiezienia.
 
 Things to do/think of:
-- ogrzewanie [w lokalu brak jest c.o.]
+- ogrzewanie [w lokalu nie ma c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
   - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
