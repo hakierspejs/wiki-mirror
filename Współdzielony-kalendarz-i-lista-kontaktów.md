@@ -5,7 +5,7 @@ Serwer wymaga uwierzytelnienia.
 
 Jeśli masz dostęp ssh, do naszej VM, to wykonaj jako root komendę:
 
-`# htpasswd /etc/radicale/htpasswd nazwa_użytkownika`
+`# htpasswd -B /etc/radicale/htpasswd nazwa_użytkownika`
 
 Jeśli nie masz, poproś o założenie konta kogoś, kto ten dostęp ma np. [@ksiezak](https://github.com/ksiezak) (Matrix: [@ksiezak:matrix.org](https://matrix.to/#/@ksiezak:matrix.org) Telegram: [@ksiezak](https://t.me/ksiezak))
 
