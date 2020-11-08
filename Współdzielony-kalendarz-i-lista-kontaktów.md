@@ -19,6 +19,12 @@ Linux:
 - GNOME [Calendar](https://wiki.gnome.org/Apps/Calendar), [Contacts](https://wiki.gnome.org/Apps/Contacts) i [Evolution](https://wiki.gnome.org/Apps/Evolution)
 - [MineTime](https://minetime.ai/) (niestety closed-source :( )
 
+### Używanie
+
+W kliencie dodaj dwa konta, w obu przypadkach podaj swoją nazwę użytkownika i hasło, a jako adresy URL użyj:
+- dla książki adresowej: [https://cal.hs-ldz.pl:5232/addressbook/61bb92bb-6ea9-0366-22f5-9fdcd5c53e02/](https://cal.hs-ldz.pl:5232/addressbook/61bb92bb-6ea9-0366-22f5-9fdcd5c53e02/)
+- dla kalendarza: [https://cal.hs-ldz.pl:5232/cal/fcbca4e6-3adb-6d08-2b8b-64c4d7e3e4a9/](https://cal.hs-ldz.pl:5232/cal/fcbca4e6-3adb-6d08-2b8b-64c4d7e3e4a9/) 
+
 
 ### TODO
 - [ ] Konteneryzacja serwera
