@@ -13,6 +13,7 @@
   * [[Forma prawna]]
   * [[Infrastruktura]]
   * [[Kontakt]]
+  * [[Współdzielony kalendarz i lista kontaktów]]
 
 * [[Miejsce|Miejsce::Miejsce]]
 
