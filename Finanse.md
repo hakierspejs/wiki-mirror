@@ -8,30 +8,23 @@
 
 ## Składki
 
-Można już wpłacać!
+Zbieramy pieniądze na bieżącą oraz przyszłą działalność Hakierspejsu. Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas stać na [[Miejsce]] (czynsz i media, w tym internet) oraz [[formę prawną|Forma prawna]] (księgowość itd).
 
 **Numer konta Hakierspejsu**: 55 1140 2004 0000 3002 7656 1893 (mBank)
 
 **Nazwa odbiorcy**: Jacek Wielemborek
 
-**Tytuł**: „Hakierspejs – składka”, ale w sumie konto jest tylko dla Hakierspejsu.
+**Tytuł**: „<nazwa użytkownika> - Hakierspejs – składka”. Hakierspejs ma oddzielny numer konta.
 
-Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas w ogóle stać na [[Miejsce]].
+Przy przesyłaniu pierwszej składki mile widziane jest podanie d33tahowi swojego adresu e-mail. Dzięki temu możliwe będzie otrzymywanie potwierdzeń o tym, że składka już została zaksięgowana oraz przypomnień o zaleganiu ze składkami.
 
-Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje – w większości hackerspace'ów jest to np. pełen dostęp do [[siedziby|Miejsce::Miejsce]] w dowolnym momencie. Płacenie składek __nie__ będzie natomiast warunkiem uczestnictwa w regularnych otwartych spotkaniach.
+Składki są automatycznie księgowanie przez projekt [ksiemgowy](https://github.com/hakierspejs/ksiemgowy). Przez "księgowanie" rozumiane jest odnotowanie przelewu w bazie danych oraz poinformowanie o tym nadawcy, a następnie zaktualizowanie strony głównej Hakierspejsu oraz metryk w naszej Grafanie.
 
-Więcej informacji [tutaj](https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html).
+Obecnie wpłaty są dobrowolne. W przyszłości, gdy będziemy już mieć [[Forma prawna]], deklaracja regularnych wpłat będzie warunkiem zostania formalnym członkiem, co z kolei będzie oznaczać konkretne przywileje – w większości hackerspace'ów jest to m.in. pełen samodzielny dostęp do [[siedziby|Miejsce::Miejsce]] w dowolnym momencie oraz prawo głosu w kwestiach stowarzyszenia - w szczególności w kwestii wykorzystywania budżetu. Płacenie składek __nie__ będzie natomiast warunkiem uczestnictwa w społeczności, w tym na regularnych otwartych spotkaniach.
 
-> Obgadaliśmy temat na Mumble i doszliśmy wspólnie do wniosku, że żeby
-Hakierspejs miał fizyczną siedzibę, przy założeniu czynszu ~1500zł
-(>30m2 niedaleko centrum) potrzebujemy 15 osób które będą wpłacać po
-100zł lub - co wydaje mi się mniej realistyczne - 30 osób które będą
-regularnie dorzucać 50zł. Ta kasa będzie w większości czekać na moim
-koncie aż zbierze się masa krytyczna. Dopóki nie zarejestrujemy
-stowarzyszenia, osobom które przestaną wpłacać mogę zaproponować jej
-zwrot. Planuję też dodać do naszej strony pasek postępu, w którym będę
-na bieżąco - a docelowo automatycznie - aktualizował info o tym, ile
-osób regularnie wpłaca. ~d33tah
+### Historia
+
+Zbieranie składek zostało ogłoszone w [tym](https://lists.hackerspace.pl/pipermail/lodz/2020-April/000064.html) poście.
 
 ## Zrzuty
 ### Meetup
