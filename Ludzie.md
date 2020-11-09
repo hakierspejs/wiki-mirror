@@ -18,7 +18,6 @@ Jako, że w związku z wynajęciem lokalu musimy podjąć sporo decyzji finansow
 * Piotr
 * thinkofher
 * Tomek Księżak
-
-Jedna osoba jeszcze nie potwierdziła, czy wyraża zgodę na umieszczenie na tej liście.
+* Piotr Zduniak
 
 Składki płaci też jedna osoba, która chciałaby, żeby jej tożsamość nie była podana publicznie.
