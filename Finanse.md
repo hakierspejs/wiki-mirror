@@ -8,7 +8,7 @@
 
 ## Składki
 
-Zbieramy pieniądze na bieżącą oraz przyszłą działalność Hakierspejsu. Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas stać na [[Miejsce]] (czynsz i media, w tym internet) oraz [[formę prawną|Forma prawna]] (księgowość itd).
+Zbieramy pieniądze na bieżącą oraz przyszłą działalność Hakierspejsu. Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas stać na [[miejsce|Miejsce::Miejsce]] (czynsz i media, w tym internet) oraz [[formę prawną|Forma prawna]] (księgowość itd).
 
 **Numer konta Hakierspejsu**: 55 1140 2004 0000 3002 7656 1893 (mBank)
 
