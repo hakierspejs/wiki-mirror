@@ -27,8 +27,8 @@ W kliencie dodaj dwa konta, w obu przypadkach podaj swoją nazwę użytkownika i
 
 
 ### TODO
-- [ ] Konteneryzacja serwera
-- [ ] Dołożenie WebUI np. [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/)
-- [ ] Ustawienie prawilnego certyfikatu np. Let'sEncrypt
+- [x] Konteneryzacja serwera
+- [x] Dołożenie WebUI np. [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/)
+- [x] Ustawienie prawilnego certyfikatu np. Let'sEncrypt
 - [ ] Napisanie jakiegoś WebUI do rejestracji nowych użytkowników
 - [ ] Rozbudowa dokumentacji, opis jak ustawiać klienty, więcej klientów
