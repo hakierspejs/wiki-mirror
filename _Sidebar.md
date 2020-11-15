@@ -31,4 +31,4 @@
 
   * [[Pomóż|Potrzebujemy pomocy z...]]
   * [[Do-ocracy]]
-  * [[Porównanie HSów]]
+  * [[Porównanie HS-ów|Porównanie HSów]]
