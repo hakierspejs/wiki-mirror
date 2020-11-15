@@ -22,5 +22,14 @@ Klucze do spejsu mają:
 
 * @d33tah
 * @cytP450
-* @nuke
+* @nuke (aktualnie zamiast niego: @pmysl)
 * @kszmigiel
+
+# Przed wyjściem ze spejsu
+
+1. posprzątać po sobie
+2. zakręcić wodę
+3. zgasić wszystkie światła (uwaga! jeden z przełączników jest za płatem drzwi zaraz przy wejściu, drugi to ten dalszy w głównym pokoju)
+4. wyrzucić śmieci, zwłaszcza jeśli to bio
+5. upewnić się, że krata oraz drzwi frontowe są zamknięte
+6. zamknąć główne drzwi tak jak opisała osoba, od której dostało się klucz
