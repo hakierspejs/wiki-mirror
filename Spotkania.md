@@ -12,6 +12,8 @@ Poniżej lista padów ze spotkań:
 
 [10 listopada 2020](https://pad.hs-ldz.pl/dwHW7lm2QUmx8iGG2GUFzg) - zdalnie (mumble)
 
+[17 listopada 2020](https://pad.hs-ldz.pl/3ngRbgy0QyemiodLYQOmZQ) - zdalnie (mumble)
+
 ## Październik
 
 [6 października 2020](https://pad.hs-ldz.pl/JqgGWJCTRXyhSHkZy97ReQ) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
