@@ -19,6 +19,9 @@ Linux:
 - GNOME [Calendar](https://wiki.gnome.org/Apps/Calendar), [Contacts](https://wiki.gnome.org/Apps/Contacts) i [Evolution](https://wiki.gnome.org/Apps/Evolution)
 - [MineTime](https://minetime.ai/) (niestety closed-source 😔 )
 
+Klient webowy:
+- [Nasz InfCloud](https://infcloud.hs-ldz.pl)
+
 ### Używanie
 
 W kliencie dodaj dwa konta, w obu przypadkach podaj swoją nazwę użytkownika i hasło, a jako adresy URL użyj:
