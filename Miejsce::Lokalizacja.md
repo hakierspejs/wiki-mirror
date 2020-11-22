@@ -53,9 +53,15 @@ budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i �
 
 * targ na placu Barlickiego – w halach są spożywczaki i piekarnie
 
-* przy pl. Barlickiego jest też Żabka
+* przy pl. Barlickiego jest też Żabka oraz długo otwarty niezależny spożywczak
 
-* Tesco na Gdańskiej 81 (8min spacerem)
+* Tesco na Gdańskiej 81 (8 min. spacerem)
+
+* najbliższy duży hipermarket to Auchan w Manufakturze – odległość 2,5 km autem, 2 km piechotą, komunikacją dojazd upierdliwy (najsensowniej chyba z buta do przystanku Gdańska/Zielona – 300 m, tramwajem do Gdańska/Legionów – 3 min., następnie piechotą do Manu – 250 m i przez całe Manu do Auchana – 500 m)
+
+* lepiej skomunikowany duży hipermarket – Auchan w Pasażu Łódzkim – 3 km autem, to samo piechotą; dojazd bezpośredni autobusem 65A
+
+* market budowlany – Leroy Merlin w Manufakturze (j.w. – fizycznie jest pod Auchanem); Castorama i Obi w pobliżu Pasażu Łódzkiego (także dojazd 65A)
 
 # Bankomaty
 
@@ -73,6 +79,17 @@ Są na Żeromskiego w kierunku placu Barlickiego.
 * [LOD10M, ul. Plac Barlickiego 5 (koło Małej)](https://inpost.pl/paczkomat-lodz-lod10m-plac-barlickiego-paczkomaty-lodzkie)
 * [LOD45M, ul. 6 sierpnia 29 (trochę dalej, koło Małej)](https://inpost.pl/paczkomat-lodz-lod45m-6-sierpnia-paczkomaty-lodzkie)
 * [LOD25N, ul. Gdańska 81 (najdalej)](https://inpost.pl/paczkomat-lodz-lod25n-gdanska-paczkomaty-lodzkie)
+
+# Gastronomia
+
+## Kebab
+Za rogiem, na Żeromskiego, niemal na wprost rynku, jest lokal z kebabem – podróba Zahira (bodaj Friends Kebab). Nie jest może najlepsze, ale jest zjadliwe.
+
+## Chińczyk
+
+## Pizza
+
+## Dania kuchni polskiej
 
 # Pub
 
