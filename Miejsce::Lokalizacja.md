@@ -61,7 +61,7 @@ budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i �
 
 * lepiej skomunikowany duży hipermarket – Auchan w Pasażu Łódzkim – 3 km autem, to samo piechotą; dojazd bezpośredni autobusem 65A
 
-* market budowlany – Leroy Merlin w Manufakturze (j.w. – fizycznie jest pod Auchanem); Castorama i Obi w pobliżu Pasażu Łódzkiego (także dojazd 65A)
+* market budowlany – Leroy Merlin w Manufakturze (j.w. – fizycznie jest pod Auchanem); Castorama i Obi w pobliżu Pasażu Łódzkiego (także dojazd 65A; ew. 65B, 86 lub tramwaj 12 z przesiadką na autobus 52 lub 93 przy dw. Kaliskim)
 
 # Bankomaty
 
