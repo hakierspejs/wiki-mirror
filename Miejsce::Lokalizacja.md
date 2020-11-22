@@ -59,9 +59,9 @@ budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i �
 
 * najbliższy duży hipermarket to Auchan w Manufakturze – odległość 2,5 km autem, 2 km piechotą, komunikacją dojazd upierdliwy (najsensowniej chyba z buta do przystanku Gdańska/Zielona – 300 m, tramwajem do Gdańska/Legionów – 3 min., następnie piechotą do Manu – 250 m i przez całe Manu do Auchana – 500 m)
 
-* lepiej skomunikowany duży hipermarket – Auchan w Pasażu Łódzkim – 3 km autem, to samo piechotą; dojazd bezpośredni autobusem 65A
+* lepiej skomunikowany duży hipermarket – Auchan w Pasażu Łódzkim – 3 km autem, to samo piechotą; dojazd bezpośredni autobusem 65A (ew. 65B, 86 lub tramwaj 12 z przesiadką na autobus 52 lub 93 przy dw. Kaliskim; aktualnie 65A jeździ co pół godziny)
 
-* market budowlany – Leroy Merlin w Manufakturze (j.w. – fizycznie jest pod Auchanem); Castorama i Obi w pobliżu Pasażu Łódzkiego (także dojazd 65A; ew. 65B, 86 lub tramwaj 12 z przesiadką na autobus 52 lub 93 przy dw. Kaliskim)
+* market budowlany – Leroy Merlin w Manufakturze (j.w. – fizycznie jest pod Auchanem); Castorama i Obi w pobliżu Pasażu Łódzkiego (taki sam dojazd)
 
 # Bankomaty
 
