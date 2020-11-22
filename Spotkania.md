@@ -28,6 +28,8 @@ Poniżej lista padów ze spotkań:
 
 [8 września 2020](https://pad.hs-ldz.pl/Ytyx1Z5aQYCIqoWmeAXlfA) – online: mumble
 
+17 września 2020 – spotkanie na żywo w Centrum Kreatywności Fabryka, brak pada
+
 [22 września 2020](https://pad.hs-ldz.pl/6wZMv-GoQ565rljTSEutrg) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
 
 [29 września 2020](https://pad.hs-ldz.pl/Zse2cj0kTxaB59X3GHyllw) – hybrydowo: lokalnie w lokalu Zielona 30 + zdalnie na Mumble
