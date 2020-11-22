@@ -47,7 +47,9 @@ Lokal znajduje się w sąsiedztwie placu Barlickiego – przy samym HS-ie mamy d
 * za niecały rok (prawdopodobnie wakacje 2021) w pobliżu (Zielona między Wólczańską a Zachodnią) zacznie się
 budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i Żabieńcem
 
-# Sklep spożywczy
+# Sklepy
+
+## Spożywcze
 
 * Biedro na Żeromskiego
 
@@ -61,7 +63,11 @@ budowa stacji na podziemnej linii kolejowej łączącej Fabryczny z Kaliskim i �
 
 * lepiej skomunikowany duży hipermarket – Auchan w Pasażu Łódzkim – 3 km autem, to samo piechotą; dojazd bezpośredni autobusem 65A – 10 min. (ew. 65B, 86 lub tramwaj 12 z przesiadką na autobus 52 lub 93 przy dw. Kaliskim; aktualnie 65A jeździ co pół godziny)
 
+## Inne
+
 * market budowlany – Leroy Merlin w Manufakturze (j.w. – fizycznie jest pod Auchanem); Castorama i Obi w pobliżu Pasażu Łódzkiego (taki sam dojazd)
+
+* market z elektroniką – najbliżej komunikacją: Saturn w Manufakturze, na drugim końcu Manufaktury jest RTV Euro AGD, ww. Pasażu Łódzkim także jest RTV Euro AGD; Media Markt w Galerii Łódzkiej, Media Expert w Sukcesji (aktualnie zamknięte z uwagi na bankructwo Sukcesji)
 
 # Bankomaty
 
