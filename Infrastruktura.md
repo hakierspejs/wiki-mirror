@@ -89,7 +89,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** Niemożliwa, wszystko na własnościowych serwerach Telegrama. Zmieniając główne narzędzie do komunikacji, tracimy jednocześnie sporo ludzi, którzy tylko lurkują. Na szczęście można przynajmniej wyeksportować historię kanału.
 
-**Kto kontroluje:** @d33tah, @kszmigiel, @BluRaf
+**Kto kontroluje:** @d33tah (właściciel), @kszmigiel, @BluRaf, @Martti25
 
 ## t.me/hakierspejs_spam
 
@@ -99,7 +99,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** To tylko kanał na shitposty.
 
-**Kto kontroluje:** @BluRaf, @d33tah
+**Kto kontroluje:** @d33tah (właściciel), @BluRaf, @kszmigiel, @kpc21
 
 ## t.me/hslodzbot
 
@@ -120,7 +120,7 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** -
 
-**Kto kontroluje:** @BluRaf
+**Kto kontroluje:** administratorzy: @ksiezak, @thinkofher; moderatorzy: @BluRaf
 
 ## hs-ldz-offtopic:hackerspace.pl
 
@@ -130,11 +130,11 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Migracja:** -
 
-**Kto kontroluje:** @BluRaf
+**Kto kontroluje:** administratorzy: @ksiezak, @thinkofher; moderatorzy: @BluRaf
 
 # IRC
 
-**Opis/zastosowanie:** Kanał IRC #hakierspejs dostępny w sieci Freenode (`chat.freenode.net`) zmostkowany z czatem na Telegramie.
+**Opis/zastosowanie:** Kanały IRC #hakierspejs oraz #hakierspejs-shitposts dostępny w sieci Freenode (`chat.freenode.net`) zmostkowany z czatem na Telegramie.
 
 **Koszty:** 0 zł / miesiąc
 
@@ -157,13 +157,13 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem, integrowanie poprzez wspólne programowanie.
 
-## Konfident
+## Lelegram (na shitpostach)
 
 **Opis/zastosowanie:** transport między Telegramem a IRC-em
 
 **Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera na innym serwerze z tym samym lub innym kluczem API.
 
-**Kto kontroluje:** @BluRaf
+**Kto kontroluje:** @d33tah
 
 # Hosting
 
