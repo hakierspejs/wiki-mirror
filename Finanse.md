@@ -49,6 +49,18 @@ Wydrukowane było [LOGO](https://github.com/hakierspejs/wiki/raw/master/media-w-
 
 ## Hosting
 
+# Przypomnienie o składkach
+
+Wiadomość wysyłana jest automatycznie co kilka dni przez program           
+"ksiemgowy". Adresatem są osóby, które przelały przynajmniej jedną składkę i  
+podały swój adres e-mail, ale potem nie przelały kolejnej przez ponad 35 dni. 
+Jeśli nie chcesz w przyszłości dostawać tego typu wiadomości, daj znać Jackowi
+przez Telegrama, Matriksa albo wyślij oddzielnego maila.                      
+                                                                              
+Przelewy ksiemgują się automatycznie, a czas ksiemgowania może wydłużyć       
+się do 7 dni. Z tego powodu, jeżeli niedawno poszedł od Ciebie przelew,       
+ale ciągle dostajesz te wiadomości, zignoruj je albo daj znać Jackowi.
+
 ---
 
 # Archiwum: plan
