@@ -8,7 +8,7 @@ Poniżej lista padów ze spotkań:
 
 ## Grudzień
 
-[1 grudnia 2021](https://pad.hs-ldz.pl/upuw-gnsS9O8MQ5ZRu0bYw) - zdalnie (mumble)
+[1 grudnia 2020](https://pad.hs-ldz.pl/upuw-gnsS9O8MQ5ZRu0bYw) - zdalnie (mumble)
 
 ## Listopad
 
