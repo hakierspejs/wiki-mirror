@@ -1,5 +1,7 @@
 [**WĄTEK NA FORUM – CALL FOR EQUIPMENT**](https://forum.hs-ldz.pl/t/call-for-equipment/81/4) - tam można się zgłaszać, jeśli ktoś ma coś do zaoferowania/przywiezienia.
 
+[**Chciejlista**](https://pad.hs-ldz.pl/zJTFVOuMSLCqr8MAXqGnjQ#) na naszym padzie
+
 Things to do/think of:
 - prąd 16A 3 fazy 
 - ogrzewanie [w lokalu nie ma c.o.]
