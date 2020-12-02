@@ -114,6 +114,12 @@ Poniżej lista padów ze spotkań:
 
 [25 lutego 2020](https://pad.hskrk.pl/p/hslodz-25lut2020) -  OPUS
 
+## Styczeń
+
+15 stycznia 2020 - na żywo, Eclipse
+
+29 stycznia 2020 - na żywo, 6 Dzielnica
+
 ***
 
 # Miejsca
