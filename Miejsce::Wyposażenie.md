@@ -8,7 +8,7 @@ Things to do/think of:
   - ciepło od serwera
   - kujaw zaoferował farelkę
   - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
-    - są już chyba trzy, ale bezpiecznik jest tylko 6A
+    ~~są już chyba trzy, ale bezpiecznik jest tylko 6A~~
 - aranżacja wnętrza
 - meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
@@ -33,7 +33,7 @@ Things to do/think of:
       - czy działa?
     - przydałaby się taka do kuchni
       - ~~j.w. może ktoś ma niepotrzebną?~~ przywieziona mały Haier
-    - ~~czajnik~~ jest
+    - czajnik jest
     - "gary" tzn. kubki, szklanki, talerze itp. -> są kubki
       - 1 talerzyk
       - 1 słoik
