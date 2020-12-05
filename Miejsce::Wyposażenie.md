@@ -19,8 +19,8 @@ Things to do/think of:
       - udało się złożyć 2 regały i skonstruować wielki stół; zostało jeszcze sporo płyt meblowych (MDF), z których jeszcze pewnie dałoby się coś wyrzeźbić
     - meble od kpc
       - mamy 3 krzesła na kółkach przywiezione przeze mnie ~kpc i chyba trzy albo cztery krzesła stacjonarne, przywiezione chyba przez nuke'a
-  - rzeczy wystawiane za darmo/za niskie kwoty na OLX
         - instrukcja obsługi, bo nieoczywiste: https://www.profim.pl/download/direct/045d0c18715ebb56ad97e632a7d2eb13
+  - rzeczy wystawiane za darmo/za niskie kwoty na OLX
     - [jest tego sporo, szczególnie jeśli chodzi o kanapy i fotele](https://www.olx.pl/dom-ogrod/meble/lodz/?search[filter_float_price%3Ato]=10)
   - transport
     - kto ma duże auto?
