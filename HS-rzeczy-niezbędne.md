@@ -2,7 +2,7 @@ Jest to lista rzeczy, które są niezbędne do tego by z HS-u można było korzy
 
 # Remonty
 
-- [ ] elektrozamek lub jakaś alternatywa
+- [v] elektrozamek lub jakaś alternatywa
 - [x] zrobienie czegoś z podłogą
 - [ ] uziemienie gniazdek elektrycznych
 
