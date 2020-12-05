@@ -12,6 +12,9 @@
   * [[Finanse]]
   * [[Forma prawna]]
   * [[Infrastruktura]]
+
+    * [[Sieć]]
+
   * [[Kontakt]]
   * [[Współdzielony kalendarz i lista kontaktów]]
 
