@@ -5,13 +5,15 @@
 Things to do/think of:
 - prąd 25A 3 fazy (tzn. 75A łącznie) [legrand Rx3 25C](https://i.imgur.com/c1O0dQ3.jpg)
 
-- ogrzewanie [w lokalu nie ma c.o.]
+## Ogrzewanie [w lokalu nie ma c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
   - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
     ~~są już chyba trzy, ale bezpiecznik jest tylko 6A~~
-- aranżacja wnętrza
-- meble
+
+## aranżacja wnętrza
+
+## meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
     - nuke ma 4 krzesła biurowe, stare, ale w dobrym stanie
     - kujaw zaoferował wieszak ścienny na ubrania
@@ -27,7 +29,8 @@ Things to do/think of:
       - kejdżo, njuk
       - czy ma tak duże, by weszła kanapa?
       - albo przyczepkę?
-- sprzęty "bytowe"
+
+## sprzęty "bytowe"
   - lodówka
     - na wyposażeniu jest taka sklepowa do napojów
       - trzeba umyć
@@ -49,13 +52,18 @@ Things to do/think of:
     - elektronarzędzia (coby nie przyjeżdżać ze swoją wiertarką, jak trzeba będzie dziurę wywiercić)
     - narzędzia ręczne (młotki, klucze, śrubokręty, piły, pilniki...)
       - do wykorzystania także w ramach prac nad projektami i w ogóle w bieżącej działalności HS-u
+
+## BHP
+
 - apteczka pierwszej pomocy
 - gaśnca p/poż -- jest na wyposażeniu typu ABC
-- internet
-  - zgodnie z rekonesansem d33taha, dostępna jest Toya -> wentylacją wchodzi jakiś koncentryk 75 ohm jak do telewizji, to chyba tym by szła ta Toya
-    - czy można zawrzeć umowę bezterminową/na krótki okres?
-      - jeśli nie, to przy przeprowadzce będziemy mieć problem, będziemy musieli szukać lokali z dostępną Toyą albo zabulić za przedterminowe zerwanie umowy
-- sprzęty "HS-owe"
+
+## internet
+
+  - mamy umowę podpisaną na Nuke'a, Toya 100mbps
+
+## sprzęty "HS-owe"
+  - [[Serwer Fujitsu|Miejsce::Wyposażenie::Serwer Fujitsu]]
   - __listwy zasilające__
   - ~~rzutnik~~ podarowany przez HS-Krk
   - infrastruktura sieciowo-serwerowa
@@ -73,9 +81,14 @@ Things to do/think of:
     - d33tah: mam do przywiezienia parę mikrokontrolerów z badge'y z konferencji
   - jakieś audio (wzmacniacz, kolumny)
   - inne?
-- kontrola dostępu
-  - BluRaf wyrzeźbił coś kiedyś na NFC UID dla Pokładu
-- inne (są)
+
+## kontrola dostępu
+  - Elektrozamek (TODO: udokumentować)
+
+## inne
+
+Rzeczy które mamy po poprzednim użytkowniku lokalu:
+
   - 2 manekiny
   - 2 podświetlane reklamy Heyah
   - 1 podświetlana reklama Ery Tak Tak
