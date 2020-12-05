@@ -3,7 +3,7 @@
 [**Chciejlista**](https://pad.hs-ldz.pl/zJTFVOuMSLCqr8MAXqGnjQ#) na naszym padzie
 
 Things to do/think of:
-- prąd 16A 3 fazy 
+- prąd 25A 3 fazy (legrand Rx3 25C)  
 - ogrzewanie [w lokalu nie ma c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
