@@ -1,4 +1,4 @@
-# Adresacja IPv4
+## Adresacja IPv4
 W ramach [HSWAN](https://wiki.hackerspace.pl/projects:hswan) dysponujemy adresacją 10.14.0.0/16.
 
 Aktualnie używany subnet: 10.14.22.0/16
@@ -14,5 +14,5 @@ Przeznaczenie adresacji:
   - 10.14.22.13 - zamek (tasmota)
 * 10.14.22.20 – 10.14.22.245 – DHCP
 
-## OpenVPN
+### OpenVPN
 * 10.21.37.0/24
