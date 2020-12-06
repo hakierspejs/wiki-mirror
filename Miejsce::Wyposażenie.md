@@ -8,8 +8,7 @@ Things to do/think of:
 ## Ogrzewanie [w lokalu nie ma c.o.]
   - ciepło od serwera
   - kujaw zaoferował farelkę
-  - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
-    ~~są już chyba trzy, ale bezpiecznik jest tylko 6A~~
+  - na miejscu są trzy, aczkolwiek tylko dwie działają
     - jedna ma zepsuty wentylator, trzeba ją zdebugować i ew. naprawić; po jakimś czasie pracy po jej włączeniu, szczególnie przy ustawieniu na większą moc, ona się wyłącza, prawdopodobnie poprzez zabezpieczenie termiczne
 
 ## aranżacja wnętrza
@@ -38,7 +37,7 @@ Things to do/think of:
       - ile to żre?
       - czy działa?
     - przydałaby się taka do kuchni
-      - ~~j.w. może ktoś ma niepotrzebną?~~ przywieziona mały Haier
+      - przywieziona mały Haier
     - czajnik jest
     - "gary" tzn. kubki, szklanki, talerze itp. -> są kubki
       - 1 talerzyk
@@ -49,7 +48,7 @@ Things to do/think of:
       - 3 noże
       - 1 łyżka
       - 1 deska do krojenia plastikowa
-    - ~~odkurzacz i inne akcesoria do utrzymania czystości~~ są, kwestia ewentualnego uzupełnienia braków, i trzeba kupić worki i filtry do odkurzacza
+    - odkurzacz i inne akcesoria do utrzymania czystości: są, kwestia ewentualnego uzupełnienia braków, i trzeba kupić worki i filtry do odkurzacza
     - elektronarzędzia (coby nie przyjeżdżać ze swoją wiertarką, jak trzeba będzie dziurę wywiercić)
     - narzędzia ręczne (młotki, klucze, śrubokręty, piły, pilniki...)
       - do wykorzystania także w ramach prac nad projektami i w ogóle w bieżącej działalności HS-u
@@ -76,11 +75,7 @@ Things to do/think of:
     - ~~router/firewall na brzeg?~~
       - z braku laku jakieś pfSense?
     - access point do wifi?
-  - ~~szpeje do elektroniki~~
-    - ~~Kacper Szmigiel zaoferował się dostarczyć swoje~~
-      - ~~czy to aktualne?~~
     - d33tah: mam do przywiezienia parę mikrokontrolerów z badge'y z konferencji
-  - ~~jakieś audio (wzmacniacz, kolumny)~~
   - inne?
 
 ## kontrola dostępu
@@ -93,7 +88,7 @@ Rzeczy które mamy po poprzednim użytkowniku lokalu:
   - 2 manekiny
   - 2 podświetlane reklamy Heyah
   - 1 podświetlana reklama Ery Tak Tak
-  - ~~1 czajnik. elektryczny~~ wywalony ze względu na przeciek, ale kupiony nowy
+  - 1 czajnik. elektryczny
   - 1 lustro wysokie pokojowe
   - tester do kabli RJ-45 i BNC
   - dużą liczbę telefonów stacjonarnych DECT
