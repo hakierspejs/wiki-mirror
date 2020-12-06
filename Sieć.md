@@ -16,3 +16,6 @@ Przeznaczenie adresacji:
 
 ### OpenVPN
 * 10.21.37.0/24
+
+## Topologia
+![Topologia sieci](https://raw.githubusercontent.com/hakierspejs/wiki/master/media-w-wiki/HS-schemat.svg)
