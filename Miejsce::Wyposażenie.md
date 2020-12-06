@@ -10,6 +10,7 @@ Things to do/think of:
   - kujaw zaoferował farelkę
   - na miejscu ~~jest już jedna farelka~~ są ~~dwie~~ trzy, aczkolwiek ~~nie były jeszcze testowane~~ dwie były i działają
     ~~są już chyba trzy, ale bezpiecznik jest tylko 6A~~
+    - jedna ma zepsuty wentylator, trzeba ją zdebugować i ew. naprawić; po jakimś czasie pracy po jej włączeniu, szczególnie przy ustawieniu na większą moc, ona się wyłącza, prawdopodobnie poprzez zabezpieczenie termiczne
 
 ## aranżacja wnętrza
 
