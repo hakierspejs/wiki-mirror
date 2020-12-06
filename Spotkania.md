@@ -9,6 +9,7 @@ Poniżej lista padów ze spotkań:
 ## Grudzień
 
 [1 grudnia 2020](https://pad.hs-ldz.pl/upuw-gnsS9O8MQ5ZRu0bYw) - zdalnie (mumble)
+
 [5 grudnia 2020](https://pad.hs-ldz.pl/U-wbSoROQKmT6PrpRyPdcg) - w siedzibie (hacksobota)
 
 ## Listopad
