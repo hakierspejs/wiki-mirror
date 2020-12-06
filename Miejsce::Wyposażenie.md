@@ -3,7 +3,7 @@
 [**Chciejlista**](https://pad.hs-ldz.pl/zJTFVOuMSLCqr8MAXqGnjQ#) na naszym padzie
 
 Things to do/think of:
-- prąd 25A 3 fazy (tzn. 75A łącznie) [legrand Rx3 25C](https://i.imgur.com/c1O0dQ3.jpeg)
+- ~~prąd 25A 3 fazy (tzn. 75A łącznie)~~ [legrand Rx3 25C](https://i.imgur.com/c1O0dQ3.jpeg)
 
 ## Ogrzewanie [w lokalu nie ma c.o.]
   - ciepło od serwera
@@ -72,18 +72,18 @@ Things to do/think of:
         - kwestia wyciszenia
           - kujaw zaoferował panele akustyczne
         - aspekt energetyczny... jak mamy się grzać farelką, to ciągnący tyle samo prądu serwer w zasadzie będzie produkował tak samo dużo ciepła, jak ta farelka
-    - router/firewall na brzeg?
+    - ~~router/firewall na brzeg?~~
       - z braku laku jakieś pfSense?
     - access point do wifi?
-  - szpeje do elektroniki
-    - Kacper Szmigiel zaoferował się dostarczyć swoje
-      - czy to aktualne?
+  - ~~szpeje do elektroniki~~
+    - ~~Kacper Szmigiel zaoferował się dostarczyć swoje~~
+      - ~~czy to aktualne?~~
     - d33tah: mam do przywiezienia parę mikrokontrolerów z badge'y z konferencji
-  - jakieś audio (wzmacniacz, kolumny)
+  - ~~jakieś audio (wzmacniacz, kolumny)~~
   - inne?
 
 ## kontrola dostępu
-  - Elektrozamek (TODO: udokumentować)
+  - ~~Elektrozamek~~ (TODO: udokumentować)
 
 ## inne
 
@@ -92,5 +92,13 @@ Rzeczy które mamy po poprzednim użytkowniku lokalu:
   - 2 manekiny
   - 2 podświetlane reklamy Heyah
   - 1 podświetlana reklama Ery Tak Tak
-  - 1 czajnik. elektryczny
+  - ~~1 czajnik. elektryczny~~ wywalony ze względu na przeciek, ale kupiony nowy
   - 1 lustro wysokie pokojowe
+  - tester do kabli RJ-45 i BNC
+  - dużą liczbę telefonów stacjonarnych DECT
+  - lodówka z szybą
+  - serwer wydruku LPT + kable LPT
+  - sporo różnego rodzaju kabli (w tym zasilające do PC, jakieś kawałki koncentryka, elektryczne instalacyjne)
+  - karta rozszerzeń akceleratora VPN do starych firewalli CheckPointa (VPN-1)
+  - radiomagnetofon z CD
+  - odkurzacz
