@@ -20,7 +20,7 @@ Linux:
 - [MineTime](https://minetime.ai/) (niestety closed-source 😔 )
 
 Klient webowy:
-- [Nasz InfCloud](https://infcloud.hs-ldz.pl)
+- __[Nasz InfCloud](https://infcloud.hs-ldz.pl)__
 
 ### Używanie
 
