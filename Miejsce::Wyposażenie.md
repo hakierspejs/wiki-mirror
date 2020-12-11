@@ -57,6 +57,7 @@ Things to do/think of:
   - mamy umowę podpisaną na Nuke'a, Toya 100mbps
 
 ## sprzęty "HS-owe"
+  - mamy dwie kolumny Altus, podłączone do wzmacniacza + kabel minijack (całość już działa)
   - [[Serwer Fujitsu|Miejsce::Wyposażenie::Serwer Fujitsu]]
   - __listwy zasilające__
   - rzutnik => został podarowany przez HS-Krk
