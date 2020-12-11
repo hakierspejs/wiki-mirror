@@ -14,6 +14,7 @@
   * [[Infrastruktura]]
     * [[Sieć]]
   * [[Kontakt]]
+  * [[Onboarding]]
   * [[Współdzielony kalendarz i lista kontaktów]]
 
 * [[Miejsce|Miejsce::Miejsce]]
