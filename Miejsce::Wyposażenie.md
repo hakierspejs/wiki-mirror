@@ -15,13 +15,8 @@ Things to do/think of:
 
 ## meble
   - czy ktoś nie ma niepotrzebnych mebli typu: fotele, kanapy, stoły, krzesła, szafki?
-    - nuke ma 4 krzesła biurowe, stare, ale w dobrym stanie
     - kujaw zaoferował wieszak ścienny na ubrania
-    - na miejscu jest coś, co wygląda jak jakieś rozłożone szafki lub biurka, trzeba spróbować to złożyć
-      - udało się złożyć 2 regały i skonstruować wielki stół; zostało jeszcze sporo płyt meblowych (MDF), z których jeszcze pewnie dałoby się coś wyrzeźbić
-    - meble od kpc
-      - mamy 3 krzesła na kółkach przywiezione przeze mnie ~kpc i chyba trzy albo cztery krzesła stacjonarne, przywiezione chyba przez nuke'a
-        - instrukcja obsługi, bo nieoczywiste: https://www.profim.pl/download/direct/045d0c18715ebb56ad97e632a7d2eb13
+    - instrukcja obsługi do foteli, bo nieoczywiste: https://www.profim.pl/download/direct/045d0c18715ebb56ad97e632a7d2eb13
   - rzeczy wystawiane za darmo/za niskie kwoty na OLX
     - [jest tego sporo, szczególnie jeśli chodzi o kanapy i fotele](https://www.olx.pl/dom-ogrod/meble/lodz/?search[filter_float_price%3Ato]=10)
   - transport
@@ -36,19 +31,18 @@ Things to do/think of:
       - trzeba umyć
       - ile to żre?
       - czy działa?
-    - przydałaby się taka do kuchni
-      - przywieziona mały Haier
+    - jest od Marti taka mała do kuchni (Haier)
     - czajnik jest
     - "gary" tzn. kubki, szklanki, talerze itp. -> są kubki
       - 1 talerzyk
       - 1 słoik
       - 2 filiżanki
-      - 2 kubki
+      - kilka kubków
       - 1 słoik do napojów
       - 3 noże
       - 1 łyżka
       - 1 deska do krojenia plastikowa
-    - odkurzacz i inne akcesoria do utrzymania czystości: są, kwestia ewentualnego uzupełnienia braków, i trzeba kupić worki i filtry do odkurzacza
+    - odkurzacz i inne akcesoria do utrzymania czystości: są, kwestia ewentualnego uzupełnienia braków, są worki (co filtrami do odkurzacza?)
     - elektronarzędzia (coby nie przyjeżdżać ze swoją wiertarką, jak trzeba będzie dziurę wywiercić)
     - narzędzia ręczne (młotki, klucze, śrubokręty, piły, pilniki...)
       - do wykorzystania także w ramach prac nad projektami i w ogóle w bieżącej działalności HS-u
@@ -65,7 +59,7 @@ Things to do/think of:
 ## sprzęty "HS-owe"
   - [[Serwer Fujitsu|Miejsce::Wyposażenie::Serwer Fujitsu]]
   - __listwy zasilające__
-  - ~~rzutnik~~ podarowany przez HS-Krk
+  - rzutnik => został podarowany przez HS-Krk
   - infrastruktura sieciowo-serwerowa
     - HS-Waw (q3k) zaoferował nam serwer blade Dell M1000e z 16x M610
       - to jest głośne i ciągnie dużo prądu
