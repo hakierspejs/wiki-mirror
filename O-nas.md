@@ -4,7 +4,7 @@ Hakierspejs to przestrzeń na realizację różnego rodzaju kreatywnych projekt�
 
 # Jak dołączyć do HS?
 
-Na ten moment, póki nie mamy ustalonej oficjalnej formy prawnej – a co za tym idzie, również stałego miejsca działania – do HS'u nie da się „dołączyć”, za to można go tworzyć razem z Nami poprzez spotkania i wspólne projekty. Dołącz na Telegramie, IRC-u, zapisz się na listę mailingową i zaangażuj się! Ciągle jesteśmy na początkowym etapie egzystencji, jednak mamy już grupę ludzi, którzy tworzą aktywną społeczność i której możesz być częścią.
+Na ten moment, póki nie mamy ustalonej oficjalnej formy prawnej, do HS'u nie da się „dołączyć”, za to można go tworzyć razem z Nami poprzez spotkania i wspólne projekty. Dołącz na Telegramie, IRC-u, zapisz się na listę mailingową i zaangażuj się! Ciągle jesteśmy na początkowym etapie egzystencji, jednak mamy już grupę ludzi, którzy tworzą aktywną społeczność i której możesz być częścią.
 
 # Kiedy powstał Hakierspejs?
 
