@@ -1,2 +1,2 @@
-## [[Checklista nowego projektu|Nowy projekt: checklista]]
+## [[Checklista dla nowych projektów|Nowy projekt: checklista]]
 ## [[HS rzeczy niezbędne]]
