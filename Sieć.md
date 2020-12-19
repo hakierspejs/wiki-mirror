@@ -12,6 +12,7 @@ Przeznaczenie adresacji:
   - 10.14.22.11 - homeassistant (hs-rpi1)
   - 10.14.22.12 - at (hs-rpi2)
   - 10.14.22.13 - zamek (tasmota)
+  - 10.14.22.14 - mikrotik
 * 10.14.22.20 – 10.14.22.245 – DHCP
 
 ### OpenVPN
