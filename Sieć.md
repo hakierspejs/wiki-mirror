@@ -1,7 +1,7 @@
 ## Adresacja IPv4
 W ramach [HSWAN](https://wiki.hackerspace.pl/projects:hswan) dysponujemy adresacją 10.14.0.0/16.
 
-Aktualnie używany subnet: 10.14.22.0/16
+Aktualnie używany subnet: 10.14.22.0/24
 
 Przeznaczenie adresacji:
 * 10.14.22.1 – 10.14.22.9 – infra sieciowa:
