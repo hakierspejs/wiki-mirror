@@ -4,10 +4,16 @@ Celem tej strony jest zebranie wiedzy, która może nie być oczywista dla nowyc
 
 ## Czynności jednorazowe
 
+### Online
+
 - [ ] Zasubskrybuj się na naszej liście mailingowej: https://lista.hs-ldz.pl/ (na samym dole)
 - [ ] Załóż konto na at.hs-ldz.pl i zarejestruj swoje urządzenia
 - [ ] Załóż konto w [naszym kalendarzu](https://wiki.hs-ldz.pl/Wsp%C3%B3%C5%82dzielony-kalendarz-i-lista-kontakt%C3%B3w)
+
+### Już w spejsie
+
 - [ ] Przy pierwszej wizycie w spejsie sparuj wszystkie swoje urządzenia z naszym Wi-Fi
+- [ ] Załóż sobie pudełko członkowskie
 
 ## Przy każdej wizycie
 
