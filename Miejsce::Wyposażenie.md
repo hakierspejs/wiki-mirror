@@ -59,6 +59,7 @@ Things to do/think of:
 ## sprzęty "HS-owe"
   - mamy dwie kolumny Altus, podłączone do wzmacniacza + kabel minijack (całość już działa)
   - [[Serwer Fujitsu|Miejsce::Wyposażenie::Serwer Fujitsu]]
+  - [[Serwer Dell|Miejsce::Wyposażenie::Serwer Dell]]
   - __listwy zasilające__
   - rzutnik => został podarowany przez HS-Krk
   - infrastruktura sieciowo-serwerowa
