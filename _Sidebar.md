@@ -23,6 +23,8 @@
   * [[Wizja|Miejsce::Wizja]]
   * [[Wynajem|Miejsce::Wynajem]]
   * [[Wyposażenie|Miejsce::Wyposażenie]]
+    * [[Serwer Fujitsu|Miejsce::Wyposażenie::Serwer Fujitsu]]
+    * [[Serwer Dell|Miejsce::Wyposażenie::Serwer Dell]]
 
 * [[Projekty]]
 
