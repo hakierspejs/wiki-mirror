@@ -9,6 +9,8 @@ Celem tej strony jest zebranie wiedzy, która może nie być oczywista dla nowyc
 - [ ] Zasubskrybuj się na naszej liście mailingowej: https://lista.hs-ldz.pl/ (na samym dole)
 - [ ] Załóż konto na at.hs-ldz.pl i zarejestruj swoje urządzenia
 - [ ] Załóż konto w [naszym kalendarzu](https://wiki.hs-ldz.pl/Wsp%C3%B3%C5%82dzielony-kalendarz-i-lista-kontakt%C3%B3w)
+- [ ] Załóż konto na [forum](https://forum.hs-ldz.pl)
+- [ ] Załóż konto na [padzie](https://pad.hs-ldz.pl)
 
 ### Już w spejsie
 
