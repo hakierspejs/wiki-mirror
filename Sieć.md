@@ -7,6 +7,7 @@ Przeznaczenie adresacji:
 * 10.14.22.1 – 10.14.22.9 – infra sieciowa:
   - 10.14.22.1 – centralka
   - 10.14.22.2 - wiadro
+  - 10.14.22.3 – ramowy-zgred
 * 10.14.22.10 – 10.14.22.19 – lokalne usługi:
   - 10.14.22.10 - temp (hs-rpi0)
   - 10.14.22.11 - homeassistant (hs-rpi1)
