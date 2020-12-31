@@ -13,6 +13,7 @@
   * [[Forma prawna]]
   * [[Infrastruktura]]
     * [[Sieć]]
+    * [[WC]]
   * [[Kontakt]]
   * [[Onboarding]]
   * [[Współdzielony kalendarz i lista kontaktów]]
