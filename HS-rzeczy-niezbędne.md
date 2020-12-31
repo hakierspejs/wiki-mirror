@@ -15,12 +15,12 @@ Jest to lista rzeczy, które są niezbędne do tego by z HS-u można było korzy
 # Naprawy
 
 - [x] zamiana przyłącza elektrycznego na min. 3x16A (udało się 3x25A 😁 )
-- [ ] zawór napełniający do spłuczki (obecny popuszcza)
+- [v] zawór napełniający do spłuczki (obecny popuszcza)
 
 # Inne
 
 - [x] 2 porządniejsze listwy zasilające
-- [ ] worki i filtry do odkurzacza
+- [v] worki i filtry do odkurzacza
 - [ ] gąbki do mycia naczyń
 - [ ] szczotka ryżowa
 
