@@ -12,7 +12,7 @@
   * [[Finanse]]
   * [[Forma prawna]]
   * [[Infrastruktura]]
-    * [[Sieć]]
+    * [Sieć i serwery](https://github.com/hakierspejs/hakierspejs-netzwerk/wiki)
     * [[WC]]
   * [[Kontakt]]
   * [[Onboarding]]
