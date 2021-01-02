@@ -6,6 +6,10 @@
 
 # Przychody
 
+## Dashboard
+
+Mamy dashboard! URL to: https://lodz.hackerspace.pl/finanse.html
+
 ## Składki
 
 Zbieramy pieniądze na bieżącą oraz przyszłą działalność Hakierspejsu. Staramy się zebrać minimum 15 osób, które będą wpłacać po 100 zł miesięcznie, by było nas stać na [[miejsce|Miejsce::Miejsce]] (czynsz i media, w tym internet) oraz [[formę prawną|Forma prawna]] (księgowość itd).
