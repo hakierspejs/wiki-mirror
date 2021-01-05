@@ -6,6 +6,10 @@ Na każdym spotkaniu staramy się prowadzić notatki, w których zebrane są lu�
 
 Poniżej lista padów ze spotkań:
 
+## Styczeń
+
+[5 stycznia 2021](https://pad.hs-ldz.pl/WxQvpVTvSIW7taC56_9BkQ) – zdalnie (Mumbel)
+
 ## Grudzień
 
 [1 grudnia 2020](https://pad.hs-ldz.pl/upuw-gnsS9O8MQ5ZRu0bYw) - zdalnie (mumble)
