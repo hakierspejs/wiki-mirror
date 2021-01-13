@@ -8,9 +8,11 @@ Poniżej lista padów ze spotkań:
 
 ## Styczeń
 
-[12 stycznia 2021](https://pad.hs-ldz.pl/W021vXQoQh6vivtJ680KWg) - zdalnie (Mumbel)
-
 [5 stycznia 2021](https://pad.hs-ldz.pl/WxQvpVTvSIW7taC56_9BkQ) – zdalnie (Mumbel)
+
+[11 stycznia 2021](https://pad.hs-ldz.pl/cHnpTqcKREyNJrLi4TxUdQ) – w siedzibie (hacksobota w poniedziałek)
+
+[12 stycznia 2021](https://pad.hs-ldz.pl/W021vXQoQh6vivtJ680KWg) - zdalnie (Mumbel)
 
 ## Grudzień
 
