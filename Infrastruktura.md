@@ -15,30 +15,30 @@ Napisać:
 ## Komunikacja
 
  * Chaty:
-     * [[Infrastruktura::Telegram]]
-        * [[Infrastruktura::Mariuszbot]]
-     * [[Infrastruktura::IRC]]
-     * [[Infrastruktura::Matrix]]
- * [[Infrastruktura::Lista mailingowa]]
- * [[Infrastruktura::Forum]]
- * [[Infrastruktura::Mumble]]
+     * [[Telegram|Infrastruktura::Telegram]]
+        * [[Mariuszbot|Infrastruktura::Mariuszbot]]
+     * [[IRC|Infrastruktura::IRC]]
+     * [[Matrix|Infrastruktura::Matrix]]
+ * [[Lista mailingowa|Infrastruktura::Lista mailingowa]]
+ * [[Forum|Infrastruktura::Forum]]
+ * [[Mumble|Infrastruktura::Mumble]]
 
 ## Bazy danych
 
- * [[Infrastruktura::Pad]]
- * [[Infrastruktura::Grafana]]
+ * [[Pad|Infrastruktura::Pad]]
+ * [[Grafana|Infrastruktura::Grafana]]
 
 ## Marketing i media społecznościowe
 
- * [[Infrastruktura::Meetup]]
- * [[Infrastruktura::Facebook]]
- * [[Infrastruktura::Naklejki]]
+ * [[Meetup|Infrastruktura::Meetup]]
+ * [[Facebook|Infrastruktura::Facebook]]
+ * [[Naklejki|Infrastruktura::Naklejki]]
 
 ## Sieć i hosting
 
- * [[Infrastruktura::Domeny]]
- * [[Infrastruktura::Github]]
- * [[Infrastruktura::VM]]
+ * [[Domeny|Infrastruktura::Domeny]]
+ * [[Github|Infrastruktura::Github]]
+ * [[VM|Infrastruktura::VM]]
 
 # Infrastruktura do lokalu - plan szkieletowy, żeby wdrożenie było łatwiejsze
 
