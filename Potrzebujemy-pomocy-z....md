@@ -1,13 +1,5 @@
 # Potrzebujemy pomocy w kwestiach:
 
-## Prawnych
-
-Chcemy założyć stowarzyszenie, ale nie jesteśmy pewni, czy rozumiemy wszystkie
-konsekwencje. Przydałoby się też, żeby ktoś nam przejrzał statut, który
-napiszemy i zasugerował poprawki.
-
-Pytałem się w Urzędzie Miasta o możliwości pomocy prawnej. Zgodnie z uzyskanymi informacjami, jest możliwość uzyskania takiej pomocy poprzez punkty bezpłatnej pomocy prawnej. W tym celu należy zwrócić się do Zespołu ds. Nadzoru nad Stowarzyszeniami i Fundacjami w Wydziale Spraw Obywatelskich UMŁ -- tel. 42 638 46 01, ul. Sienkiewicza 5. ~kpc
-
 ## Rachunkowości
 
 Kiedy staniemy się stowarzyszeniem, będziemy potrzebowali pomocy z kwestiami
@@ -21,7 +13,7 @@ Przydałoby się mieć jakąś "pamiątkę" po naszych spotkaniach - informacj�
 ## Media (w tym social media)
 
 Potrzebujemy, żeby dowiedziało się o nas jak najwięcej hakerów z Łodzi
-i okolic. Od niedawna istniejemy również na Facebooku: https://fb.me/hakierspejs. 
+i okolic. Istniejemy m.in. na Facebooku: https://fb.me/hakierspejs. 
 Powinniśmy też odezwać się do uczelni i liceów i dać znać, że istniejemy.
 Fajnie byłoby też nawiązać lepszy kontakt z innymi HSami.
 
