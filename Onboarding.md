@@ -54,8 +54,9 @@ Obowiązują te same instrukcje co przy "zanim wyjdziesz" plus:
 
 * Wyłącz ogrzewanie (przełącznikiem na grzejniku, żeby dało się go zdalnie włączyć).
 * Sprawdź czy nie pozostawiasz zagrożenia dla innych, w szczególności pożarowego. Wyłącz sprzęt typu lutownice itd. Jeśli zamykasz spejs, nie zakładaj, że zrobił to ktoś inny.
-* Zakręć wodę (spłuczka nam wycieka).
-* Upewnij się, że nie zostawiasz w spejsie odpadów bio (przez kilka dni do wizyty następnej osoby może się z tego rozwinąć zaawansowana forma życia).
+* Zakręć wodę.
+* Wyrzuć odpady bio (przez kilka dni do wizyty następnej osoby może się z tego rozwinąć zaawansowana forma życia).
+* Upewnić się, że krata oraz drzwi frontowe są zamknięte.
 * Zgaś wszystkie światła (uwaga! jeden z przełączników jest za płatem drzwi zaraz przy wejściu, drugi to ten dalszy w głównym pokoju).
 * Zamknij spejs. Jeżeli od strony zewnętrznej spejsu nie da się otworzyć klamką, prawdopodobnie jest zamknięty prawidłowo. Poszarp trochę klamką przy testowym otwieraniu w każdym kierunku, żeby upewnić się że "języczek" zamka nie przeskoczy otwierając spejs wszystkim.
 
