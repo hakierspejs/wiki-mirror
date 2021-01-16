@@ -1,1 +1,1 @@
-[[Strona główna|Home]] **::** [[O nas]] **::** [[Organizacja]] **::** [[Miejsce|Miejsce::Miejsce]] **::** [[Projekty]] **::** [[Więcej]]
+[[Strona główna|Home]] **||** [[O nas]] **||** [[Organizacja]] **||** [[Miejsce|Miejsce::Miejsce]] **||** [[Projekty]] **||** [[Więcej]]
