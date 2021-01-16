@@ -1,17 +1,5 @@
 # Infrastruktura HSŁ - spis treści
 
-## Nowy wpis - szkielet
-
-Napisać:
-
-**Opis**
-
-**Koszty:**
-
-**Migracja:** __rozumiana zarówno jako zmiana providera jak i admina, jeśli zniknie__
-
-**Kto kontroluje:**
-
 ## Komunikacja
 
  * Chaty:
@@ -40,3 +28,17 @@ Napisać:
  * [[Github|Infrastruktura::Github]]
  * [[VM|Infrastruktura::VM]]
  * [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
+
+## Nowy wpis - szkielet
+
+Napisać:
+
+**Opis**
+
+**Koszty:**
+
+**Migracja:** __rozumiana zarówno jako zmiana providera jak i admina, jeśli zniknie__
+
+**Kto kontroluje:**
+
+
