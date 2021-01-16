@@ -11,7 +11,7 @@ się na spotkaniach otwartych.
 Pieniądze ze składek są przeznaczane na opłacenie naszych comiesięcznych
 kosztów, utrzymanie płynności oraz rozwój siedziby. Więcej informacji o
 naszych przychodach i wydatkach można znaleźć na
-[https://hs-ldz.pl/finanse.html](naszym dashboardzie).
+[naszym dashboardzie](https://hs-ldz.pl/finanse.html).
 
 ### Płacenie składek
 
