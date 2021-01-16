@@ -32,6 +32,11 @@
  * [[Infrastruktura::Strona HSŁ]]
  * [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
 
+## Siedziba
+
+ * [Zamek](https://github.com/hakierspejs/hsldz_totp_lock)
+ * [[Infrastruktura::Temperatura]]
+
 ## Nowy wpis - szkielet
 
 Napisać:
