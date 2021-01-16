@@ -2,7 +2,7 @@
 
 **TODO**: Jak wyglądają finanse HSWAW/HSWro/HSKrk/H3S?
 
-[Wpis na temat HSWAW.](https://lists.hackerspace.pl/mailman/private/waw/2020-March/050056.html)
+[Wpis na temat HSWAW.](https://lists.hackerspace.pl/hyperkitty/list/waw@lists.hackerspace.pl/thread/BZAY7SUE6NGAGBLGOOPAAIJJZKJEDFDJ/)
 
 # Przychody
 
