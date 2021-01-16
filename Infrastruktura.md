@@ -157,14 +157,6 @@ Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/ha
 
 **Opis/zastosowanie:** śmieszkowanie, update tematu na kanale, straszenie koronawirusem, integrowanie poprzez wspólne programowanie.
 
-## Lelegram (na shitpostach)
-
-**Opis/zastosowanie:** transport między Telegramem a IRC-em
-
-**Migracja:** hostowanie tego jest już rozgryzione, więc kwestia poświęcić 2-4h na odpalenie kontenera Dockera na innym serwerze z tym samym lub innym kluczem API.
-
-**Kto kontroluje:** @d33tah
-
 # Hosting
 
 **Opis/zastosowanie**: maszyna wirtualna hostowana przez Hackerspace Warszawa. Hostujemy na niej nasze projekty i usługi różnego typu, m.in.: Grafanę, CodiMD czy Discourse.
