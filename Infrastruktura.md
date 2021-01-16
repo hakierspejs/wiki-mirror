@@ -34,7 +34,7 @@
 
 ## Siedziba
 
- * [Zamek](https://github.com/hakierspejs/hsldz_totp_lock)
+ * [Zamek](https://github.com/hakierspejs/hsldz_totp_lock/tree/main/docs/) (**TODO: dopisać więcej**)
  * [[Infrastruktura::Temperatura]]
 
 ## Nowy wpis - szkielet
