@@ -39,7 +39,4 @@ Napisać:
  * [[Domeny|Infrastruktura::Domeny]]
  * [[Github|Infrastruktura::Github]]
  * [[VM|Infrastruktura::VM]]
-
-# Infrastruktura do lokalu - plan szkieletowy, żeby wdrożenie było łatwiejsze
-
-Przeniesione do [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
+ * [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
