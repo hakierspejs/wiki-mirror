@@ -29,7 +29,7 @@
 
 * [[Projekty]]
 
-  * [[Checklista|Nowy projekt: checklista]]
+  * [[Nowy projekt: checklista]]
   * [[HS rzeczy niezbędne]]
 
 * [[Więcej]]
