@@ -6,16 +6,6 @@ Aktualnie trwa remont i dyskusje związane z użyciem przestrzeni. Stan dyskusji
 
 https://forum.hs-ldz.pl/c/organizacyjne/siedziba/7
 
-# Archiwum: poszukiwanie lokalu
-
-Luźne notatki na temat poszukiwań lokalu.
-
-Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/lodz/2020-March/000030.html).
-
-[Lista lokali, które mogą nas interesować](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA).
-
-[Kwestionariusz z przykładowymi pytaniami do pierwszej rozmowy przez telefon](https://pad.hs-ldz.pl/s/ByqBEoxlP).
-
 # Klucze do spejsu
 
 Klucze do spejsu mają:
@@ -27,9 +17,14 @@ Klucze do spejsu mają:
 
 # Przed wyjściem ze spejsu
 
-1. posprzątać po sobie
-2. zakręcić wodę
-3. zgasić wszystkie światła (uwaga! jeden z przełączników jest za płatem drzwi zaraz przy wejściu, drugi to ten dalszy w głównym pokoju)
-4. wyrzucić śmieci, zwłaszcza jeśli to bio
-5. upewnić się, że krata oraz drzwi frontowe są zamknięte
-6. zamknąć główne drzwi tak jak opisała osoba, od której dostało się klucz
+Przeniesione do [[Onboarding#zamykanie-spejsu]].
+
+# Archiwum: poszukiwanie lokalu
+
+Luźne notatki na temat poszukiwań lokalu - zachowane, bo może jeszcze kiedyś będziemy szukać nowej siedziby.
+
+Dyskusja zaczęła się od tego [posta](https://lists.hackerspace.pl/pipermail/lodz/2020-March/000030.html).
+
+[Lista lokali, które mogą nas interesować](https://pad.hs-ldz.pl/INGeKWWPRoun6LFkGfFZjA).
+
+[Kwestionariusz z przykładowymi pytaniami do pierwszej rozmowy przez telefon](https://pad.hs-ldz.pl/s/ByqBEoxlP).
