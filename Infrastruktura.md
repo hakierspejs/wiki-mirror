@@ -16,6 +16,7 @@
  * [[Pad|Infrastruktura::Pad]]
  * [[Grafana|Infrastruktura::Grafana]]
  * [[Współdzielony kalendarz i lista kontaktów]]
+ * [[Infrastruktura::at]]
 
 ## Marketing i media społecznościowe
 
@@ -28,6 +29,7 @@
  * [[Domeny|Infrastruktura::Domeny]]
  * [[Github|Infrastruktura::Github]]
  * [[VM|Infrastruktura::VM]]
+ * [[Infrastruktura::Strona HSŁ]]
  * [hakierspejs-netzwerk/wiki](http://www.github.com/hakierspejs/hakierspejs-netzwerk/wiki)
 
 ## Nowy wpis - szkielet
