@@ -15,6 +15,7 @@
 
  * [[Pad|Infrastruktura::Pad]]
  * [[Grafana|Infrastruktura::Grafana]]
+ * [[Współdzielony kalendarz i lista kontaktów]]
 
 ## Marketing i media społecznościowe
 
