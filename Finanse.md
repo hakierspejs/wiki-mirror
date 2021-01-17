@@ -69,6 +69,31 @@ wydania pieniędzy, zastrzegając że weto ze strony któregokolwiek ze
 składkowiczów (w ciągu 24-72h, zależnie od sytuacji) doprowadzi do rozpoczęcia
 dyskusji, głosowania lub użycia miesięcznego budżetu 400zł od zarządu.
 
+Nie wszystkie pieniądze z konta HSŁ mogą być wydawane w tym trybie. Jako że
+nie da się przewidzieć z wyprzedzeniem ile pieniędzy dostaniemy w danym
+miesiącu ze składek ani na jakim poziomie będą nasze nieplanowane wydatki,
+staramy się budować rezerwę pieniędzy "nie do ruszenia". W statucie mamy
+zapisane że:
+
+> Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu
+> środków na kontach Stowarzyszenia wystarczającego na pokrycie stałych
+> zobowiązań Stowarzyszenia przez okres co najmniej trzech miesięcy.
+
+Z tego powodu staramy się pilnować aby wszystkie miesięczne wydatki stałe
+przemnożone przez jeden kwartał były odnotowane na naszej stronie internetowej.
+
+Trzeba też pamiętać, że niektóre nieplanowane wydatki wymagają dużego nakładu
+pieniędzy na początku. Przykładowo, gdybyśmy mieli teraz zmienić siedzibę,
+najprawdopodobniej pojawiłyby nam się następujące koszty:
+
+1. Wszelkie naprawy przywracające stan poprzedni lokalu (kilkaset złotych),
+2. Wynajęcie nowego lokalu, w tym opłacenie kaucji (parę tysięcy złotych),
+3. Remont nowego lokalu (parę tysięcy złotych),
+4. Przewiezienie rzeczy między siedzibami (kilkaset złotych).
+
+Z tego powodu optimum byłoby dążenie do rezerwowania 12-krotności miesięcznych
+kosztów i priorytetyzowanie planowalnych wydatków.
+
 ## Ksiemgowy
 
 Składki są automatycznie księgowanie przez projekt
