@@ -69,6 +69,8 @@ wydania pieniędzy, zastrzegając że weto ze strony któregokolwiek ze
 składkowiczów (w ciągu 24-72h, zależnie od sytuacji) doprowadzi do rozpoczęcia
 dyskusji, głosowania lub użycia miesięcznego budżetu 400zł od zarządu.
 
+### Rezerwy
+
 Nie wszystkie pieniądze z konta HSŁ mogą być wydawane w tym trybie. Jako że
 nie da się przewidzieć z wyprzedzeniem ile pieniędzy dostaniemy w danym
 miesiącu ze składek ani na jakim poziomie będą nasze nieplanowane wydatki,
@@ -93,6 +95,44 @@ najprawdopodobniej pojawiłyby nam się następujące koszty:
 
 Z tego powodu optimum byłoby dążenie do rezerwowania 12-krotności miesięcznych
 kosztów i priorytetyzowanie planowalnych wydatków.
+
+### Oszczędzanie a rezygnacja z subskrypcji
+
+Oczywiście opisane powyżej rozumowanie nie dotyczy to sytuacji gdy cięcie
+kosztów byłoby "wylewaniem dziecka z kąpielą", ale to zawsze najlepiej
+przedyskutować. Przykładowo, długo zastanawialiśmy się czy koszt około 40zł
+miesięcznie za obecność na meetup.com jest uzasadniony, czy
+też lepiej byłoby się z tej subskrypcji wycofać? Podobnie z wyborem konta
+bankowego: czy konto które ma niższe opłaty (miesięczne i/lub za przelew) jest
+zawsze lepsze niż droższe?
+
+Rzeczy które warto rozważyć przed podjęciem decyzji:
+
+1. Jak duża jest skala oszczędności/wydatku w skali roku? Jak przekłada się na
+ilość zbieranych składek 100zł?
+2. Co tak naprawdę zyskujemy lub tracimy? Czy może nam to przyciągnąć członków?
+
+Przykładowo: Meetup kosztuje około 500zł rocznie. Koszt ten "zwróci" nam się
+jeżeli przez ten czas zauważy nas chociaż jeden nowy członek HSŁ, który będzie
+opłacał składki 100zł przez 5 miesięcy. Podobnie jest z bankiem: droższy bank
+może wygodniej udostępniać nam bieżące informacje o otrzymywanych składkach,
+dzięki czemu jeżeli ktoś zalega z nimi - ksiemgowy automatycznie wyśle mu
+e-maila, potencjalnie oszczędzając HSŁ pieniądze jeżeli szybkie przypomnienie
+okaże się skuteczne.
+
+### Symulacja kosztów
+
+Raz na jakiś czas aktualizowany jest też arkusz kalkulacyjny z symulacją
+przychodów i kosztów HSŁ. Dzięki niemu można np. ustalić co działoby się
+z finansami organizacji, gdyby nasz budżet miesięczny przez dłuższy czas był
+"pod kreską":
+
+https://docs.google.com/spreadsheets/d/13wSrGyC35I6sExcASG-5LAAX1B-1KP9aOz2nt_m5Tns/edit
+
+Z symulacji można na przykład wywnioskować, że przy odpowiednio wysokim stanie
+konta, ujemny bilans przez kilka miesięcy można "przeżyć", co daje nam czas
+na ewentualną reakcję: próby przyciągnięcia większej ilości członków lub -
+jeśli to się nie uda - wypowiedzenia umowy najmu.
 
 ## Ksiemgowy
 
